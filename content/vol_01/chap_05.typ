@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(5, "Introduction")[
+#chapter(5, "The worst High School Introduction in the History of Anime")[
   After a while of sightseeing, Mona headed towards her class for the first
   period.
 
@@ -82,10 +82,10 @@
   "I’m Narumi Mona. My hobbies are watching TV and listening to music. I hope in
   the next three years, we can be good friends with each other."
 
-  "How generic."
+  _"How generic."_
 
-  "Everyone likes watching TV and listening to music, do you have anything
-  better to say about yourself."
+  _"Watching TV and listening to music? Do you have anything better to say about
+  yourself? Everyone find pleasure in doing those."_
 
   Mona’s own voices of self-criticism in her heads pulled her right back to her
   seat straight away.
@@ -102,7 +102,7 @@
   two choices. Either to deal with the troubles that their world brought upon,
   or to shut their mouths and keep silent.
 
-  As the world getting bigger and bigger, a human life became less and less
+  As the world getting wider and wider, a human life became less and less
   significant, and it had become increasingly harder for one to cope with the
   consequences of their words.
 
@@ -117,15 +117,137 @@
   mention topics like TV and music, which somewhat have an overlap with show
   business.
 
+  And before you argued with "but what she said were techincally correct", it is
+  important to note that: omitting key information was yet another way of
+  lying. It creates a false impression of you in the minds of others, and was
+  that the point of any attempt of lying in the first place?
+
   "Narumi Mona? Is she related with…"
 
   "She did mention that she had a younger sister, maybe she is actually…"
 
   Much to Mona’s surprise, she heard subtle chattering noises all around the
-  class. The noises were coming from different groups within her class, but it
-  was not loud enough for her to make sense of.
+  class. The noises were coming from different groups, but it was not loud
+  enough for her to make sense of.
 
   Though, what Mona cared about more is her embarrassing speech before her
   entire new class. This moment would probably go down as one of her worst event
   ever in her high-school life, haunting her for years to come.
+
+  The rest of homeroom went sluggishly passed as Mona was begging for time to
+  flow faster, so that she could go to the restroom or somewhere to hide her
+  embarassment. Following homeroom was the entrance ceremony, which was hosted
+  in the school auditorium.
+
+  After taking a quick visit to the restroom, Mona along with the rest of her
+  class gathered at the auditorium, waiting for the upcoming entrance
+  ceremony to start. Nothing much could be said for the whole event, however.
+
+  First, the Student Council President, _something something_ Arisa of class
+  2-B, had a brief speech along the lines of "I will make this school a
+  better place" and "Welcome fellow newcomers, I hope you will enjoy your stay
+  at Misuzu". Nothing too extraordinary, except for the unusual focus on
+  improving efficiency and productivity, so maybe she was planning to do
+  something related to this?
+
+  Then comes the Principal. His speech is basically the last year (which is also
+  similar to the year before) except for every occurences of last year is
+  replaced with this year.
+
+  While everything was happening, the audience were like a different world. It
+  was silent enough to not cause troubles, but it was because everyone was
+  staring at their phones or speaking extremely quietly. Effectively no one was
+  listening to what the people on the stage.
+
+  // yoooooooo suicide album odds&ends mentioned!!!!
+  But everything changed during the scholarship awarding ceremony. At the start
+  of each year, the most well-performing second-year and third-year students
+  were awarded a "special-grade extraordinary performance scholarship", limited
+  to only three best overall students of each grade. As a precursor to the grand
+  ceremony, the three first-year students with the highest entrance exam scores
+  were given a scholarship, and even though it was not as much as the real
+  one, it still worth a decent sum of money.
+
+  So in total, there were nine people who were worthy enough to stand on the
+  prestigious podium. They would become idolized and worshiped by the whole
+  school, which might seem like a dream come true but could also be a nuisance,
+  as well.
+
+  When the results were about announced, the whole auditorium went completely
+  silent, waiting for the names to be announced, though everything had been
+  already announced beforehand on the school website for a week or two. As
+  usual, Mona did not care much about the list, as she was no match to the most
+  elite students in her grade, while having no interest in those who were
+  talented in something not idol-related.
+
+  Though, she saw a familiar face: the pink-haired senior in the track team were
+  there. So she crying on the track was tears of happiness? Or maybe there was
+  // chat what the fuck is this
+  // is this B-san hide and seek?
+  // is this odds&ends (but that happens in this story lol)
+  something deeper?
+
+  Mona recalled that Vocaloid song of a girl who committed suicide despite
+  having perfect grades. It went with something like "I tried so hard to get
+  these results but at the end it all means nothing" or something edgy like
+  that. Surely, these edgy Vocaloid songs are not reality, right? It's just
+  projection of the song producers onto something the general public could
+  comprehend, right?
+
+  By the time she finished searching up the song on her phone, the ceremony has
+  ended. Those who were awarded stepped off the stage, and some
+  not-so-sure-what-role-they-have people made some speeches that, no one really
+  cared about, before the end was signaled.
+
+  Mona returned to her classroom and sat on her desk. It was time for lunch
+  break, so she took out her lunch box. Mona usually made
+  her own lunch box, but for the special occasion of her entering high school,
+  today's lunch was made by her dad.
+
+  _"Dad made this, so there should be nothing embarassing in here, right?"_
+
+  Mona’s dad was someone who she felt comfortable the most being around. Unlike
+  her mom and older sister who seemed to be full of energy 24/7, he was mostly a
+  // bruh
+  chill guy. In fact, Mona’s quiet nature was probably something she inherited
+  from her father.
+
+  Before opening the lunch box, Mona decided to take a quick look around to
+  ensure no one was looking at it.
+
+  Normally, no one would give any attention to her, but it seemed to be a
+  different situation today.
+
+  When she tried to check out her surroundings, she realized she was in a sticky
+  situation.
+
+  In front of her desk, there were two girls standing there.
+
+  Looking at her.
+
+  About to make contact with her.
+
+  _"When did they even come..."_
+
+  Not waiting for Mona's internal monologue, one of the two girls ignited a
+  conversation.
+
+  "Hey, Narumi-san, do you have a moment?"
+
+  // Being the queen of \#621,
+  // The girl had shoulder-length purple-tinted black hair that seemed to be
+  // treated with much care by its owner. Her eyes were full of friendliness, which
+  // seemed to calm Mona down a bit. By the look of things, she probably was
+  // someone really popular with everyone in class.
+  //
+  // Though Mona did not pay much attention in the self-introduction section, the
+  // overwhelming aura of this girl possessed was able to make Mona notice her and
+  // remembered her name. Kazugai Uta, was it?
+  //
+  // Standing beside her was another girl, possibly her friend maybe, with a
+  // ponytail brown hair and green ____ eyes. Her style resembled someone with some
+  // athletic interest, a rare kind in this institution.
+
+  Mona were frozen in place by the girl's question. "Did I cause trouble to
+  them somehow?" was the only thing going on her mind.
 ]

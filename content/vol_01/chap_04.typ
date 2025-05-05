@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(4, "The path of Spring")[
+#chapter(4, "On the cherry-colored pathway to school, Narumi Mona has high hopes for her future")[
   On the cherry-colored pathway, Mona would soon saw other students within her
   own ages walking along with her.
 
@@ -21,11 +21,11 @@
   And without any notable traits other than her profound admiration for idols,
   that was probably her best bet.
 
-  "No, I have to stay positive. If I got to college, I’ll have a high-paying
+  _"No, I have to stay positive. If I got to college, I’ll have a high-paying
   stable job, which can adequately fulfill my crippling idol addiction. Yep, I’m
   in this for the cash, I’ll just treat this like a stepping stone, nothing
   more. Once I got the job, I would no longer have to be chronically broke as I
-  am right now. Friends are unimportant, for now."
+  am right now. Friends are unimportant, for now."_
 
   They say money can buy anything except friends, but that seems to get more and
   more false with the world has been evolving right now. All sorts of drama on
@@ -56,8 +56,8 @@
   entirely her own identity, so to speak.
 
   // absolute suicide
-  _\@miyu425_: "Thanks for all your support! I’m in charge of Alice-chan in
-  ‘273.15°C’. \#27315c \#alice"
+  _\@miyu425: "Thanks for all your support! I’m in charge of Alice-chan in
+  ‘273.15°C’. \#27315c \#alice\_anime"_
 
   _"Wait, Miyutan got the main lead role for that anime? That’s impressive. She’s
   an idol, but she is absolutely nailing it as a seiyuu as well!"_
@@ -77,13 +77,13 @@
   After giving the so-called "Miyutan" a quick "Congratulations!", Mona
   continued her frenzy with another social media post.
 
-  \@coco2727: "Good morning everyone ☀️ It seems that all that fatigue from
-  yesterday’s live is all gone after a good night’s sleep 💪. Let’s rock hard
-  today as well, everyone 👊"
+  _\@coco2727: "Good morning everyone ☀️ It seems that all that fatigue from
+  yesterday’s live is all gone after a good night’s sleep 💪. Let’s rock har
+  today as well, everyone 👊"_
 
-  Along with the post is a selfie of a half-awake girl in bed. Her face was
-  mostly hidden by the ☀️ emoticon, but some facial features could still be
-  picked up.
+  Along with the post is a selfie of a half-awake girl in bed.
+  Her face was mostly hidden by the ☀️ emoticon,
+  but some facial features could still be picked up.
 
   "Your words and your face does not match at all!" Mona chuckled, accidentally
   slipped out her thoughts.
@@ -107,7 +107,7 @@
 
   There was that famous experiment of repeatedly turning on lights before
   feeding the dog makes it able to learn from the pattern. It seems that Mona
-  has developed a quite a similar habit with that tower.
+  has developed quite a similar habit with that tower.
 
   She turned off her phone and tucked it away in her school bag. It was then
   announced that the train was about to stop at the next station.
@@ -154,8 +154,8 @@
   as the results were already publicly announced on the Internet after the
   entrance exam finished grading.
 
-  "It’s still early, I might as well go see what is available on the school
-  campus…"
+  _"It’s still early, I might as well go see what is available on the school
+  campus…"_
 
   Located in the middle of the city, the school grounds of Misuzu were
   considerably more restricted when compared to other high schools. However,
@@ -172,6 +172,7 @@
   it was like to practice with these professional-like facilities, as well as
   confirming whether the infrastructure was really as great as she heard from
   social media. And she had nothing better to do, either. Maybe, by a miniscule
+  // dream
   amount of luck that was lower than the one in a billion chance that cheated
   speed runner got on their "legitimate" run, she would find a club that she’s
   genuinely interested in.
@@ -198,7 +199,7 @@
   it hard to see how she looked like exactly, so Mona could not quite make out
   how this girl looked like.
 
-  "So fast…"
+  _"So fast…"_
 
   As the girl came running closer to the stand where Mona was resting at, she
   could saw the rose-tinted braids of the girl. It was hard to judge whether
@@ -213,7 +214,7 @@
 
   But what Mona noticed left her speechless.
 
-  "Was she… crying?"
+  _"Was she… crying?"_
 
   As the girl ran past Mona, there were some sparkling drops left in her trail.
   Under the bright morning of spring, they sparkled before popping out of
@@ -222,9 +223,10 @@
   Mona could have mistaken the girl’s tear for her sweat, but her reddened eyes
   up close seemed to be on the verge of bursting into tears.
 
-  "It’s not my problem, anyway."
+  _"It’s not my problem, anyway."_
 
-  Mona tried to act nonchalant, but deep down she was genuinely curious.
+  Mona tried to act nonchalant, but deep down she was genuinely curious. What
+  could have happened to that girl?
 
   Mona froze as the silhouette of that girl disappeared into the fog. She
   shifted her gaze to the football team, one of its members seemed to be looking
@@ -253,28 +255,36 @@
   black-haired chick…"
 
   Mona took a quick glance of the two seniors talking, both with their eyes
-  fixated on a camera. Not sure how they could go and snap pictures of girls
-  using this camera, though.
+  fixated on a professional camera. Not sure how they could go and snap pictures
+  of girls using this without people noticing, though.
 
   "Dude, you are colorblind or what? Her hair is clearly purple, not black."
 
   "Bro, it clearly is black, I think you are the colorblind one."
 
   "Aight, let’s make a bet, if it’s purple then you owe me 200 yen. Just let me
-  pick the exact RGB values…"
+  pick the exact RGB values, and adjusting for gamma correction…"
 
   "Okay, but I’m sure that it’s NOT purple. Maybe it was kind of purplish, but
-  anyone would just say that it’s black."
+  anyone with a working eye would just say that it’s black."
 
-  Mona was baffled.
+  Mona was baffled by the sudden change of topic.
 
   "Just what are they talking about?"
 
-  A little bit ago, they were simply perverts. Nothing more, nothing less. Now,
-  they were the nerdy type of perverts, which made them even more dangerous.
+  A little bit ago, they were simply perverts who likes to snap pictures of cute
+  girls.
 
-  Though, she did want to see the picture to see whether the girl’s hair was
-  black or purple. Out of curiosity, that’s all.
+  Now, they were more like professional photographers who seemed to be more
+  well-versed in this field than most high school students, while being perverts
+  who likes to snap pictures of cute girls, at the same time.
+  Basically a nerdy type of perverts, which made their danger level orders of
+  magnitude higher.
+
+  Despite that, Mona still stood there and listened to their conversation. They
+  were too fixated on that mystery hair color to notice her presence, anyway.
+  And it's not like she wanted to see the picture to see for herself whether the
+  girl’s hair was black or purple. Right?
 
   "See! It’s black. The hue is not even purple."
 
@@ -291,6 +301,8 @@
   first-years to analyzing pixel values of a JPEG image, Mona found it more
   comfortable to listen at the two. What followed completely went over her head,
   though. She did recall that there were a lot of technical jargons, however.
+  The only thing Mona could comprehend was the final verdict: her hair color was
+  agreed to be more purplish than black.
 
   "Hmm, make sense. I guess that’s the baseball club’s CGI expert. Not that it
   really mattered much for baseball, though."
@@ -301,7 +313,7 @@
 
   "For real, she looks breedable as hell! Imagine going on a date with her, and
   she, shyly, cling onto your hand, with a pair of cute puppy eyes wanting us
-  two to hold hands. Just imagining how soft her hands gave me diabetes!"
+  two to hold hands. Just imagining how soft her hands were gave me diabetes!"
 
   The sudden change in topic completely ruined Mona’s mood. But that was not the
   end.
@@ -309,8 +321,9 @@
   "And then we went to a hotel or some kind after the date. When we entered the
   room, you noticed her innocent eyes looking up at you, as if she was asking
   "We are really doing this, right?" Afterward, you were unable to conceal the
-  lust and push her towards the bed, and we did it while holding hands. When I
-  inserted it in, she let out a loud but cute moan…"
+  lust and push her towards the bed, slowly removing the layers and reveal more
+  and more of her body, while she were increasingly embarassed. We did it while
+  holding hands, and when I inserted it in, she let out a loud but cute moan…"
 
   Mona walked away in silence, never to be seen at this place anymore.
 

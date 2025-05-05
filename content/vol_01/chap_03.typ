@@ -1,7 +1,7 @@
 #import "../../lib.typ": chapter
 
-#chapter(3, "A light breakfast")[
-  Narumi’s household is a pretty standard two-daughter family.
+#chapter(3, "Breakfast in the Narumi household")[
+  Narumi household is a pretty standard two-daughter family.
 
   Located in the outskirts of Tokyo, they were not the type of rich family who
   // yo absolute suicide????
