@@ -12,7 +12,7 @@
 # change count is divided by 2. Other than that, removed lines does not count
 # towards the total heuristic.
 #
-# This heurisitc is used in enforcement of the ConAct.
+# This heuristic is used in enforcement of the ConAct.
 
 print_usage() {
     echo "Usage:"
