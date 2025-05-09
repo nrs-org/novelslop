@@ -1,10 +1,17 @@
 #import "lib.typ": volume
 #set text(lang: "en")
-#set page(paper: "a5")
-#align(center, text(size: 1.5em)[*Hokori Takaki Idol: The Prologue*])
-#align(center)[This document is a draft! It contains the content of multiple
-  novel volumes. Illustrations are currently not available.]
+#set page(paper: "a5", numbering: "1")
+#align(
+  center,
+  [
+    #text(size: 1.5em)[
+      *Hokori Takaki Idol: The Prologue*
+    ]
 
+    This document is a draft! It contains the content of multiple
+    novel volumes. Illustrations are currently not available.
+  ],
+)
 #outline()
 
 #volume(1)[
