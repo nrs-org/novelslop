@@ -49,13 +49,16 @@
   "There was a selfie of hers taken with her little sister. It's quite old
   though. I was thinking you were mentioning that."
 
+  _"Little sister? She had one?... Wait, could she be?"_
+
   "Wait, show me that!" Mikoto voice became enthuastic all a sudden, "And do you
   know what that little sister's name was?"
 
   "Heh-, what's with the sudden change? And no, there was only a little photo."
 
   And that began the tale of Detective Nanba Mikoto along with her assistance,
-  Kazugai "Dr. Watson" Uta.
+  Kazugai "Dr. Watson" Uta, in search of the mysterious "little sister of Narumi
+  Sena".
 
   Ah, right, forgot to mention, but Narumi Sena was the model mentioned earlier.
   Ring some bells now?
@@ -269,7 +272,7 @@
   To be fair, according to what she said, Mikoto had been a Narumi Sena fan for
   quite a long time, much preceeding the magical rise to stardom. She was one of
   a few who followed Sena's SNS account, a small account of an inspiring model
-  on some corners of the Internet.
+  on some corners of the Internet. In other words, she was the real deal.
 
   She finally arrived at her request.
 
@@ -285,14 +288,13 @@
 
   When they were sad, she was also sad.
 
-  Throughout all those years, there was finally someone who understood her. Who
-  would never disregard her hobby as a creepy thing.
+  Throughout all those years, there was finally someone who understood her.
 
-  Regarding the whole "taking advantage" business,
-
-  If there is a girl in her class that turned out to be relatives to one of
-  her faves, she would do anything just to get a signature, going as far as
-  begging or licking the girl's feet just to get a simple stroke on a paper.
+  Regarding the whole "taking advantage" business, if there is a girl in her
+  class that turned out to be relatives to one of her faves, Mona would do
+  anything just to get a signature, going as far as begging or licking the
+  girl's feet just to get a simple stroke on a paper. Maybe not that extreme,
+  but well.
 
   “Okay, I will try to ask her.”
 
@@ -314,6 +316,7 @@
   all, not her gloomy sister who just had a terrible self-introduction Narumi
   Mona.
 
+  // #621 approves this line
   The warmth of human connections, even fake ones, were enough to fill her heart
   with joy.
 
@@ -326,11 +329,16 @@
   But she did not realize that while she was casually respond to her new
   classmates, she slipped out quite a lot of information.
 
-  And that information would be left unhearded for, except for one girl.
+  And that information would be left unnoticed by the crowd in front of Mona,
+  except for one girl.
+
+  The girl raised her voice amongst the chattering noises.
 
   "Narumi-san, I wonder..."
 
-  "What was it, Nanba-san?"
+  "What was it, Nanba-san?" Mona replied.
+
+  With a clear voice, Mikoto proceeded,
 
   “May I ask, Narumi-san, are you, by any chance, interested in idols?”
 ]
