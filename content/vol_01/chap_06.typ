@@ -40,8 +40,8 @@
   "The little sister of Narumi Sena? Who? The girl from that selfie?"
 
   That nickname she given to one of her future classmates slipped out of her
-  mouth when she was talking with Kazugai Uta, one of the few acquaintances of
-  hers that knew who "Narumi Sena" was.
+  mouth when she was talking with Kazugai Uta when they were going home,
+  one of the few acquaintances of hers that knew who "Narumi Sena" was.
 
   "It's just a inside joke of mine, haha..." Mikoto laughed, trying to cover up
   her lame joke, "Wait, what do you mean by _that selfie_?"
@@ -158,6 +158,7 @@
 
   After realizing Mona's slight discomfort from how tight the grip has come, Uta
   released her hands, trying to comfort the girl before her selfish request.
+  Well, not hers, but her friend's.
 
   Even more nervous than before, Mona gulped before saying in a quieter voice
   than before, "Uhm, what is it?"
@@ -211,7 +212,7 @@
   fit every job she was having.
 
   In other words, Narumi Sena was the Cinderella that became a princess just
-  after a miraculous night.
+  after a miraculous night. All of this just happened in this March, too.
 
   Though Mona knew all of this, she was not aware of the consequences of her
   sister’s popularity, and how it would affect her own life.
@@ -230,7 +231,8 @@
   During that time, Uta and Mikoto had traded eye contact a couple of times. Uta
   gave something like "Wait, did I do something wrong?", which was answered by a
   gaze that communicated "I don't know, what should we do?", followed by a "I
-  don't know" gaze from Uta.
+  don't know" gaze from Uta, disappointed with her friend's uselessness in social
+  situations.
 
   "Narumi-san, are you okay?" Uta, whose question had been left unanswered for
   quite a while, worryingly asked Mona, who was still lost in her thoughts, "If
@@ -242,10 +244,11 @@
   "Really?"
 
   Mikoto unexpected jump into the conversation, leaving Mona even more
-  speechless than before.
+  speechless than before. If you could not count, then this was the third time
+  now.
 
-  Poor girl. Her mind could not withstand the chain of events unfolding before
-  her very own eyes.
+  Poor girl. Her mind could not withstand the chain of complex events unfolding
+  before her very own eyes.
 
   Uta's overwhelming presence almost made Mona forget that there was yet another
   girl standing in front of her.

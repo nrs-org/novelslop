@@ -14,7 +14,8 @@
   // work on this lil bro
   "Well, it's just a hunch of mine, so maybe it's not true at all... But
   Narumi-san, you mentioned that you've collected some merchs and really liked
-  to watch TV shows, so I thought..."
+  to watch TV shows. And your sister seems to repost a lot of idoly stuff, so I
+  thought..."
 
   _"Wait, I said all those things?"_
 
@@ -29,13 +30,15 @@
 
   "Idols? What is that?" A girl from the crowd slip out her thoughts.
 
-  "You don't know?" Another girl, who seemed to be a friend of that girl, asked,
-  "Idols are those girls on TV that sing and dance in front of an audience..."
+  "You don't know?" Another girl, who seemed to be a friend of the girl who just
+  spoke, asked, "Idols are those girls on TV that sing and dance in front of an
+  audience..."
 
   "So are they just singers and dancers? Or something like those _seiyuu_
   concerts of popular anime show?" The girl from before asked, confusedly.
 
-  "I'm not really sure about that, I just saw their performances a couple of times..."
+  "I'm not really sure about that, I just saw their performances a couple of
+  times, so I'm not so sure..."
 
   // idols in hkiverse is MUCH MORE obscure than it is irl
   // maybe i will change this?
@@ -51,11 +54,12 @@
 
   For example, a popular singer once made a video documenting her life on a
   whiteboard, which kickstarted the whole "Draw My Life" trend on the Internet.
-  Her popularity was massively boosted by the event.
+  It goes without saying, her popularity was massively boosted by the event.
 
   Or, there was that one voice actress who started to upload cover songs to her
   side channel, woke up one day to see her music video at top trending. This
-  unexpected success gave her much more roles in anime, especially music ones.
+  unexpected success gave her much more roles in anime, especially music-related
+  ones.
 
   It could be seen that the Internet was also interested in the inner lives of
   the stars it adored, not just their intrinsic talents.
@@ -66,10 +70,11 @@
 
   Realizing the unlimited potential in pop stars, the concept of idols were
   introduced to the public in the early 2000s. The idea was to let ordinary
-  people, with no particular talent, perform in front of an audience. The talent
-  of an idol were no longer mimicking the voice of anime characters, or to sing
-  vibratos, or to act in front of camera, but to make people feel attracted to
-  you, though the former could be useful for certain situations.
+  people, with no special talents or anything, perform in front of an audience.
+  The talent of an idol were no longer mimicking the voice of anime characters,
+  or to sing vibratos, or to act in front of camera, but to make people feel
+  attracted to you, though the former skills could be useful for certain
+  situations.
 
   "You guys should check on them" Mikoto enthuastically interjected, "They are
   very cool! Uta and me watched them all the time too?"
@@ -86,7 +91,7 @@
   disbelief on Mona's face.
 
   Though, not answering would just mean she admitted she was an idol fan
-  herself. And that you had something to hide about that.
+  herself. And that she had something to hide about that.
 
   Mona, after getting lost in thought for about a minute, finally resurfaced
   back to life.
@@ -106,14 +111,14 @@
 
   She took another quick glance at the two, and the others as well. Despite
   idol culture has a _somewhat_ terrible reputation and had its fair share of
-  troubles, no one seemed to despise them that much.
+  troubles, no one in the crowd seemed to have a terrible impression of.
 
   So, maybe, for once, she can be honest.
 
   _"Screw it! We win big or go home! 99% of gamblers quit before they win big,
   anyway."_
 
-  Though, comparing answer a simple question with gambling is not a wise idea,
+  Though, comparing answering a simple question with gambling is not a wise idea,
   Mona.
 
   "Uhm-, yes, I do..." Mona finally was able to string words to form a coherent
@@ -128,7 +133,7 @@
   "Uhm-, I think I like the type of idol who can pull off things on her own...
   And the one I'm currently liking most... probably Asuna from Fruits☆Sugar..."
 
-  "Asunatan???? No way, I followed her too! She was just too peak..."
+  "Asunatan???? No way, I followed her too! She was just too peak, y'know..."
 
   Mikoto would then throw all sorts of questions, while Mona was attentively
   listening and replying to her. The other girls, except Uta, realized that the
@@ -175,6 +180,13 @@
   previous interaction still lingered in her mind.
 
   _"I really made friends, right?"_
+
+  She tried to pinch her cheeks, which hurted. She was not dreaming.
+
+  For a girl who always had a terrible experience at school, today, it seemed
+  like God bestowed a smile upon her.
+
+  ---
 
   Even now, Narumi Mona still remembered clearly what happened on that day. It
   was nothing short of a miracle, something even more magical than her sister’s

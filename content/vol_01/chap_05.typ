@@ -235,10 +235,15 @@
   "Hey, Narumi-san, do you have a moment?"
 
   // Being the queen of \#621,
-  // The girl had shoulder-length purple-tinted black hair that seemed to be
-  // treated with much care by its owner. Her eyes were full of friendliness, which
-  // seemed to calm Mona down a bit. By the look of things, she probably was
-  // someone really popular with everyone in class.
+  The girl had shoulder-length purple-tinted black hair that seemed to be
+  treated with much care by its owner. Her eyes were full of friendliness, which
+  seemed to calm Mona down a bit. By the look of things, she probably was
+  someone really popular with everyone in class.
+
+  Next to her was another girl who exhibited a completely different energy. With
+  a sporty-looking short ponytail, she looked like someone from an athletic
+  club Mona checked out in the morning. Compared to the other girl, she seemed
+  to be more reserved.
   //
   // Though Mona did not pay much attention in the self-introduction section, the
   // overwhelming aura of this girl possessed was able to make Mona notice her and
@@ -248,6 +253,6 @@
   // ponytail brown hair and green ____ eyes. Her style resembled someone with some
   // athletic interest, a rare kind in this institution.
 
-  Mona were frozen in place by the girl's question. "Did I cause trouble to
+  Mona were frozen in place by the girl's question. And "Did I cause trouble to
   them somehow?" was the only thing going on her mind.
 ]
