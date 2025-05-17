@@ -7,12 +7,41 @@
   School ended, but unlike usual, Mona did not head straight to home. She was
   now sitting with two of her new friends: Nanba Mikoto and Kazugai Uta.
 
-  When the bell rang, the two invited Mona out for a "light after-school meal",
+  When the bell rang, Mona took a quick glance at Uta and Mikoto's seats.
+
+  // absolute ESCAPE
+  // absolute RAMUNE
+  _"They said "See you later this afternoon", right? What if they forgot about
+  it already..."_
+
+  There, she saw her two "friends" packing up their stuff. Her gaze was met with
+  Uta's, who made a small beckoning signal to invite Mona by.
+
+  The two invited Mona out for a light "after-school meal",
   whatever that might mean. Mona, clearly interested in the whole ordeal, joined
   in without any reluctance.
 
   _"There was a show that Miyu-tan starred tonight... I'm sorry, Miyutan!"_
 
+  Arriving at the fastfood restaurant that belonged to a nationwide chain, Mona
+  was reminded of an piece of memory from her past self. On that day, the rest
+  of her family had some errands to do during dinner, so Mona was planning to
+  eat out at the restaurant of this chain near her school.
+
+  However, the girl was hesitant to step through the entrance door, and she
+  stayed there, standing in front of the shop for about 30 minutes. She took
+  glances at the window, but everyone inside was either an adult or someone
+  going with friends and family. Her entering alone would be so embarassing, and
+  after that 30 minutes, she decided to just come home and eat whatever that's
+  in the fridge.
+
+  This time, she was going with friends, so she felt much confident now. It is
+  also worth to note that she had eaten out with friends multiple times, but
+  those were all occasions like class gatherings, and she did not talk much with
+  anyone there. So at least she was not clueless about like, how drink
+  dispensers work or where the toilet stalls are.
+
+  The three picked a family-sized table right next to the window to sit at.
   Because three is an odd number, and three girls sitting on one side of the
   table would be weird, two girls would have to share a side.
 
@@ -20,9 +49,9 @@
   and was not particularly close to the other two, should sat on one side, while
   the other two happily chatted with on the other side.
 
-  That was what Mona thought.
+  Or so was what Mona thought.
 
-  And it could not be any further from what Mikoto had in mind.
+  Needless to say, it could not be any further from what really played out.
 
   The one who was getting a side for her own was Uta, since Mikoto was having an
   unhealthy obsession with her new test subject, I mean, _friend_. Though, she
@@ -34,7 +63,9 @@
 
   "No way! You followed Miyu-tan too? We have so much in common!"
 
-  "Hehe..." Mona grinned.
+  "Hehe..." Mona grinned, "I bought her merch too, this keychain for example."
+
+  "Wow, it's so cute!"
 
   This was not a mere coincidence, of course. Which the girl on the opposite
   side, seemed to notice.
@@ -45,19 +76,23 @@
 
   Yes, it all came from Mona.
 
-  Sena, with her current load of work, had no time to discover new idols. She
-  just reposted what her sister liked. So in a way, everything that Mikoto knew
-  all originated from Mona.
-
-  Though, Uta was different. She had watched idols since she was young, and her
-  idol knowledge did not come from one source. Though, lately, she could barely
-  find the time to watch idols as much as she used to.
-
-  She was very curious about Narumi Mona, however.
+  Sena, even before her rise to stardom, had no time to discover new idols. But
+  she still regularly reposted idol stuff on her timeline, so there must be
+  _someone_ giving her intel regarding this. She had a number of suspects for who
+  that _someone_ may be, but now that Mona had spilled the beans about her
+  obsession with idols, she had gone to the conclusion that Mona was that
+  _someone_ she was looking for.
 
   _"This girl is the teacher of her sister, which is also the teacher of Mikoto.
   So she should have an extreme amount of knowledge... I want to chat with her,
   too."_
+
+  Even though she acted much calmer to Mikoto, Uta had much more idol knowledge
+  than her friend. She had watched idols since she was young, and what she knew
+  about idols did not come from one source. Though, lately, she could barely
+  find the time to watch idols as much as she used to.
+
+  Hence, she was very curious about Narumi Mona.
 
   But she found it hard to jump into the conversation. The scene in front of
   her was like a yuri couple, to some extent.

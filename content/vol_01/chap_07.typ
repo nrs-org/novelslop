@@ -77,11 +77,11 @@
   situations.
 
   "You guys should check on them" Mikoto enthuastically interjected, "They are
-  very cool! Uta and me watched them all the time too?"
+  very cool! Me and Uta watched them all the time too!"
 
   "Is that right, Kazugai-san?" The two girls turned their heads to Uta.
 
-  "Huh-" Uta seemed startled, "I guess so."
+  "Heh-" Uta seemed startled, "I guess so."
 
   It seemed that the topic of idols distracted the group from the main
   character, whose head was still on the clouds.
@@ -158,23 +158,24 @@
 
   Seeing the overjoyed look on Mona's face, Uta felt a little happy, too.
 
-  "Well, if you love idols so much, you are free to talk with me about it, too.
-  Though I don't have much time to spare, you should feel welcome to talk
-  with me anytime."
+  "Well, if you love idols so much, you are free to talk with me about it, too."
 
   "While we are at it, why don't we become friends?" Mikoto joined in the
   conversation, "Would you mind if I call you Mona?"
 
+  Mikoto glanced at Mona with a kind smile.
+
   "I'm okay with anything, really..."
 
   "Great, then that's decided! See you later this afternoon, I'd like to talk
-  more to you, Mona."
+  more to you, Mona. But now, we gotta get some food for lunch."
 
   "Uhm- see you then."
 
   Uta and Mikoto then headed to the cafeteria to get their lunch meals. There
   was about 15 minutes left in the lunch break, plenty of time for them to get
-  something to eat.
+  something to eat, but not enough to return to the classroom and have lunch
+  with Mona.
 
   Mona, finally left alone, opened her lunch box, while the memories of her
   previous interaction still lingered in her mind.

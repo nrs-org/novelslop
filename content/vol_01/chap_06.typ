@@ -243,7 +243,9 @@
 
   "Really?"
 
-  Mikoto unexpected jump into the conversation, leaving Mona even more
+  It was a different voice this time.
+
+  Mikoto unexpected jumped into the conversation, leaving Mona even more
   speechless than before. If you could not count, then this was the third time
   now.
 
@@ -266,7 +268,7 @@
 
   "Uhm, please go ahead" Mona murmured.
 
-  Mikoto then blurted out how much she idolized Narumi Sena. According to the
+  Mikoto then blurted out about how much she idolized Narumi Sena. According to the
   nonsense she spouted out, she had been a long-time fan of Mona's sister after
   stumbling upon her picture on her timeline. It was Narumi Sena who gave her
   the courage to continue chasing her dreams, giving her power in her darkest
@@ -275,7 +277,8 @@
   To be fair, according to what she said, Mikoto had been a Narumi Sena fan for
   quite a long time, much preceeding the magical rise to stardom. She was one of
   a few who followed Sena's SNS account, a small account of an inspiring model
-  on some corners of the Internet. In other words, she was the real deal.
+  on some corners of the Internet. In other words, she was the real deal, not a
+  new-gen fan riding along Sena's newfound fame.
 
   She finally arrived at her request.
 
@@ -298,6 +301,8 @@
   anything just to get a signature, going as far as begging or licking the
   girl's feet just to get a simple stroke on a paper. Maybe not that extreme,
   but well.
+
+  Without any hesistance, Mona replied,
 
   “Okay, I will try to ask her.”
 
@@ -332,16 +337,18 @@
   But she did not realize that while she was casually respond to her new
   classmates, she slipped out quite a lot of information.
 
-  And that information would be left unnoticed by the crowd in front of Mona,
-  except for one girl.
+  Normally, that information would be left unnoticed by the crowd in front of
+  her. But today was different.
 
   The girl raised her voice amongst the chattering noises.
 
   "Narumi-san, I wonder..."
 
-  "What was it, Nanba-san?" Mona replied.
+  "What was it, Nanba-san?" Mona replied, nonchalantly, expecting yet another
+  question about something like Narumi Sena's shopping habits.
 
-  With a clear voice, Mikoto proceeded,
+  With a clear voice, Mikoto proceeded with a question that had nothing to do
+  with Narumi Sena,
 
   “May I ask, Narumi-san, are you, by any chance, interested in idols?”
 ]
