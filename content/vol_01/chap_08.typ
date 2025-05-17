@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(8, "nice to meet you mikoutayapper, i am nagi seishiro")[
+#chapter(8, "Eating out... Is that what friends always do together?")[
   After everything that happened, Mona found herself at the fastfood restaurant
   near her school.
 
@@ -15,7 +15,8 @@
   it already..."_
 
   There, she saw her two "friends" packing up their stuff. Her gaze was met with
-  Uta's, who made a small beckoning signal to invite Mona by.
+  Uta's, who made a small beckoning signal to invite Mona by. What a relief,
+  huh?
 
   The two invited Mona out for a light "after-school meal",
   whatever that might mean. Mona, clearly interested in the whole ordeal, joined
@@ -100,16 +101,17 @@
   "Mona! I'm glad that you are here. Y'know, Uta is always so so so busy, she
   would never spend much time talking to me about this stuff."
 
-  "Hey! I had to spend all that time with your silly detective game, Mikoto.
-  What do you mean by that?"
+  "Hey! Did you remember that I had to spend all that time with your silly
+  detective game, Mikoto. What do you mean by that?"
 
-  And thus, Uta joined in the conversation. She had been looking at her
-  smartphone, so she did not notice that Mikoto was paying attention to her,
-  realizing how Uta was hesitant to talk to the other two.
+  And thus, Uta conviniently joined in the conversation. She had been eating
+  while looking at her smartphone, so she did not notice that Mikoto was paying
+  attention to her, realizing how Uta was hesitant to talk to the other two.
 
   // if so, why did she blurt out that utasama like idols?
   // does uta feel uncomfortable because of that
   // well tbh i can just let it be because she was too excited to think or sth
+  // yeah that makes sense
   Mikoto might act reserved in front of strangers, but she was really mindful of
   people she deeply cared about.
 
@@ -120,8 +122,8 @@
   _"Let's see how well-versed this girl really is... This idol is somewhat
   obscure, but she probably can nail this down easily."_
 
-  Now that Uta had conveniently joined in the conversation, she could now
-  ask some question to satisfy her curiosity.
+  Now that Uta could comfortably talk to Mona, she could now
+  ask some questions to satisfy her curiosity.
 
   "Uhm... I saw her a couple of times on TV, but she is not really my type..."
   Mona answered, seemingly apologetic.
@@ -136,8 +138,9 @@
   collaborating with B-san, so I'm somewhat intrigued. Oh, you know
   her?"
 
-  Himeno Sena 2 was somewhat much more obscure than Himeno Sena 1, hence being
-  the second challenge Uta had for Mona. If Mona knew her, she would actually be
+  // this is not canon to pjescape chat sadge
+  B-san was somewhat much more obscure than A-san, hence she was picked as
+  the second challenge Uta had for Mona. If Mona knew her, Uta would actually be
   impressed.
 
   Mona nodded.
@@ -164,11 +167,11 @@
 
   "I gave up." Uta muttered, bowing to Mona.
 
-  "Eh?" Mona worriedly replied "Did I say something?"
+  "Eh?" Mona worriedly replied "Did I say something weird?"
 
   "Mona, she was just testing you." Mikoto, who had been listening to the
   conversation without understanding anything, interjected. "And it seemed you
-  far surpassed her expectation."
+  far surpassed her expectations."
 
   She glanced back to Uta, as if mocking her.
 
@@ -200,5 +203,73 @@
 
   "You two knew youth only comes once right?"
 
-  "Right..."
+  "Right."
+
+  "Uhm..."
+
+  Such unmotivated responses.
+
+  "Well, Uta is a lost cause" Mikoto turned to Mona, "But Mona, you should join
+  a club, y'know? It's really fun!"
+
+  "But I... don't have any interests in anything..."
+
+  "There has to be something you like, Mona" Mikoto cut in," By the looks of
+  things, you probably haven't checked out what clubs are available, right?"
+
+  Mona nodded.
+
+  Though, Mikoto's skepticism was only half-true as Mona had checked on all the
+  sports clubs in the morning. It was just a way for her to kill time, however,
+  as Mona had no interests in things that involves heavy athleticism.
+
+  Mikoto suddenly stood up, as if proposing something.
+
+  "So. What I am thinking is, that we can spend tomorrow's afternoon checking
+  out different clubs? What do you two think?"
+
+  Immediately as Mikoto finished her grand speech, Uta interjected,
+
+  "But Mikoto, you were dead set on joining the tracks team, right? Is checking
+  out other options kind of pointless?"
+
+  _"The tracks team? Have I checked up on that yet?"_
+
+  After a brief moment, Mona remembered the girl running on the tracks from the
+  morning.
+
+  // mikoto wants to check up on club because she can't run professionally btw
+  // the plot chat
+  "This is for the two of you, not me. Got it?"
+
+  "I will not join any club though."
+
+  "Yeah, yeah, you don't have to say that again."
+
+  Uta and Mikoto bickering with each other looked like an old married couple,
+  which lit a brief smile on Mona's face.
+
+  _"I wonder if I could become close to them like that."_
+
+  Mona glanced at the window next to her, just to be met with her own reflection.
+
+  She realized that she was not sitting alone.
+
+  She was one of _them_, and things had drastically changed.
+
+  "Mona? Do you think you will be free tomorrow?"
+
+  "Uhm- yes! I don't have any plans in particular."
+
+  Mikoto's sudden question interrupted Mona from her deep thoughts.
+
+  "Well, then it's decided."
+
+  "That's pretty sudden. You haven't asked if I'm free yet."
+
+  "Don't you always have free time to go play with your friends? So I thought I
+  would have to take advantage of when you haven't made any new friends yet in
+  high school."
+
+  "Okay, Mikoto-sama."
 ]
