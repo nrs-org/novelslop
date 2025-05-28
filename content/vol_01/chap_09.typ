@@ -186,5 +186,55 @@
   in socializing. Her charms were even effective to Uta, someone who was the
   literal opposite of her general audience.
 
-  "Kazugai-san..."
+  "Hey, Kazugai-san..."
+
+  The two were just giving banters after banters until a voice disrupt them. A
+  girl in glasses, just stopped by Uta's desk to ask for a favor, it seemed.
+
+  _"This girl..."_
+
+  Her appearance was exactly like the stereotypical bookworm character: thick
+  glasses, braided black hair, and a voice that screams "I can't raise my voice
+  to attract others!" or so, if it could scream in the first place.
+
+  "You know Narumi-san, right?"
+
+  _"Wow, straight to the point."_
+
+  "Right, you have a favor to ask her?"
+
+  "Uhm... She's quite packed right now, so when she's available..." the girl
+  stuttered, "Can you ask her for a Narumi Sena signature?"
+
+  The girl finally finished spelling out her request.
+
+  "Okay, I will let her know. Ah, right! You should add me on RINE, I could give
+  you updates there!"
+
+  Uta then handed out the QR code containing her contacts. The girl, initially
+  shocked, still composed herself enough to scan the code and add Uta to her
+  friend list.
+
+  "Well, excuse me..."
+
+  The girl bowed down and returned to her seat. Right afterwards, Uta felt a
+  sensation on her smartphone: a "Thank you so much" sticker from the girl.
+
+  "How smooth." Mikoto glared at the phone.
+
+  "What do you mean?"
+
+  "I forgot that you are always fast with this kind of thing. You were also the
+  one who suggested sharing contacts yesterday too."
+
+  "Well, of course you should gather as many connections as possible. She seemed
+  to be the nerdy kind, so she should be useful if tests and exams come up..."
+
+  Not letting Uta finished her speech, the two were once again interjected by a
+  group of girls.
+
+  "Kazugai-san, could you please ask Narumi-san for a signature for us too?"
+
+  Uta was truly living in the Digital Age, where information flows at the
+  speed of light.
 ]
