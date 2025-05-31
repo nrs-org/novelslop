@@ -218,7 +218,7 @@
   "Well, excuse me..."
 
   The girl bowed down and returned to her seat. Right afterwards, Uta felt a
-  sensation on her smartphone: a "Thank you so much" sticker from the girl.
+  sensation from her smartphone: a "Thank you so much" sticker from the girl.
 
   "How smooth." Mikoto glared at the phone.
 
