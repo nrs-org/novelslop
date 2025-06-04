@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(10, "Checking out clubs or something idk")[
+#chapter(10, "A small wish")[
   "Welcome, the two of you, to the floor of cultural clubs!"
 
   Mikoto suddenly leaped over the other two, before turning back with a
@@ -9,7 +9,7 @@
   "You were too hyped up for this, really..."
 
   Uta shot Mikoto with a glare full of disinterest, before switching her focus
-  back to her cell phone.
+  back to her smartphone.
 
   That afternoon, Mona had an appointment with her new friends, Mikoto and Uta.
   The three would check out cultural clubs, before going to the Track team,
@@ -105,7 +105,7 @@
   But of course, she could not pick a side without having worries that the other
   side might "hate" her. Even though it was just a silly banter.
 
-  Noticing this awkwardness, Mikoto lightly hit Mona on the head and declared,
+  Noticing this awkwardness, Mikoto lightly hit Uta on the head and declared,
 
   "Stop making Mona uncomfortable. Anyway, I'm knocking the door now!"
 
