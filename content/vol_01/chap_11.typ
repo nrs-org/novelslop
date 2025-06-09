@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(11, "The sudden entrance of underclasswomen")[
+#chapter(11, "The secret conversations of silent underclasswomen")[
   _"How rare! It's just the second day of the new school year, and there is
   already a girl knocking on our door!"_
 
@@ -128,4 +128,88 @@
   Like a certain someone, Koto was terrible at introducing herself. It was the
   first time she was seen flustered, which, in her favor, made the girls less
   tensed up for a bit.
+
+  That much was enough to give Mona the courage to speak.
+
+  "Erm-, I'm sorry if this comes up as somewhat rude..." she continued, "But are
+  there any other club members, or just..."
+
+  Mona's voice got quieter and quieter. For a club that had many achievements and
+  a long tradition, it was weird how there were just about five people reading
+  in the clubroom.
+
+  "Ahaha, no, it's not. The third-years just graduated, and some members like to
+  read somewhere else. Attendance is optional, you see. Though, we sometimes
+  have events where you should definitely participate if you join the club."
+
+  "Uhm-, thanks you very much. I understand now..." Mona muttered, while bowing
+  her head to make up for the lack of volume in her voice.
+
+  Then, all that's left was dead silence. Koto would return to reading her book.
+
+  "Uta! You are good at this type of situation, right? Ask her something!"
+
+  "Not gonna. I'm still pissed about earlier!"
+
+  Uta and Mikoto were once again communicating using their eyes, but Mona could
+  somewhat read what's being said.
+
+  She had spent too much energy asking the previous question, so there is no way
+  she could ask another one. She did not even have a clue what to ask.
+
+  The unexpected friendliness and the detailed answers from Koto was definitely
+  not something that the three girls had anticipated. Well, at least it was
+  still better than meeting a scary book nerd, but the fact remained that it was
+  pretty awkward.
+
+  Koto, intentional or not, did an exceptional job with her answers. She
+  basically handled the girls’ questions perfectly, to the point that none of
+  them could not even come up with anything else.
+
+  Mona and Mikoto were now gobbling their mind for questions. But they could not
+  even find a single clue.
+
+  From under the desk, Mikoto lightly pulled Mona’s shirt. She was truly
+  desperate.
+
+  When she had caught Mona’s attention, she spoke in a quiet tone, "Do you know
+  much about classical literature? Think of a question about that topic,
+  maybe?"
+
+  And this desperation was met with Mona subtly shaking her head, "No, my
+  entrance exam score for classical literature is literally my second lowest
+  one, like I have no clues at all! Or maybe we should just ask her what she's
+  been reading..."
+
+  "That's not a bad idea, but..." Mikoto replied, "I think us three are not fit
+  for this kind of club... I'm terrible at Classical Lit. too, and Uta's the
+  same."
+
+  The two girls took a peek at Koto. She had switched to messaging someone on
+  her phone. The two let out a breath of relief, after confirming that their
+  secret conversation had gone unnoticed.
+
+  "So... we're bailing out now? We're bothering her, and the club too..."
+
+  "I think so. But wasting this much time of her just to leave is..."
+
+  In a way, Koto's enthuaism for her juniors backfired. They were too afraid of
+  disappointing her that they remained in silence. Unable to bear this silence,
+  Uta sighed, before raising her voice,
+
+  "Senpai!"
+
+  "What's it?" Koto replied, enthuastic as ever.
+
+  "We'll consider joining the club, if that's okay! But we do have a lot of
+  other clubs to check out, so excuse us."
+
+  "Oh, right! Feel free to join! Or if you don't want to join, it's okay as
+  well~"
+
+  Only waiting for that, the other two stood up, while picking up their
+  schoolbags, "We're going, thank you very much..."
+
+  Finally, the three were able to return to the hall, where the air seemed to be
+  much more breathable than the clubroom they were just in.
 ]

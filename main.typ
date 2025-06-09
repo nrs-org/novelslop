@@ -26,5 +26,6 @@
   #include "content/vol_01/chap_09.typ"
   #include "content/vol_01/chap_10.typ"
   #include "content/vol_01/chap_11.typ"
+  #include "content/vol_01/chap_12.typ"
 ]
 
