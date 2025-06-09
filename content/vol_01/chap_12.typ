@@ -88,13 +88,20 @@
 
   The girl who just had a playful banter with her was Tsukishima Ako, the vice
   president of the Classical Literature club, who was also a long-time childhood
-  friend of Koto.
+  friend of Koto. Oh right, she was also the girl who won the Second Prize of
+  the Tokyo Novelist Competition, mentioned earlier by Koto.
 
   Unlike Koto who liked to see the flustered expressions of her juniors, Ako's
   sole interest was just Koto. She loved her friend to the point of studying
   hard just to go to the same high school as her, joining the Classical
   Literature club while not knowing jack about the subject just to end up in the
   same club with her, and, always sitting next to her in the clubroom.
+
+  Having medium-length black hair and a bright face, the girl seemed to be a
+  much more playful and mischievous version of her friend. She also was teasing
+  Koto because, according to her, "people shines the most when they're having
+  // the model is narumi sena btw
+  banters with friends", quoted from a famous model on TV.
 
   Koto seemed to not notice the strangeness of her friend, however. She would be
   freaked out if she did, anyway.
@@ -121,8 +128,8 @@
   freshman. Thanks to Ako's help, she started to be able to get over her fears
   of socializing, and become a great club president idolized by her peers.
 
-  When the two finally stopped their conversation, the three girls outside the
-  room were finally ready for the next club visit.
+  When the two finally stopped their conversation to continue reading,
+  the three girls outside the room were finally ready for the next club visit.
 
   "Information Technology Club"
 
