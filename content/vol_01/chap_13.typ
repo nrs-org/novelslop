@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(12, "Computers are interesting... right?")[
+#chapter(13, "Computers are interesting... right?")[
   Mona's dad owned a computer, which Mona had barely touched.
 
   She was told stories about how they were crowned the greatest inventions of
