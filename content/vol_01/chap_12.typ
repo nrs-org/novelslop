@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(12, "The secret conversations of silent upperclasswomen")[
+#chapter(12, "The secret conversations of not-so-silent upperclasswomen")[
   "Uta-sama, thank you SO SO MUCH." Mikoto clasped her hand.
 
   "Uhm- thank you too!" Mona continued, expressing her gratitude to her friend.
@@ -142,6 +142,6 @@
 
   The door opened, revealed a male student shorter than the three girls,
 
-  "Wel...come to the Information Technology Club" He said in an
+  "Wel...come to the Information Technology Club!" He said in an
   almost-unhearable tone.
 ]
