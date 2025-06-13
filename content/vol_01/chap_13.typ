@@ -8,7 +8,8 @@
   she had only used it for her school assignments.
 
   It was natural for a girl who was born in the age of smartphones, which
-  had quickly taken over the computing world from the hands of computers.
+  had quickly taken over the computing world from the hands of computers,
+  to know nothing about the amazing tech.
   Despite its limitations in functionality compared to a fully-featured
   computer, mobile phones offered a greater entertainment experience, which
   allowed it to take over all aspects of daily life.
@@ -86,15 +87,15 @@
   you gotta write code."
 
   "Programs? You mean the coding assignments in second-year middle school? You
-  can compete in writing that?" Mikoto replied with enthuasm.
+  can compete in writing that?" Mikoto replied with enthusiasm.
 
   "Right! And if you are good at this and got some awards, some university would
   take you in instantly."
 
-  "Really? Maybe I should take a try."
-
   Mona noticed that the president suddenly became able to converse much more
   freely than before. Maybe it was due to the fact it was his topic?
+
+  "Really? Maybe I should take a try!"
 
   Illusioned with the idea of a free admission to college, Mikoto sat down at a
   computer, experiencing first-hand the IT club experience. Meanwhile, Uta and
@@ -103,7 +104,7 @@
   The president pointed to a blue-ish icon on the top left, to which Mikoto
   moved her mouse cursor to before double-clicking on it. Then, a blue interface
   popped up with all sort of weird symbols. The president pressed some key
-  combination to get rid of everything on the interface, leaving just a couple
+  combinations to get rid of everything on the interface, leaving just a couple
   of monospace text lines.
 
   "Wait, this isn't Kantan? What programming language is this?"
@@ -130,14 +131,15 @@
 
   "Let's see a more complex example!" The president, who was standing next to
   the desk put his hand on the keyboard and typed some more code. He would then
-  hit `F6` button, which spawned a new console on the screen.
+  hit the `F6` button, which spawned a new console on the screen.
 
   "Tada, here is a program that prints 'Hello, World!'."
 
   However, the code of the program was now much more complicated.
 
   "You see, to print 'Hello, World!', you need to tell the operating system to
-  do so, and that's via a _system call_ (syscall). On this specific machine, a
+  do so, and that's via a _system call_ (syscall for short).
+  On this specific machine, a
   syscall can be executed via setting `er1` to the syscall number, while other
   parameters are passed in `er2` to `er5`." The president continued, "Here, the
   syscall for printing is `0x621`, ah right, that's in hexadecimal, but that's
@@ -162,7 +164,9 @@
   you need to know a lot of Computer Science theory to be able to write an
   Assembly program, and that was why a more simpler language like Kantan is
   taught in compulsory education. However, the explicit control of Assembly made
-  it run much faster, which was crucial for contests.
+  code written in it run much faster, which was crucial for programming
+  contests, where the gap between an accepted solution and a time limit exceeded
+  could be just a millisecond.
 
   After a while of explaining, finally the three girls could get the gist of
   things.
@@ -191,7 +195,7 @@
   After seeing the shocked expressions on the girls' face, he finally stopped
   talking.
 
-  "Well... Maybe this is to advanced."
+  "Well... Maybe this is too advanced."
 
   "Erm-, no it's okay, senpai! Thanks for your guidance..."
 
@@ -204,7 +208,7 @@
   went flying by. The three girls hastily picked up their bags, saying their
   final greetings before heading out.
 
-  In their minds, the three girls were thinking the exact same thing.
+  In their minds, they were thinking the exact same thing.
 
   _"This place is too much for me!"_
 
