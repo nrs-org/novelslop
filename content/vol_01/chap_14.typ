@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(14, "Fourteen? Is that the suicidal number????")[
+#chapter(14, "Sunset at the running tracks")[
   "And here is the Student Council Office."
 
   The Student Council Office was a small room that marked the end of the
@@ -208,5 +208,5 @@
 
   "I swear that I will bring you back to the place you belong, Setoguchi Hina."
 
-  Right afterwards, the girl promptly walked away into the dusk.
+  Right afterwards, the girl promptly walked away into the twilight.
 ]
