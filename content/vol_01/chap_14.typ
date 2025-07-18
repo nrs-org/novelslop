@@ -21,7 +21,8 @@
   Sports clubs were even more strict than cultural clubs, since they had to
   participate in regional tournaments and get results to keep going. If Mona
   remembered correctly, the Student Council President was mentioning shutting
-  down a couple of clubs that had no mentionable achievements in recent years...
+  down a couple of clubs that had no mentionable achievements in recent years,
+  with a questionable focus on sports clubs, for whatever reason.
 
   However, what caught Mona by surprise was that she was mentioned by Uta.
   She let out a small "heh?" as a response.
@@ -44,12 +45,31 @@
   "Mikoto was thinking of joining the tracks team, since she has been running
   since middle school." Uta explained.
 
+  "Oh, you did mention it when we first talked..."
+
+  Mona recalled that Mikoto mentioned running on the her first day at school.
+  If she could remember correctly, it was something like her sister gave Mikoto
+  inspiration to keep running or something.
+
+  And now that she could take another look at Mikoto's appearance,
+  she realized that her friend really struck as an athletic
+  person, much more than Uta and herself.
+
+  "Well, should we go? I can't wait to be done with this crap." Uta sighed.
+
+  "What do you mean 'crap'?" Mikoto groaned, "You always had such a foul mouth,
+  Uta."
+
   The three girls went down the stairs, then headed towards the school football
   stadium, where the activities of the female Track and Field Club frequently
-  took place. Now that they were heading here, Mona was reminded of a piece of
-  memory that she thought had left her mind.
+  took place. Now that they were heading here, Mona was suddenly reminded of a
+  piece of memory that she thought had left her mind.
 
   _"That senpai, I wonder whether she was from the club Mikoto was mentioning..."_
+
+  She recalled the figure of a running girl, which was barely hazy on her mind.
+  On her first day to school, she did have a quick look at every sports club,
+  which the tracks and fields team was one of those.
 
   Soonly enough, her question would be answered. There she was, blazing through
   the tracks like how she did in that morning. Her perfect form and running stance
@@ -60,8 +80,8 @@
   first-hand experience how long the running tracks really were. It only blew
   their minds even further.
 
-  Aside from her, there was the football team that has been practicing hard as
-  well. They were practicing passing, it seemed.
+  Aside from her, there was the male football team who had been practicing hard as
+  well. Hmm, it seemed like they were practicing long passes.
 
   The girls spotted a place that seemed to be where the female track team was
   gathering at. There were some water bottles and a couple of female senior
@@ -72,19 +92,28 @@
   Mona remembered that her friend had been acting this way some time earlier,
   but she could not remember exactly when.
 
-  "Mona, I'm scared... What if they don't accept me..."
+  "I'm scared... What if they wouldn't accept me..."
 
-  Mikoto's quiet mumble entered Mona's ear.
+  Mikoto's quiet mumble entered Mona's ear. Just as Mona could make sense of
+  what she heard, a girl from the club noticed Mona's friend group approaching.
 
-  A girl looked up from her phone for a little bit, and she noticed Mona and her
-  friends. Realizing that their presence was finally noticed, Uta finally spoke
-  up in part of Mikoto.
+  She was typing something on her phone, before taking a quick look up to see
+  Mona and her friends. Realizing that their presence was finally noticed,
+  Uta sighed, before speaking up in part of Mikoto.
 
   "Excuse me, we are here to check out the club..." Uta shouted.
 
   "Wow, new members? Are we for real?" A girl stood up, seemingly shocked by
   the arrival of Mona's group, then shouted loudly, "Hina! You got some new
   members!"
+
+  "Arrgh! Just one more day and I would win the bet!",
+  another girl groaned loudly, "Why must it end like this?"
+
+  "Calm down and just give me the money, little girl. "
+
+  It seemed that the three girls' sudden appearance has quite caused some
+  ruckus.
 
   The three girls looked in the direction she was shouting to see the senpai
   from earlier. She paused for a while to notice the sudden arrivals, then
@@ -113,7 +142,7 @@
 
   Her face was beaming with a smile as if she was the sun.
 
-  "Really? Is there some sorts of entrance test I should do?"
+  "Really? Is there some sorts of entrance test I must take beforehand?"
 
   "Entrance test? What do you mean?"
 
@@ -139,6 +168,7 @@
   deadly glare straight to her face. "I'll get revenge for this" was what it
   probably means.
 
+  // ABSOLUTE BRAINROT ONE OF THE SEVEN SAGES OF #621
   "Anyway, since you've introduced yourself and all, I'm Setoguchi Hina, glad to
   meet you." Hina redirected her gaze to the whole group, "You girls are all
   first years, right?"
@@ -189,10 +219,11 @@
 
   "Poor girl, if only she knew what's going to happen to this club..."
 
-  _"Heh-, what does that mean?"_
+  _"Wait-, what does that mean?"_
 
   Mikoto glanced back to see the figures of her seniors, slowly fading into the
-  sunglow. "What does they mean by 'Hina 2.0'", was all that she was thinking.
+  // RAHHHHH SUNGLOW MENTIONED https://osu.ppy.sh/beatmapsets/1193588#osu/2486881
+  sunglow. "What does they mean by 'Hina 2.0'?" - was all that she was thinking.
 
   "Mikoto, are you coming home with us?" Uta called her over.
 
@@ -201,11 +232,15 @@
 
   // please fix this
   // also cac con gai da chao me chua
-  With everyone leaving, a figure menacingly was there on the stand, looking
+  // chua a? quas tucj
+  With everyone leaving, all that was left was a figure, menacingly standing on
+  the stands, looking
   straight to the disbanding group of female students from the Track and Field
-  team. With her long black ponytails that swayed in the winds, the girl
-  mumbled, in a clear and decisive tone,
+  team. The girl, with her long black ponytails that lightly swayed in the winds,
+  mumbled, yet in a clear and decisive tone,
 
+  // con chao me
+  // me kiet NOT from temu
   "I swear that I will bring you back to the place you belong, Setoguchi Hina."
 
   Right afterwards, the girl promptly walked away into the twilight.

@@ -31,9 +31,10 @@
   right, which Mona clumsily tried to readjust with no success.
 
   "Let me carry a bit." Uta took half of the pile from Mona's hands, which
-  seemed to help her gain back balance.
+  seemed to help her gain back the balance she just lost.
 
   "Thanks..."
 
-  idk what the fuck am i supposed to write here
+  The two girls then walked along the corridor to their class, despite the
+  curious eyes of various people looking at them.
 ]
