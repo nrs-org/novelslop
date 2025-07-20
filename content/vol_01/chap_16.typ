@@ -1,5 +1,6 @@
 #import "../../lib.typ": chapter
 
+// the dream of vinicius crier
 #chapter(16, "idk whats im writing anymore lmfao")[
   _"Oh, is that...?"_
 
@@ -24,17 +25,129 @@
 
   "Good morning, Mona!" Uta greeted with a bright smile, "What are you carrying?"
 
-  "Ah- Uta..." Mona hesitantly replied, "Uhm... This is my sister's photograph
+  "Ah- good morning, Uta..." Mona hesitantly replied,
+  "Uhm... This is my sister's photograph
   that people were asking me for..."
 
   Because of Uta's light tap, Mona's center of gravity slowly shifted to the
   right, which Mona clumsily tried to readjust with no success.
 
-  "Let me carry a bit." Uta took half of the pile from Mona's hands, which
+  "Let me carry a bit." Uta, seeing how much trouble her friend was in,
+  took half of the pile from Mona's hands, which
   seemed to help her gain back the balance she just lost.
 
-  "Thanks..."
+  "Thanks..." Mona muttered.
+
+  "No problem, really!"
 
   The two girls then walked along the corridor to their class, despite the
   curious eyes of various people looking at them.
+
+  Once they entered the class and finished offloading the cargoes onto Mona's
+  desk, Uta saw a crowd immediately forming at Mona's seat. However, it seemed
+  like today her friend was less talkative than usual, and people, after taking
+  their signature plates, left to do their own things.
+
+  _"She really is not cut out to be a school star, isn't it?"_
+
+  "Ah! Good morning, Uta-chan!"
+
+  "Mornin', Rika."
+
+  It was Uta's new friend, Mizukawa Rika. She had a very distinctive voice,
+  along with a somewhat flashy appearance. Yesterday, after Uta reported the
+  news, the two chatted with each other until midnight.
+
+  "I still can't believe that Narumi-san's dad is actually the composer for Tea
+  Party!" Rika sent a glare of admiration to the subject, "Life is really full
+  of surprises."
+
+  "Right, isn't it?" Uta replied, "But don't tell anyone, won't you? Mona told
+  me that I should not let too many people know this."
+
+  "I swear that I won't let anyone else know this!" Rika formed an 'X' on her
+  mouth, "Anyways, did you see that huge drama over Sumire-chan?"
+
+  "She got caught with her boyfriend, right?"
+
+  "Yes, that's it." Rika continued, "You see, the Internet is so stupid at
+  times! She's just a seiyuu, so what's the problem of having a boyfriend."
+
+  "Well, she does market herself as a pure idol, so..."
+
+  The two continued happily chatter with each other, while someone was watching.
+
+  _"It's just day 4 and Uta already got a new friend..."_
+
+  Narumi Mona was watching Uta's conversation with Rika, but because of the
+  distance, she could not make sense of anything. Based on the message she
+  received yesterday, it could be that they would be talking about her dad.
+
+  "Uta is really amazing, she could make friends so easily!", she thought to
+  herself, "Meanwhile all I could do is follow Uta and Mikoto's steps, haha.
+  People gathering around my desk today seems to be somewhat uninterested in
+  what I say, too."
+
+  Mona was running out things to say about her sister, and thus, people became
+  less and less patient and jumped straight to the next Internet drama. Hence,
+  Mona did not have to talk much nowadays, but she felt a little bit lonely.
+
+  With Uta getting a new friend, she thought to herself, maybe one day Uta and
+  Mikoto would also leave her as well. And then, she became to sink in the world
+  of negative thoughts.
+
+  "Mona?" A voice echoed from Mona's left ear, "Heyyyyyyyyy"
+
+  Mona turned around.
+
+  It was the ever-so-familiar sight of her two friends. It seemed that Mikoto's
+  just come to class.
+
+  "Good morning, Mikoto" Mona mumbled.
+
+  "Is something wrong?" Mikoto replied, "You were spacing out..."
+
+  "Uhm... it's nothing, I'm just thinking about some stuff."
+
+  "Hmm, okay, if you say so..." Mikoto paused, before noticing the signature
+  plate on Mona's desk, "Wait, is that Sena-san's signature that I asked you before?"
+
+  "Oh, right." Mona handed the last plate on the desk to her friend, "Here's
+  what you asked before, Mikoto."
+
+  "Thank you so much, Mona!" Mikoto received the plate from her friend,
+  "Amazing, so this is Narumi Sena's handwritten signature..."
+
+  "There she goes again..." Uta commented, "Right, Mikoto, how is your first
+  morning practice with the club?"
+
+  _"Morning practice? Oh, that's why she's arriving class later than usual."_
+
+  "Well..." Mikoto finally shifted back her focus to her friends, "Hina-senpai
+  is super-duper nice. She introduced me to the shower room and all sorts of
+  facilities."
+
+  "Must be nice for you..." Uta continued, "But how about the other members?"
+
+  "Well, I tried to wait for them, but Hina-senpai said that they would not
+  come, so it's just me and her..."
+
+  They did not do any running yesterday, and Hina did not even wait for them to
+  come for morning practice. So that could only mean one thing. Though, she
+  could not say it to Mikoto, since it seemed quite sensitive...
+
+  "So basically they are just ghost members?" Uta immediately told Mikoto what
+  was on Mona's mind.
+
+  "Aargh! Don't say it like that! Maybe they just have something else to do!"
+  Mikoto groaned with a voice full of denial.
+
+  "Hey, Mikoto... I think you should face reality as it is."
+
+  "What do you mean 'face reality'?" Mikoto objected, "They are just... they are
+  just busy y'know."
+
+  "Yeah, yeah... anything that makes you sleep at night." Uta continued her
+  words of destruction, "In the first place, Misuzu is not a place for serious
+  sports clubs, you would have to Sakuragaoka for that, so what do you expect?"
 ]
