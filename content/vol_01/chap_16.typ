@@ -1,7 +1,7 @@
 #import "../../lib.typ": chapter
 
 // the dream of vinicius crier
-#chapter(16, "idk whats im writing anymore lmfao")[
+#chapter(16, "Nanba Mikoto's first morning practice session")[
   _"Oh, is that...?"_
 
   Kazugai Uta was walking to school, after getting down from her daily train. It
@@ -149,5 +149,66 @@
 
   "Yeah, yeah... anything that makes you sleep at night." Uta continued her
   words of destruction, "In the first place, Misuzu is not a place for serious
-  sports clubs, you would have to Sakuragaoka for that, so what do you expect?"
+  sports clubs, so what do you expect?"
+
+  "Urgh..." Mikoto continued to take critical damage from Uta's harsh words.
+
+  After her utmost efforts to gain back the confidence she once had, Mikoto
+  gazed up,
+
+  "At least it's still a tracks and fields team where I can run at. I only need
+  something like that. As long as Hina-senpai was there!"
+
+  "Right, to be honest there is still something good for you. If you are the
+  only serious club member, Hina-senpai would probably take a liking to you."
+  Uta commented, "Ah, do you know about Hina-senpai's grades?"
+
+  "What about it?" Mikoto curiously replied.
+
+  "She was one of the students getting the scholarship on the entrance ceremony,
+  which means she's one of the brightest students in her grade."
+
+  "No way! Is that real?"
+
+  Uta took out her phone to show the scholarship results straight to Mikoto's
+  shocked face. Once her friend realized how amazing her senior is, she started
+  to tremble. Not sure if that was in fear or an idolization, but honestly it
+  was probably a combination of the two.
+
+  "Noted... next time I'm gonna be extra polite to her... Can't believe that I
+  actually got the chance to become the junior of someone insane like her..."
+
+  "Don't... you would only make her more uncomfortable."
+
+  While the two were happily chattering with each other, only one person was
+  left behind: Mona. She was attentively listening to the conversation from
+  start to finish, but she could find no chance to talk.
+
+  Though, it seemed like the current topic was facing a roadblock, as the
+  conversation in front of her was showing signs of slowing down. Realizing that
+  a chance like this might never come, she gather all of her courage to speak.
+
+  "Uhm... On the first day, I saw someone like Hina-senpai running on the
+  tracks..." Mona stuttered, "But it seemed like she was crying back there...
+  You two know anything about it?"
+
+  "Hina-senpai crying? But she was always so cheerful..."
+
+  "Well, it could be a facade. Someone like her would never let her personal
+  matters affect anyone else, especially a junior like you, Mikoto."
+
+  "Hmm... true. But I think since it's her personal matters, we should not dig
+  too much into it."
+
+  // chui truong from temu
+  "Well, I agree. But my older brother is kind of the same. He got a buncha
+  scholarships from his university with a near-perfect GPA, but he always
+  complained all sorts about his university." Uta continued,
+  "So I think geniuses have their own shares of problems that us mortals could
+  never comprehend."
+
+  // "Uta's brother?" Mona let out her thoughts.
+  //
+  // "Ah, I haven't introduced right? He's a second-year at Tokyo University of
+  // Technology. He's crazily good at studying, y'know? Much more than me, haha."
 ]
