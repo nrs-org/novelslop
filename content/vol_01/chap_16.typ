@@ -65,13 +65,14 @@
   "Right, isn't it?" Uta replied, "But don't tell anyone, won't you? Mona told
   me that I should not let too many people know this."
 
-  "I swear that I won't let anyone else know this!" Rika formed an 'X' on her
+  "I swear that I won't let anyone else know this!" Rika cutely formed an 'X'
+  with her fingers in front of her
   mouth, "Anyways, did you see that huge drama over Sumire-chan?"
 
   "She got caught with her boyfriend, right?"
 
   "Yes, that's it." Rika continued, "You see, the Internet is so stupid at
-  times! She's just a seiyuu, so what's the problem of having a boyfriend."
+  times! She's just a seiyuu, so what's the problem of having a boyfriend!"
 
   "Well, she does market herself as a pure idol, so..."
 
@@ -103,17 +104,17 @@
   It was the ever-so-familiar sight of her two friends. It seemed that Mikoto's
   just come to class.
 
-  "Good morning, Mikoto" Mona mumbled.
+  "Ah! Good morning, Mikoto..." Mona mumbled.
 
-  "Is something wrong?" Mikoto replied, "You were spacing out..."
+  "Is something wrong?" Mikoto replied, "You were spacing out or something."
 
   "Uhm... it's nothing, I'm just thinking about some stuff."
 
   "Hmm, okay, if you say so..." Mikoto paused, before noticing the signature
   plate on Mona's desk, "Wait, is that Sena-san's signature that I asked you before?"
 
-  "Oh, right." Mona handed the last plate on the desk to her friend, "Here's
-  what you asked before, Mikoto."
+  "Oh, right." Mona turned back to take the last plate on her table, before
+  handing it on to her friend, "Here's what you asked before, Mikoto."
 
   "Thank you so much, Mona!" Mikoto received the plate from her friend,
   "Amazing, so this is Narumi Sena's handwritten signature..."
@@ -133,8 +134,8 @@
   come, so it's just me and her..."
 
   They did not do any running yesterday, and Hina did not even wait for them to
-  come for morning practice. So that could only mean one thing. Though, she
-  could not say it to Mikoto, since it seemed quite sensitive...
+  come for morning practice. So that could only mean one thing. Though, Mona did
+  not want to spell it out for Mikoto.
 
   "So basically they are just ghost members?" Uta immediately told Mikoto what
   was on Mona's mind.
@@ -166,7 +167,8 @@
   "What about it?" Mikoto curiously replied.
 
   "She was one of the students getting the scholarship on the entrance ceremony,
-  which means she's one of the brightest students in her grade."
+  which means she's one of the brightest students in her grade. I heard it from
+  Rika-chan."
 
   "No way! Is that real?"
 
@@ -185,8 +187,9 @@
   start to finish, but she could find no chance to talk.
 
   Though, it seemed like the current topic was facing a roadblock, as the
-  conversation in front of her was showing signs of slowing down. Realizing that
-  a chance like this might never come, she gather all of her courage to speak.
+  conversation in front of her was showing signs of slowing down. Like a
+  shooting star that only came once, she gather all of her courage to speak, not
+  to miss this valuable chance.
 
   "Uhm... On the first day, I saw someone like Hina-senpai running on the
   tracks..." Mona stuttered, "But it seemed like she was crying back there...
@@ -201,14 +204,32 @@
   too much into it."
 
   // chui truong from temu
-  "Well, I agree. But my older brother is kind of the same. He got a buncha
+  "Well, I agree. But my older brother is kind of similar. He got a buncha
   scholarships from his university with a near-perfect GPA, but he always
   complained all sorts about his university." Uta continued,
   "So I think geniuses have their own shares of problems that us mortals could
   never comprehend."
 
-  // "Uta's brother?" Mona let out her thoughts.
-  //
-  // "Ah, I haven't introduced right? He's a second-year at Tokyo University of
-  // Technology. He's crazily good at studying, y'know? Much more than me, haha."
+  Mona recalled that morning when she visited the stadium. It was definitely
+  Hina, and she was definitely crying. It was a brief moment, but Mona could
+  make out a lot of things.
+
+  "I think it was sadness..." her voice got quieter, "if I'm not mistaken..."
+
+  "Sadness? Maybe it's her first love! I'm intrigued now!"
+
+  "Who just said that we should not dig too much into others' personal matters?"
+
+  "But it's high school love! Hime-chan said it, right? 'In high school, you
+  either fall in love or talk about other couples.'"
+
+  "Quoting that from an idol who graduated because of a boyfriend incident is
+  crazy. You really have no sensitivity at all..."
+
+  "Anyways, Mona, did you notice anything else? Like was there anyone else..."
+
+  The bell rang.
+
+  "That's enough." Uta dragged Mikoto by the collar back to their seats, and a
+  new school day started for the three.
 ]
