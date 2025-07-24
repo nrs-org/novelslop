@@ -19,11 +19,25 @@
   for a group karaoke. Mikoto was not joining because of club activities, so Uta
   was the only person she knew there.
 
-  She clung to the sleeve of Uta, which made her friend quite surprised.
+  She clung to the sleeve of Uta, which made her friend quite confused.
 
   Soon enough, Mona's group entered the karaoke booth. Since it was her first
   time there, Mona took glances around the place like a curious kid exploring
   her neighborhood. She had heard of going to karaoke shop many times before,
   both from her older friends and her idols, but now she could finally truly
   experience it first-hand.
+
+  A girl from the group went to the stall to book a room for the whole group,
+  while everyone was doing small talk.
+
+  Around her, there was a couple of smaller groups about to enter their
+  respective booth. Another thing that caught her eyes was the juice dispenser,
+  which Mona had seen before in fast food restaurants, but it seemed like this
+  one was self-served. Next to it was a shelf containing all sorts of silly
+  attachments, from animal ears to colored wigs.
+
+  _"I like the cat ear thing, but everyone would probably think that it's too
+  childish."_
+
+  Her focus switch back to the group.
 ]
