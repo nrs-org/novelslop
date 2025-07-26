@@ -106,5 +106,80 @@
   everyone else was flabbergasted by the sheer display of Uta's talents. Even
   Mona was clapping her hand, too.
 
-  "Amazing!"
+  "Amazing!" A girl yelled from the cheering crowd.
+
+  "Hehe... It's nothing, really."
+
+  Uta beamed back with a bright smile, which seemed to make the boys' heart
+  skipped a beat.
+
+  "Well, continuing Kazugai-san's otherworldly performance, I guess I'm gonna go
+  next." Uta's friend stood up after finished picking her song on the controller
+  tablet. She came to the mini-stage to receive the microphone from Uta's hand,
+  before the music to the next song started.
+
+  Once Uta got back to her seat, Mona could finally gather up the courage she
+  needed to ask her friend for a favor.
+
+  "Uhmm- Uta, can you help me a bit here?"
+
+  "Sure, what's it?"
+
+  "Since I only know idol songs, I'm not sure what to sing when my turn comes...
+  You know any idol songs that would be popular with everyone? Like idol covers
+  for example?"
+
+  Uta pulled the tablet over for her timid friend. Most of the idol songs Mona
+  knew was not even available, so she could not sing them even if she wanted to.
+  Though, in the first place, she did not want to anyway, as that would
+  instantly out her as a creepy idol nerd.
+
+  "How about this? You think you can sing this?" Uta, having finally found a
+  song suitable for her friend, pointed on the song title.
+
+  "Hmm- maybe this could work... But is the original song really that popular?"
+
+  "Yeah, the last time I've checked, it got about 300,000 million views, so...
+  You wanted to sing this after Rika?"
+
+  "Uhm- I think I can."
+
+  "Are you sure? Like do you need some time to compose yourself up first?" Uta
+  tried to give her friend some , "I know public gathering can be hard for you,
+  so don't force yourself."
+
+  Mona lightly nodded. "Well, if you say so..." Uta enqueued the song for her
+  friend, before giving her a "You got this!"
+
+  The two finally switched their attention back to the mini karaoke stage. The
+  song was just entering the third chorus, with an explosive and catchy tune.
+  Even though the girl, apparently named Rika, did not have as great of a voice
+  as Uta, she was still able to gather the attention of the crowd, and her voice
+  was still burning with passion.
+
+  Soonly enough, the song ended, and it's Mona's turn to sing.
+
+  "Oh! It's Narumi-san's turn."
+
+  "Sena-san has a really great voice, so I'm looking forward to this!"
+
+  "Can you stop including Narumi Sena into this please, Narumi-san must be
+  so--- tired of being her own sister's shadow..."
+
+  It seemed that everyone in the group, after the first two songs were getting
+  along quite nicely, to the point that they could give each others some silly
+  banters. Though, the sudden spike in conversation was making Mona quite
+  nervous.
+
+  "Come on, Mona! You got this!"
+
+  Uta's cheering voice seemed to give Mona the final push she needed. The first
+  verse finally came, and she could finally raise her voice to sing it.
+  Initially, her voice was somewhat low, even though it was already magnified by
+  the microphone, but this situation gradually improved as Mona gained quite
+  some confidence.
+
+  The song finally ended, and Mona returned to her seat after a round of
+  applause. It seemed like she was getting less praises than the first two,
+  which made her feel quite down.
 ]
