@@ -181,5 +181,25 @@
 
   The song finally ended, and Mona returned to her seat after a round of
   applause. It seemed like she was getting less praises than the first two,
-  which made her feel quite down.
+  which made her feel a little bit down.
+
+  "Good job, Mona!" Uta gave Mona her support, "That's pretty good for a first
+  time!"
+
+  "Thanks... But how did you know it's my first time?" Mona replied, worrily
+  asked if she slipped out something embarassing.
+
+  "I mean, you do be staring at various things at the lobby."
+
+  _"Aargh!"_ Mona screamed from the inside of her mind. She had let people see
+  that she was an old-fashioned girl who never entered any karaoke booth. How
+  will she ever recover from this...
+  From the outside, on the other hand, she tried to brush things off with a
+  faint smile.
+
+  Even so, this karaoke session with Uta had truly made her appreciate her
+  friend even more. Not only was she a natural leader, but she was also very
+  thoughtful when it comes to her friends. Though Mona had said thanks to Uta a
+  couple of times by now, there was still that urge in her to say those words
+  again and again.
 ]
