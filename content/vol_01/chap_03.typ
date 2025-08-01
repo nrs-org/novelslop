@@ -5,8 +5,8 @@
 
   Located in the outskirts of Tokyo, they were not the type of rich family who
   // yo absolute suicide????
-  could afford a luxury apartment 100 meters above the sea level, but still
-  well-versed enough in the urban lifestyle.
+  could afford a luxury apartment on a cliff 100 meters above the sea level,
+  but still well-versed enough citizens with the urban lifestyle.
 
   The dad, Narumi Yosuke, was a professional musician who had made soundtracks
   for various projects, but he is not particularly popular. Well, it was just
@@ -50,11 +50,12 @@
   was decent. However, other than that, Mona really outshined her sister in
   almost every way: she was a better cook, had better fashion sense, was more
   knowledgeable about idols (if that is a positive trait at all), etc. Though,
-  it could be argued that Sena’s clumsiness could be one of her charms.
+  it could be argued that Sena’s clumsiness could be a trait that highlights her
+  cuteness.
 
   Another major difference between the two sisters was their academic
   performance. While Sena almost fumbled her high school graduation exam, Mona
-  had been scoring average in almost every subject. This might not seem like
+  had been scoring average in almost every subject. Though it might not seem like
   much, it was actually an impressive feat for a girl born in a family without
   any studying genes.
 
@@ -66,36 +67,37 @@
   her idol addiction, such a future was better than anything Mona could ask for.
 
   Mona walked down the stairs, and on her way, she smelled the ever-familiar
-  scent of breakfast, something that she thought she would never be able to
-  experience another time after skipping breakfast for the entirety of her
+  scent of breakfast, a nostalgic scent that she thought she would never be able to
+  experience another time after skipping it for the entirety of her
   spring vacation.
 
   In the kitchen, Yusuke was cooking breakfast for the two daughters while his
   wife, Ayako, was trying to finish her meal as quickly as possible to go to
   work.
 
-  "Ah you are here, at last.", Yusuke said right as he saw her daughters, one of
-  whom was still sleepy, entered the room, "Wait a minute, your breakfast will
-  be done soon."
+  "Ah! You two are here, at last.", Yusuke said right as he saw her daughters,
+  one of whom was still sleepy, entered the room, "Wait a minute, your breakfast
+  will be done soon."
 
   "Good morning, dad, mom." Mona replied in a drowsy manner.
 
   "Good morning, Mona. Oh! You looked really nice in that new uniform. As
-  expected from my daughter!" Ayako replied while her focus was still fixated on
-  her meal.
+  expected from my daughter!" Ayako looked at her daughter for a while, before
+  returning her focus back to her meal.
 
+  Unbothered by the compliment,
   Mona, subtly and swiftly, took the seat next to her mom, before her sister
   could even notice. Since the chairs of the dining table were laid out by the
   two sides of the table, sitting next to her mother was the only way for her to
   avoid the fate of sitting next to the "siscon monster" named Narumi Sena. When
-  Sena realized her carelessness, she immediately turned her expression into
+  Sena realized her blunder, she immediately turned her expression into
   that of a pissed-off kid who just got their toys stolen, just to be met with a
   slight smirk on Mona’s face.
 
   "Mom! Change seats with me! I want to sit next to Mona too!", She groaned.
 
   "Can you see I’m trying to eat as quickly as I can right now? I ain’t got time
-  for your sisters’ games.", she replied in a joking manner, which annoyed Sena
+  for your sisters’ games.", she replied in a joking voice, which annoyed Sena
   even more.
 
   "Grrrrrrrrrrr"
@@ -190,25 +192,31 @@
   Consumed by the reminiscences of her past efforts, Mona returned to reality
   after finishing the last bit of her breakfast. The art of so-called
   inattentive devouring is just another hidden talent of hers, the fruition of
-  countless days eating snacks while watching idol shows on her beloved sofa.
-  Remembering an influencer recently going to China ended up to be a temporary
-  kung-fu practitioner, she wonders if her art could actually become popular in
-  the future.
+  countless days eating snacks while eyes gluing to idol shows on her beloved sofa.
+  That reminds her of an influencer recently going to China ended up to be a
+  temporary kung-fu practitioner, which made she wonder if her art could actually
+  become something popular in the future.
 
   "Well, I’m out for work today." Her mom’s voice echoes from the front door,
-  just as Mona finished her meal.
+  just as Mona finished her meal. Perfect timing, she thought.
 
   She took a look at the wall clock. It was actually getting quite late.
 
-  Quickly grabbing the prepared lunch box from the countertop, Mona picked up
-  her ordinary-like school bag before doing a final readjust of her outfits.
+  Not letting her sister have the chance to switch to the seat next to her,
+  Mona stood up, quickly grabbing the prepared lunch box from the countertop,
+  before picking up
+  her ordinary-looking school bag before doing a final readjust of her outfit.
+
+  In the sailor uniform of Misuzu High School, Narumi Mona felt like she was
+  ready for anything it took.
 
   "I’m going now."
 
-  Putting on her outdoor shoes, Narumi Mona took her first steps of high school.
+  Putting on her outdoor shoes, Mona took her first steps of her high school
+  life.
 
   "Have a good day!"
 
-  Mona rushed out of the doorway, to be met with her first Spring of high
-  school.
+  Mona rushed out of the doorway, to be met with a gentle breeze, which
+  identified the start of her very first Spring of high school.
 ]

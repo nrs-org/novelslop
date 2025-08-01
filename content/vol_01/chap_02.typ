@@ -20,8 +20,8 @@
   Suddenly, disrupting the peaceful scenery of an April morning, was a girl who
   barged right into Mona’s room.
 
-  Having long blonde twintails and a cute face, she was the representation of an
-  ideal high school girl.
+  Having long blonde twintails and a cute face, she was the perfect
+  representation of an ideal high school girl. Or at least she used to be.
 
   "Mona, wake up! Today is your first day of high school, right?" Sena, who had
   just finished her daily morning running practice, woke her sister up in an
@@ -63,7 +63,8 @@
   As Mona took off her bedtime clothes, she had another look at her new sailor
   uniform.
 
-  It is still unbelievable that she actually passed the entrance exam.
+  At least for her, it is still unbelievable that she was actually wearing this
+  uniform.
 
   After Mona finished, opened the bathroom door, and prepared for the worst, she
   was instantly met with her sister’s intense gaze.
@@ -74,8 +75,8 @@
 
   "Stop…, big sis! You will ruin my uniform!"
 
-  Of course, Mona really don’t care much about her appearance, it was nothing
-  but an attempt to escape the painful grip of her sister.
+  Of course, Mona really don’t care much about the state of her uniform,
+  it was nothing but an attempt to escape the painful grip of her sister.
 
   "Oh right!" Sena immediately released Mona from her tight embrace, "I can not
   ruin your first high school impression. I spent so much time ironing that
@@ -97,15 +98,15 @@
   she did not like how her sister always bought all sorts of so-called "cute
   clothes" that look more like a clown costume and expect her to wear it.
 
-  Hence, she had developed a cold front towards Sena. In other words, she was a
-  certified _tsundere_, who had no choice other than to conceal her emotions like
-  this.
+  Hence, she had developed a cold front towards Sena. In other words, like a
+  stereotypical _tsundere_, she had no choice other than to conceal her emotions
+  like this.
 
-  As for Sena, she in fact knew everything. Of course, she was not bothered by
+  As for Sena, she in fact knew everything. Because so, she was not bothered by
   this fact at all. If anything, this gave her even more reasons to act clingy
   to Mona. Seeing her dear sister concealing her real emotions made her cuteness
   tenfold after all.
 
-  They say siblings always have some sort of complicated relationship, which
+  They say siblings always have some sort of complicated relationships, which
   seems to apply here as well.
 ]

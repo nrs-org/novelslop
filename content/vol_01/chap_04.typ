@@ -1,25 +1,35 @@
 #import "../../lib.typ": chapter
 
 #chapter(4, "On the cherry-colored pathway to school, Narumi Mona has high hopes for her future")[
-  On the cherry-colored pathway, Mona would soon saw other students within her
+  With the cherry blossoms covering a part of the sky with its pink, Mona had no
+  care for the scenery around her. After all, it's been the ninth year she had seen
+  this scene before, not to mention the countless times that this overused scene
+  was used on all sorts of TV programs.
+
+  On the pathway to school, Mona would soon saw other students within her
   own ages walking along with her.
 
   Today was Mona’s high school debut, a day so important that it could determine
   whether she would spend her high school days in loneliness or a close-knit
-  circle of friends. Even though she was fine with either of those, the latter
+  circle of friends (the possibility of her becoming a popular figure in class
+  was automatically removed from her conscience due to its impossibility).
+  Even though she was fine with either of those, the latter
   was a far more pleasant option.
 
-  Most of those people were going in groups, while happily chattering with each
-  other.
+  Most of those people around her were going in groups,
+  happily chattering with each other. She noticed a girl, seemingly one or two
+  years younger than her, walking by a friend whom she had been happily chatting
+  with.
 
   "It would be nice if I could find a close friend like that…", she mumbled.
 
   Being a prestigious prep school, Misuzu does not seem to be a place where idol
   fans would like to hang around at, so the likeliness of Mona actually finding
   her own kinds there was nearly zero. Well, if you factor in the people who
-  would despise idol stuff, that number would just drop to the negative range.
+  would despise idol stuff as a negative count,
+  that number would just drop to the negative range.
   And without any notable traits other than her profound admiration for idols,
-  that was probably her best bet.
+  that was probably her best bet of getting to talk her mind out freely.
 
   _"No, I have to stay positive. If I got to college, I’ll have a high-paying
   stable job, which can adequately fulfill my crippling idol addiction. Yep, I’m
@@ -28,16 +38,21 @@
   am right now. Friends are unimportant, for now."_
 
   They say money can buy anything except friends, but that seems to get more and
-  more false with the world has been evolving right now. All sorts of drama on
-  the Internet were happening because of a funny symbol attached to some
-  numbers. Well, at least internet drama and real life are two different worlds.
+  more false with the world has been evolving right now.
+  People wanted to become friend of popular figures so bad that they could give
+  a large sum of money, to the point that people were ridiculing them for being
+  such a "simp".
+  Well, at least the world of internet drama and real life are two different
+  worlds, she thinks.
 
-  No matter how she tried to convince herself otherwise, she just wanted to be
-  like an ordinary high schooler, someone who could have fun with friends from
-  days to come. Well, deep down she knew that, but whatever, teenage rebellion
-  is a very popular thing amongst teenagers, after all.
+  No matter how she tried to convince herself otherwise, deep down, she knew she
+  just want to be
+  like an ordinary high schooler, someone who could have fun with friends for
+  days to come. Well, even though she knew exactly how much she wanted a friend,
+  teenage rebellion was still a very popular thing amongst teenagers, after all.
 
-  Soon enough, she arrived at the train station. Since Misuzu High School was
+  Soon enough, she arrived at the train station, a place where she could finally
+  take a quick rest. Since Misuzu High School was
   located in the middle of Tokyo, it would take Mona a quick five-minute train
   ride to get there. As her old middle school was roughly in the same region,
   this was nothing out of the ordinary for her.
@@ -52,8 +67,11 @@
 
   Mona took out her phone and began her daily routine of stalking her idols on
   social media. To give credit where it’s due, her feed is not entirely idol, as
-  there was some generic otaku stuff there. Well, Mona’s idol addiction is not
-  entirely her own identity, so to speak.
+  there was some generic otaku stuff there. Well, it's not that Mona based her
+  entire online presence on just idol stuff, so to speak.
+
+  The first post she saw was a post of one of her faves, known by the stage name
+  Miyu Aki.
 
   // absolute suicide
   _\@miyu425: "Thanks for all your support! I’m in charge of Alice-chan in
@@ -95,7 +113,8 @@
 
   That was about it. Her feed is full of her favorite idols talking about their
   life and work, with the occasional anime or manga announcement. Speak of the
-  devil, that was the staff announcement of "Tea Party At the End of the World".
+  devil, that was the staff announcement of "Tea Party At the End of the World"
+  that Sena was talking about this morning.
   Seeing her father’s name along with the industry giants still felt unreal for
   Mona. He had done some music tracks for smaller anime, but seeing something
   his name on a post with over 100,000 likes was just a different beast.

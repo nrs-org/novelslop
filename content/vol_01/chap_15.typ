@@ -17,12 +17,18 @@
   she had a couple of interactions that soon
   diverged from the original topic, which gave her some new friends.
 
+  Uta was sitting on the train back home, while
+
   // apiss mentioned RAHHHHHHHH
   "So yeah, I was talking about that Alice show, y'know, I'm so hyped up for
   that!"
 
   "The original story is pretty good, yeah. I wonder how good the adaptation
   would go. It'd be funny if it turned out to be the new _Powerpoint Hit_..."
+
+  Uta giggled. Even though school ended, her daily chore of messaging to her
+  classmates has not ended. Though it could feel like a chore sometimes, the
+  giggle she just let out implied that she was kind of enjoying it.
 
   "Please don't! That was like a generational fumble... I still could not
   believe my eyes that the animation was THAT bad. Can't believe what the
