@@ -7,7 +7,8 @@
   School ended, but unlike usual, Mona did not head straight to home. She was
   now sitting with two of her new friends: Nanba Mikoto and Kazugai Uta.
 
-  When the bell rang, Mona took a quick glance at Uta and Mikoto's seats.
+  Back when she was at school and the bell rang,
+  Mona took a quick glance at Uta and Mikoto's seats.
 
   // absolute ESCAPE
   // absolute RAMUNE
@@ -55,8 +56,8 @@
   Needless to say, it could not be any further from what really played out.
 
   The one who was getting a side for her own was Uta, since Mikoto was having an
-  unhealthy obsession with her new test subject, I mean, _friend_. Though, she
-  definitely tried her best not to bother Mona too much.
+  unhealthy obsession with her new test subject, I mean, _friend_. Though, to be
+  fair, she definitely did try her best not to bother Mona too much.
 
   Mikoto continued the stream of questions she had for Mona. And Mona was
   attentively listening and answering Mikoto's questions, while actually asking
@@ -88,9 +89,14 @@
   So she should have an extreme amount of knowledge... I want to chat with her,
   too."_
 
-  Even though she acted much calmer to Mikoto, Uta had much more idol knowledge
-  than her friend. She had watched idols since she was young, and what she knew
-  about idols did not come from one source. Though, lately, she could barely
+  Even though she acted much calmer to Mikoto, Uta did have much more idol knowledge
+  than her friend. They say that the more you know, the less you talk, after
+  all. Though it was not really true as Uta was the kind of girl who had a lot
+  of friends to talk to.
+
+  Uta had watched idols since she was young, and what she knew
+  about idols did not come from one source, unlike Mikoto.
+  Though, lately, she could barely
   find the time to watch idols as much as she used to.
 
   Hence, she was very curious about Narumi Mona.
@@ -104,7 +110,7 @@
   "Hey! Did you remember that I had to spend all that time with your silly
   detective game, Mikoto. What do you mean by that?"
 
-  And thus, Uta conviniently joined in the conversation. She had been eating
+  And thus, Uta conveniently joined in the conversation. She had been eating
   while looking at her smartphone, so she did not notice that Mikoto was paying
   attention to her, realizing how Uta was hesitant to talk to the other two.
 
@@ -171,7 +177,7 @@
 
   "Mona, she was just testing you." Mikoto, who had been listening to the
   conversation without understanding anything, interjected. "And it seemed you
-  far surpassed her expectations."
+  far surpassed her expectations. Congratulations!"
 
   She glanced back to Uta, as if mocking her.
 
@@ -192,7 +198,8 @@
   "No, I did NOT. I said I'm going to be her friend, not her idol discipline!
   Ah, how about club stuff? You two gonna join any clubs?"
 
-  "I'll pass, thanks." Uta immediately replied.
+  "I'll pass, thanks." Uta immediately replied, "Where did that even come from,
+  anyways?"
 
   "I expected that, but Mona?"
 
@@ -272,4 +279,7 @@
   high school."
 
   "Okay, Mikoto-sama."
+
+  Uta nonchalantly replied after a short sigh, before returning to her phone. It
+  was going to be a tiring day tomorrow, it seemed.
 ]

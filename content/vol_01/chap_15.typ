@@ -11,13 +11,15 @@
   later from her friends.
 
   Today had been quite a long day for her. She was approached by all sorts of
-  people because of Mona, to the point she was still talking to some of them
-  at this exact moment. While there were some guys who just wanted to ask things
+  people because of her friend Mona, to the point she was still talking to some of
+  them at this exact moment. While there were some guys who just wanted to ask things
   about Narumi Sena and her younger sister,
   she had a couple of interactions that soon
-  diverged from the original topic, which gave her some new friends.
+  diverged from the original topic, which gave her some brand new friends.
 
-  Uta was sitting on the train back home, while
+  The scenery outside the train was no longer that of a populous city, but
+  rather a more peaceful suburb urban area. For Uta, this was about halfway to
+  her home.
 
   // apiss mentioned RAHHHHHHHH
   "So yeah, I was talking about that Alice show, y'know, I'm so hyped up for
@@ -27,7 +29,7 @@
   would go. It'd be funny if it turned out to be the new _Powerpoint Hit_..."
 
   Uta giggled. Even though school ended, her daily chore of messaging to her
-  classmates has not ended. Though it could feel like a chore sometimes, the
+  classmates has not. Though it could feel like a chore sometimes, the
   giggle she just let out implied that she was kind of enjoying it.
 
   "Please don't! That was like a generational fumble... I still could not
@@ -36,6 +38,18 @@
   the World_?"
 
   "Hmm? It got a staff announcement, right?"
+
+  _Tea Party at the End of the World_, or _Tea Party_ for short, was a magical
+  girl manga that recently got an anime adaptation announcement. Being one of
+  the most popular shoujo manga on Magica☆Stella, the anime was widely
+  considered as one of the most anticipated upcoming release.
+
+  Though, Uta did not really care about the anime. She tended to prefer more
+  obscure anime than the stuff people tended to discuss a lot of. On the
+  Internet, they called her a contrarian or something, but it was just that
+  obscure anime had some "aura" that made them more lovely than the popular
+  releases, at least for Uta. Despite not caring much about popular anime such
+  as _Tea Party_, Uta was still very well-informed about such releases.
 
   "Uhm, I skimmed through and thought there was nothing, but is this Narumi
   Sena-san's dad?"
@@ -68,8 +82,8 @@
 
   Uta navigated to her messaging thread with Mona. Compared to the thread she's
   just talked on, this one was much, much shorter. Well, Uta did not have much
-  to talk about with Mona, and the fact that they had already spent quite a lot
-  of time at school together did not help.
+  to talk about with Mona, and to be fair, they mostly interacted at school,
+  rather than through a messaging app.
 
   At least now there would be a topic for her to strike a new conversation. She
   forwarded the announcement picture before sending a message,
@@ -97,7 +111,8 @@
   // "putting the fries in the bag"
   With this, Uta's train ride finally got to an end. Putting the phone into her
   bag, she was ready to get out of the train to go back home. She sent a quick
-  good-bye to the girl she was talking earlier, before hopping off.
+  good-bye to the girl she was messaging with earlier, before hopping off the
+  train.
 
   Stepping out of the door, she was met with the fresh air and the sunset of her
   home city. It was a scene that could awaken a special feeling in anyone, but
@@ -113,7 +128,7 @@
   A major downside of living this far to Tokyo was that Uta had to board two
   30-minute train rides every day to school, which was not the end of the world
   but rather a hassle. It was the same situation for her family members too, but
-  recently, her parents had their work relocated close to her hometown.
+  recently, her parents had their work relocated close to where they lived.
   They wanted to get a house in the middle of Tokyo for their children,
   but it was nothing other than a fever dream,
   considering the never-ending rise of house prices.
@@ -139,7 +154,8 @@
   perhaps?"
 
   "After that whole Narumi Mona incident,
-  I'd not be surprised if it's actually him."
+  I'd not be surprised if it's actually him. Also, that's a very poor attempt of
+  changing the subject."
 
   "But Rika-chan really has an insane eye. Meanwhile our streamer, I still
   remember her insane throw in that History question."
@@ -231,10 +247,16 @@
 
   "Not really... I am just tired."
 
+  Her tone suddenly switched from that of an energetic streamer to a honest and
+  gentle one. It was a tone she shared to no one, even her closest friends at
+  school.
+
   "Well, being noble to others truly is hard, right?"
 
   "It's been only two days, and Uta-nyan feels like she does not have any energy
   left..."
+
+  Uta sighed.
 
   "Chat, I don't want to admit, but maybe I'm not cut out for this..."
 
@@ -244,16 +266,22 @@
   "Repenting for ones' sins is hard! Especially if you're a horrible person like
   Uta-nyan..."
 
+  Normally, Uta would fight with her chat over the most trivial things. But
+  right now, the two seemed to finally agree on something for once.
+
   "Anyway, you need to lock in right now! If you want to pay all that debt, you
   must act now!"
 
   "Right! Chat, you know what? It's actually much easier than it looks like!"
+  Uta's voice become slightly mischievous.
 
   "How exactly, my streamer?"
 
   "All it takes is this chat to STOP DOOMPOSTING AND JUST LET ME FOCUS ON THE WORK.
   Can we have LESS BRAINROT in this chat and actually have meaningful
   discussions?"
+
+  And the discussion returned to its upbeat state.
 
   "Not with that attitude, it seems."
 

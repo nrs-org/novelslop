@@ -15,8 +15,8 @@
   allowed it to take over all aspects of daily life.
 
   And now, Mona and her friends felt like their life would be nowhere-complete
-  without their smartphones, while not knowing how exactly useful a computer
-  could be.
+  without their smartphones, while not knowing how a computer could exactly be
+  useful for.
 
   Hence, Mona walked in the IT clubroom, expecting to see a digital vintage
   world of some old technology.
@@ -27,9 +27,9 @@
 
   To accomodate the club's immense demand of electricity, power outlets and
   wires were placed everywhere throughout the clubroom. All the complex wiring
-  were to power the computers, which there were one or two dozens. Some members
-  were sitting at a computer, typing something to the machine with lightning
-  speed.
+  were to power the computers, which there were about one or two dozens.
+  Some members were sitting at a computer, typing something to the machine with
+  lightning speed.
 
   The male student standing in front of Mona introduced himself with an
   increasingly quieter tone. He was the club president, since he was in charge
@@ -55,7 +55,7 @@
 
   "Well... I guess... I will give a quick rundown of the club..."
 
-  "Senpai, you got it!" Uta encouraged him in a half-joking tone.
+  "Senpai, you got it!" Uta encouraged him in a half-encouraging tone.
 
   "Uhm... thanks." He continued, "Well, the club..., as you can see, was mainly
   about computers. Even though computers were just a small topic of the IT
@@ -89,11 +89,12 @@
   "Programs? You mean the coding assignments in second-year middle school? You
   can compete in writing that?" Mikoto replied with enthusiasm.
 
-  "Right! And if you are good at this and got some awards, some university would
-  take you in instantly."
+  "Right! And if you are good at this and got some awards, IT programs at some
+  university would take you in instantly! A lot of graduates from the club got
+  into their university without having to take any entrance exams because of it."
 
   Mona noticed that the president suddenly became able to converse much more
-  freely than before. Maybe it was due to the fact it was his topic?
+  freely than before. Maybe it was due to the fact it was his forte now?
 
   "Really? Maybe I should take a try!"
 
@@ -150,7 +151,7 @@
   _"System call? Hexadecimal? Pointers? What on earth is he talking about?"_
 
   The president became a talking textbook. And not an ordinary textbook, it was
-  an advanced one for college graduate students or something. The three girls
+  an advanced one for college undergraduates or something. The three girls
   could only digest about one tenth of what he said.
 
   "I'm sorry, but I could only understand like a bit of that."

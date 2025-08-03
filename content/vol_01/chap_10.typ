@@ -27,7 +27,7 @@
   Mona, as clueless as she had always been, did not realize that she was the
   reason why her friend had to respond to more messages than normal. Beside the
   messages in her middle school class group, Uta had to respond to literal
-  strangers that just want free Narumi Sena merch, but too lazy to meet Narumi
+  strangers that just want free Narumi Sena merch, but too shy to meet Narumi
   Mona in person.
 
   Though, it was not like Uta did not like the attention she had been getting.

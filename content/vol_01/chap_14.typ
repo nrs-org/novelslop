@@ -31,7 +31,7 @@
   by 'let alone'?"
 
   "Wait, I did not mean it." Uta, knowing that she messed up real bad, tried to
-  defense herself, "Mona, I'm sorry!"
+  defend herself, "Mona, I'm sorry!"
 
   Uta apologized with a bow, which Mona quickly accepted with an "it's okay".
 
@@ -65,7 +65,7 @@
   took place. Now that they were heading here, Mona was suddenly reminded of a
   piece of memory that she thought had left her mind.
 
-  _"That senpai, I wonder whether she was from the club Mikoto was mentioning..."_
+  _"That senpai, Wasn't she from the club Mikoto was mentioning..."_
 
   She recalled the figure of a running girl, which was barely hazy on her mind.
   On her first day to school, she did have a quick look at every sports club,
@@ -110,12 +110,12 @@
   "Arrgh! Just one more day and I would win the bet!",
   another girl groaned loudly, "Why must it end like this?"
 
-  "Calm down and just give me the money, little girl. "
+  "Calm down and just give me the money, little girl."
 
   It seemed that the three girls' sudden appearance has quite caused some
   ruckus.
 
-  The three girls looked in the direction she was shouting to see the senpai
+  They looked in the direction she was shouting to see the senpai
   from earlier. She paused for a while to notice the sudden arrivals, then
   dashed straight towards where the newcomers and the rest of the club was
   located.
@@ -193,7 +193,8 @@
   Everyone was like waiting for this exact moment to get up and packing their
   stuff, which made the girls reacknowledge the presence of other girls in the
   club aside Hina. Aside from calling Hina over, they had been doing absolutely
-  nothing except chatting and playing with their phones. Unlike Hina, they had
+  nothing except chatting and playing with their phones. Furthermore, unlike Hina,
+  they had
   not even changed their clothes to a sport uniform, which meaned they had no
   intentions of doing anything athletic.
 

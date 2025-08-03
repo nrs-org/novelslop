@@ -41,7 +41,7 @@
 
   "Hey, Mona! Come here if you are tired too!"
 
-  "Heh- I’m okay." Mona reluctantly shook her head, "Just staying here is fine."
+  "Heh? I’m okay." Mona reluctantly shook her head, "Just staying here is fine."
 
   "Don’t be like that. The chilling spring breeze is really relaxing."
 
@@ -109,8 +109,8 @@
   Though, to be fair, Ako had helped Koto quite a lot throughout their shared
   childhood. Koto had been not quite good with handling people, so it was lucky
   for her to have Ako handle all the hard work. After everything ended up being
-  done and well, Koto would always be in awe of her friend, while still clueless
-  about Ako's real intention.
+  done and well, Koto would always be in awe of her friend, while still being
+  clueless about Ako's real intention.
 
   "Anyway, was that the Narumi Mona girl that I've been hearing about recently?
   She was much more shy than I expected from the little sister of Narumi Sena."
@@ -135,7 +135,7 @@
 
   "Woah- this one sounds more interesting."
 
-  "It's literally the name of a subject, Mikoto."
+  "It's literally the name of a school subject, Mikoto."
 
   "Ah, right, we had that in the entrance exam, too... So this should be a club
   about computers..." Mikoto pondered, "Mona! You were somewhat nerdy, so maybe

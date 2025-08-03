@@ -207,14 +207,15 @@
   to the boy soccer team and a girl Track & Field team.
 
   The boys were mainly practicing on an area roughly a quarter of the field,
-  while the girls team seemed to "not be a team", as there was only a girl
-  there. She seemed to be running laps around the track fields.
+  while the girls team seemed to... not really be a team, as there was only a girl
+  there. She was running laps around the track fields.
 
-  It reminded Mona of her own sister, who did this type of training every day.
+  The looks of her reminded Mona of her own sister, who did this type of training
+  every day without skipping.
   It seemed that even at an academic-focused institute, there were still a lot
   of people who took their clubs very seriously.
 
-  There, she noticed the slender figure of a running girl. The morning fog makes
+  She noticed the slender figure of the running girl. The morning fog makes
   it hard to see how she looked like exactly, so Mona could not quite make out
   how this girl looked like.
 
@@ -253,9 +254,9 @@
   some impressive, some not, she felt bored, then headed to her next
   destination.
 
-  Aside from the football stadium that conformed to professional standards,
-  Misuzu also had a baseball pitch that was suitable for actual national-level
-  events. Mona planned on getting there next.
+  Aside from a football stadium conforming to professional standards,
+  Misuzu also had a pretty popular baseball pitch that was suitable for
+  organizing national-level events. Mona planned on getting there next.
 
   At the baseball practice grounds, Mona saw a group of students in baseball
   uniforms, which she assumed to be the school’s baseball team. Even though the

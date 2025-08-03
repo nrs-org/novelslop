@@ -22,8 +22,8 @@
   the first-years and the second-years, it made sense to let the newcomers walk
   less, as a welcoming tribute to their efforts on the entrance exam. The
   second-years, who had to walk the most, still found it quite convenient, as
-  the clubrooms, where they hanged out a lot, were right there on the next
-  floor.
+  the clubrooms, where about half of them hanged out a lot at,
+  were right there on the next floor.
 
   After finding out where she would spend most of the school year at, Mona
   entered her classroom for the first time.
@@ -65,10 +65,11 @@
   "How about we do a self-introduction so that everyone in the class can get to
   know each other better?"
 
-  Mona, was her thoughts still on the cloud with the recent idol news, were
-  caught off-guard. Why is self-introduction still a thing in high school, she
-  thought, isn’t it just a thing in shoujo manga? Or maybe he’s into this kind
-  of stuff?
+  Mona, with her thoughts still on the cloud with the recent idol news, were
+  caught off-guard. _"Self-introduction? It's still a thing in high school?"_,
+  she thought,
+  _"Isn’t it just a thing in shoujo manga? Or maybe he’s into this kind
+  of stuff?"_
 
   As Mona hurriedly tried to make a script of what to say, her classmates, one
   by one, stood up and introduced themselves. Some girls were able to neatly
@@ -134,7 +135,7 @@
   entire new class. This moment would probably go down as one of her worst event
   ever in her high-school life, haunting her for years to come.
 
-  The rest of homeroom went sluggishly passed as Mona was begging for time to
+  The rest of homeroom sluggishly passed as Mona was begging for time to
   flow faster, so that she could go to the restroom or somewhere to hide her
   embarassment. Following homeroom was the entrance ceremony, which was hosted
   in the school auditorium.
@@ -147,8 +148,8 @@
   2-B, had a brief speech along the lines of "I will make this school a
   better place" and "Welcome fellow newcomers, I hope you will enjoy your stay
   at Misuzu". Nothing too extraordinary, except for the unusual focus on
-  improving efficiency and productivity, so maybe she was planning to do
-  something related to this?
+  improving efficiency and productivity, so maybe she was planning something
+  interesting?
 
   Then comes the Principal. His speech is basically the last year (which is also
   similar to the year before) except for every occurences of last year is
@@ -197,10 +198,11 @@
   By the time she finished searching up the song on her phone, the ceremony has
   ended. Those who were awarded stepped off the stage, and some
   not-so-sure-what-role-they-have people made some speeches that, no one really
-  cared about, before the end was signaled.
+  cared about, before the end was signaled with loud clapping noises.
 
   Mona returned to her classroom and sat on her desk. It was time for lunch
-  break, so she took out her lunch box. Mona usually made
+  break, so she took out the lunch box she brought since the morning.
+  Usually, it was Mona who made
   her own lunch box, but for the special occasion of her entering high school,
   today's lunch was made by her dad.
 

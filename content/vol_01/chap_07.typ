@@ -81,7 +81,7 @@
 
   "Is that right, Kazugai-san?" The two girls turned their heads to Uta.
 
-  "Heh-" Uta seemed startled, "I guess so."
+  "Heh?" Uta seemed startled, "I guess so."
 
   It seemed that the topic of idols distracted the group from the main
   character, whose head was still on the clouds.

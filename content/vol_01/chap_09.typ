@@ -23,7 +23,13 @@
   _"Rumors... sure spread pretty fast."_
 
   Everything was still normal on that morning, until Mona went to take her shoes
-  from the locker room. She remembered everything that happened yesterday,
+  from the locker room.
+  Up to that moment, nothing seemed out of the ordinary.
+  It was the same spring, the
+  same flower petals that rained down from the cherry blossom, and the same
+  grand-old school gate.
+
+  The sudden interaction reminded her of everything that happened yesterday,
   including how she revealed her relationship with Narumi Sena.
 
   She took a brief look around. There were some girls clumped together,
@@ -199,7 +205,8 @@
 
   "You know Narumi-san, right?"
 
-  _"Wow, straight to the point."_
+  _"Wow, straight to the point. Did not expect her to be this straightforward,
+  not gonna lie."_
 
   "Right, you have a favor to ask her?"
 
@@ -234,6 +241,9 @@
   group of girls.
 
   "Kazugai-san, could you please ask Narumi-san for a signature for us too?"
+
+  It seemed like they noticed Uta helping out the girl earlier, so they were
+  going here for the exact same thing.
 
   Uta was truly living in the Digital Age, where information flows at the
   speed of light.

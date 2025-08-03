@@ -6,7 +6,7 @@
 
   That was what Miyano Koto thought after she heard a voice from the door.
   Putting down the book on anarchist movements during the 15th century, which
-  she would recommend to anyone interested in history and how it influenced
+  she would recommend to anyone interested in history and how much it influenced
   modern society, the girl replied to the knocking with a gentle voice,
 
   "Come in! The door is unlocked."
@@ -22,9 +22,10 @@
   exploded on the second day, when Narumi Mona's existence had become public
   knowledge.
 
-  Despite not knowing much about celebrities, people in her class had been
-  discussing all sorts of things about Sena and Koto, involuntarily, absorbed
-  some information. One thing was that Sena was terrible at studying, especially
+  People in her class had been
+  discussing all sorts of things about Narumi Sena and Koto, despite not knowing
+  much about showbiz, absorbed quite a lot of
+  information. One thing was that Sena was terrible at studying, especially
   Classical Lit., but somehow her sister was able to enter Misuzu.
 
   Hence, the fact that Sena's little sister entered the room was quite a weird
@@ -36,18 +37,21 @@
   few of clubmates throwing glances at Mona, and how she seemed to be worried at
   the glazes she got.
 
+  So in an attempt to ease away all the worries on her head, Koto decided to
+  speak up.
+
   "Welcome to the Classical Literature Club. Go ahead and take a seat!" Koto
   said with a gentle smile on her smile.
 
   Things ultimately settled down as the three girls, including Mona, settled
-  down to sit at the opposite table as Koto, the only place where three
+  down to sit at the opposite side as Koto, the only place where three
   consecutive empty seats were available.
 
   Originally a reserved classroom, the Classical Lit. clubroom had quite a lot
   of old classroom equipments, which was initially moved to one side of the
   room. Though, some desks were utilized to form a big square at the center, to
   form some sorts of reading space that resembled a council chamber rather than
-  reading space. Maybe it was used for such purposes sometimes.
+  some reading space. Maybe it was used for such purposes sometimes.
 
   Now that Koto had taken a closer look at her new guests, she realized that
   the Mona girl seemed to be much shyer than her older sister, so maybe she was
@@ -101,13 +105,14 @@
   notice them.
 
   The three girls, out of curiosity, looked at the listing of awards to find the
-  Second Prize Koto was talking about.
+  Second Prize that Koto was talking about.
 
   "Second Prize, Tokyo Novelist Competition, Tsukishima Ako"
 
   Well, there goes the anonymous part.
 
-  And the girl named Tsukishima Ako was sitting right next to Koto, but the
+  And the girl named Tsukishima Ako was the one sitting right next to Koto,
+  but luckily for her the
   girls had not known any names yet. She was the one throwing a punch to Koto's
   hips earlier.
 
@@ -154,7 +159,7 @@
   Uta and Mikoto were once again communicating using their eyes, but Mona could
   somewhat read what's being said.
 
-  She had spent too much energy asking the previous question, so there is no way
+  Mona had spent too much energy asking the previous question, so there is no way
   she could ask another one. She did not even have a clue what to ask.
 
   The unexpected friendliness and the detailed answers from Koto was definitely
@@ -169,8 +174,8 @@
   Mona and Mikoto were now gobbling their mind for questions. But they could not
   even find a single clue.
 
-  From under the desk, Mikoto lightly pulled Mona’s shirt. She was truly
-  desperate.
+  From under the desk, Mikoto lightly pulled Mona’s shirt. Desperate times call
+  for desperate measures.
 
   When she had caught Mona’s attention, she spoke in a quiet tone, "Do you know
   much about classical literature? Think of a question about that topic,
@@ -205,7 +210,7 @@
   other clubs to check out, so excuse us."
 
   "Oh, right! Feel free to join! Or if you don't want to join, it's okay as
-  well~"
+  well\~"
 
   Only waiting for that, the other two stood up, while picking up their
   schoolbags, "We're going, thank you very much..."
