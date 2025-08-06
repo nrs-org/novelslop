@@ -9,7 +9,7 @@
 
   Though, she did not expect to become popular this quick, to the point of
   having her messaging app exploding with notifications. Last night, she had to
-  stay up late until 11 PM just to respond to everyone, after finishing her
+  stay up late until 11 PM just to respond to everyone, after finishing all her
   schoolwork.
 
   She just passed through the school gate. On the first day, that gate was the
@@ -21,7 +21,7 @@
   cardboard plates, and she seemed to have quite some trouble doing so.
 
   Once she recollected the identity of the girl, she hastened her steps and
-  lightly tapped her shoulder.
+  lightly tapped the girl's shoulder.
 
   "Good morning, Mona!" Uta greeted with a bright smile, "What are you carrying?"
 
@@ -55,8 +55,10 @@
   "Mornin', Rika."
 
   It was Uta's new friend, Mizukawa Rika. She had a very distinctive voice,
-  along with a somewhat flashy appearance. Yesterday, after Uta reported the
-  news, the two chatted with each other until midnight.
+  along with a somewhat flashy appearance. The things that made her stand out
+  the most was her hair color, which was a mix of pink and blonde.
+  Yesterday, after Uta reported the
+  news about Mona's dad, the two chatted with each other until late.
 
   "I still can't believe that Narumi-san's dad is actually the composer for Tea
   Party!" Rika sent a glare of admiration to the subject, "Life is really full
@@ -80,9 +82,11 @@
 
   _"It's just day 4 and Uta already got a new friend..."_
 
-  Narumi Mona was watching Uta's conversation with Rika, but because of the
-  distance, she could not make sense of anything. Based on the message she
-  received yesterday, it could be that they would be talking about her dad.
+  Narumi Mona had finished dealing with the usual crowd surrounding her desk, so
+  now she was left alone. Out of curiosity, she was watching Uta's conversation
+  with Rika, but because of the distance, she could not make sense of anything.
+  Based on the message she received yesterday, it could be that they would be
+  talking about her dad.
 
   "Uta is really amazing, she could make friends so easily!", she thought to
   herself, "Meanwhile all I could do is follow Uta and Mikoto's steps, haha.
@@ -94,7 +98,9 @@
   Mona did not have to talk much nowadays, but she felt a little bit lonely.
 
   With Uta getting a new friend, she thought to herself, maybe one day Uta and
-  Mikoto would also leave her as well. And then, she became to sink in the world
+  Mikoto would also leave her as well.
+
+  And then, she became to sink in the world
   of negative thoughts.
 
   "Mona?" A voice echoed from Mona's left ear, "Heyyyyyyyyy"
@@ -106,9 +112,13 @@
 
   "Ah! Good morning, Mikoto..." Mona mumbled.
 
+  Standing alongside her was Uta, who seemed to have finished her previous
+  conversations with her new friend. _"Wait, did I space out that long?"_
+
   "Is something wrong?" Mikoto replied, "You were spacing out or something."
 
-  "Uhm... it's nothing, I'm just thinking about some stuff."
+  "Uhm... it's nothing, I'm just thinking about some stuff." Mona scratched her
+  head, try to cover up whatever was on her mind.
 
   "Hmm, okay, if you say so..." Mikoto paused, before noticing the signature
   plate on Mona's desk, "Wait, is that Sena-san's signature that I asked you before?"
@@ -134,16 +144,16 @@
   come, so it's just me and her..."
 
   They did not do any running yesterday, and Hina did not even wait for them to
-  come for morning practice. So that could only mean one thing. Though, Mona did
-  not want to spell it out for Mikoto.
+  come for morning practice. So that could only mean one thing, which Mona did
+  not want to explicitly spell it out for Mikoto.
 
-  "So basically they are just ghost members?" Uta immediately told Mikoto what
-  was on Mona's mind.
+  "So basically they are just ghost members?" Uta immediately told Mikoto the
+  exact thought Mona was having.
 
   "Aargh! Don't say it like that! Maybe they just have something else to do!"
   Mikoto groaned with a voice full of denial.
 
-  "Hey, Mikoto... I think you should face reality as it is."
+  "Hey, Mikoto... I'm sorry but I think you should face reality as it is."
 
   "What do you mean 'face reality'?" Mikoto objected, "They are just... they are
   just busy y'know."
@@ -178,7 +188,7 @@
   was probably a combination of the two.
 
   "Noted... next time I'm gonna be extra polite to her... Can't believe that I
-  actually got the chance to become the junior of someone insane like her..."
+  actually got the chance to become the junior of someone as cracked as her..."
 
   "Don't... you would only make her more uncomfortable."
 
@@ -186,7 +196,13 @@
   left behind: Mona. She was attentively listening to the conversation from
   start to finish, but she could find no chance to talk.
 
-  Though, it seemed like the current topic was facing a roadblock, as the
+  She was not as surprised as Mikoto regarding the scholarship thing, since she
+  already had known it at the ceremony. Though, that piece of information did
+  slip through her mind, and it was only thanks to Uta's sudden mention of that
+  that she could remember that.
+
+  Which reminded her of another peculiar thing about that senpai.
+  And it seemed like the current topic was facing a roadblock, as the
   conversation in front of her was showing signs of slowing down. Like a
   shooting star that only came once, she gather all of her courage to speak, not
   to miss this valuable chance.
@@ -194,6 +210,10 @@
   "Uhm... On the first day, I saw someone like Hina-senpai running on the
   tracks..." Mona stuttered, "But it seemed like she was crying back there...
   You two know anything about it?"
+
+  The conversation shifted its focus on Mona. Since Mona did not talk much,
+  every time she said something, she tended to make her two friends listen to
+  her closely.
 
   "Hina-senpai crying? But she was always so cheerful..."
 
@@ -212,11 +232,12 @@
 
   Mona recalled that morning when she visited the stadium. It was definitely
   Hina, and she was definitely crying. It was a brief moment, but Mona could
-  make out a lot of things.
+  make out quite some details.
 
-  "I think it was sadness..." her voice got quieter, "if I'm not mistaken..."
+  "I think it was sadness..." her voice got quieter, "if I'm not mistaken, she
+  was crying"
 
-  "Sadness? Maybe it's her first love! I'm intrigued now!"
+  "Really? Maybe it could be her first love! I'm intrigued now!"
 
   "Who just said that we should not dig too much into others' personal matters?"
 
@@ -228,8 +249,14 @@
 
   "Anyways, Mona, did you notice anything else? Like was there anyone else..."
 
-  The bell rang.
+  Not letting Mikoto continue, a sound of the school bell ringing suddenly
+  pierced the air.
 
-  "That's enough." Uta dragged Mikoto by the collar back to their seats, and a
-  new school day started for the three.
+  "That's enough." Uta dragged Mikoto by the collar back to their seats.
+
+  "Wait, please, let me talk with Mona a little bit!" Mikoto tried to resist,
+  but to no avail.
+
+  Despite a unusual morning, it seemed like yet another usual
+  school day was about to start for the three.
 ]
