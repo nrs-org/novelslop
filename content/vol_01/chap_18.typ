@@ -1,20 +1,30 @@
 #import "../../lib.typ": chapter
 
-// project escape reference lmfao
 #chapter(18, "And thus, the two met for the first time")[
   "You see, the only complaint I have is that we barely sing anything."
 
   "Well, there are just too many people, after all."
 
-  Uta pressed the button on the drink dispenser. She noticed that the girls on
-  her side had
-  finished their drinks, but they were too invested in watching karaoke
-  performances to care about refilling any of that. Hence, Uta decided to be a
-  goddess, gathering everyone's cups to refill their drinks. It was getting
-  quite suffocating in the karaoke room, so it's nice to get some fresh breaths,
-  anyway.
+  Recently, there were a couple of karaoke shops designed for smaller groups,
+  which could be up to five people at most. Solo karaoke was also a thing, too,
+  though a busy girl like Uta had never had such experience. It seemed like the
+  "big-group karaoke session" model was slowly losing its popularity to those
+  newer models.
 
-  Since not many people were there, Uta could monologue her inner conversations
+  Uta pressed the button on the drink dispenser. Back in the karaoke room, she
+  noticed that the girls on her side had
+  finished their drinks, but they were too invested in watching karaoke
+  performances to care about refilling any of that.
+  She even caught glimpses of some girls picking up their cup just to put them
+  down in disappointment.
+
+  Hence, Uta decided to be a
+  "goddess", gathering everyone's cups to refill their drinks. It was getting
+  quite suffocating in the karaoke room, so consider that a secondary reason,
+  too.
+
+  Since not many people were at the dispenser place,
+  Uta could monologue her inner conversations
   without being labelled a weirdo.
 
   "Hmm- maybe I should go to a smaller karaoke shop with Mona and Mikoto... That
@@ -24,20 +34,40 @@
 
   "Right. So only Mona, huh? She would probably agree if I ask her to."
 
+  The image of Mona in Uta's mind was a timid girl who always tried her best to
+  fit in with the others. Uta did find it kind of cute, and she wholeheartedly
+  wanted her friend to succeed in whatever Mona was aiming for. If Uta decided
+  to one day invite Mona to a two-person karaoke session, Mona would
+  probably think of that as a chance to get close to Uta, and instantly accept
+  Uta's invitation as a result.
+
+  _"I mean, that time she did ditch her oshi to go to the fast food restaurant
+  with me and Mikoto."_
+
   "Poor little Mona, getting dragged here and there by her devilish friend..."
 
-  "Please stop. Anyway, what do you think Rika would like to drink?"
+  "Wha- Please stop. Anyway, what do you think Rika would like to drink?"
 
   "Who knows? Aren't you her best friend?"
 
   "I mean she drank everything without leaving a drop of juice." Uta raised the
-  cup up, trying her best to find any droplets remaining that could give her a
+  cup up, trying her best to find any drop of juice remaining that could give her a
   hint.
+
+  Uta had some experience with picking drinks, so she knew what exactly to
+  choose in such occasions. Amongst the five types of juice in front of her, the
+  most "safe" choice was orange juice, possibly the most healthy due to the lack
+  of carbonated gas, which was something quite a lot of people dislike. Though,
+  orange juice did have a very plain flavor, so she did not want to resort to
+  that.
 
   After a little while of her indecisiveness, Uta finally decided on giving her
   friend some orange juice. Which leaves only one cup remaining.
 
   "Mona, huh? This one also had nothing remaining."
+
+  Knowing Mona, Uta expected her friend to be nervous from the new experience,
+  so she would have to compensate by hydrating.
 
   "She sat right next to you, so surely you had to notice what she was drinking,
   right?"
@@ -46,12 +76,15 @@
 
   "Could it be... that you don't actually know?"
 
+  A smirk appeared on her face, which instantly disappeared once she switched
+  back to her Uta identity.
+
   "No, you understand right. That time at the fast food store I sat opposite to
   her so..."
 
   "Excuses, excuses..."
 
-  The two kept bickering with each other until Uta finally decided to refill
+  Uta kept bickering with herself until she finally decided to refill
   Mona's cup with orange juice. She sighed after putting everything on the tray,
   ready for bringing the refilled cups back to everyone.
 
@@ -63,21 +96,28 @@
   Even something as trivial as which drinks they like could make her stall five
   minutes for."
 
-  After aligning everything nicely, she picked up the tray to return to the
-  karaoke room.
+  "Hey! It's been three minutes at most."
+
+  She sighed, before picking up the tray to return to the karaoke room.
 
   "All right, I'm the most evil person on Earth, okay! Even that PDF file
-  Hiko-nyan had nothing to compare with me..." She turned out, to see a boy
-  within her age staring at her.
+  Hiko-nyan had nothing to compare with me..." She turned her back, only to see
+  a boy within her age staring at her with curious gazes.
+
+  Admitting to be as atrocious as a pedophile that recently got cancelled
+  was definitely not something you
+  would want to do in front of a stranger, but just the fact Uta was talking
+  alone was enough to make her shiver from embarassment.
 
   _"Wait! Did he hear all that? When did he arrive here? How did I not notice
-  him? Argh- I'm so embarassed right now!"_
+  him? Argh- Is there a hole I could jump down right now?"_
 
-  Once Uta calmed down a bit, she finally remember the boy's identity. It was
+  Once Uta calmed down a bit, she realized the boy's identity. It was
+  // nagi seishiro
   Mekiru Toyama, a friend of Nagi Tadano, which was in turn a childhood friend
   of Rika. _"He's in the karaoke group, too? I want to die right now."_
 
-  Though, dying is not an option. Once she realized that, Uta switched back to
+  Of course, dying is not an option. Once she realized that, Uta switched back to
   her usual mode, preparing to initializing a conversation.
 
   "Hey... Toyama-san, you're here to get more juice, too?"
@@ -97,8 +137,8 @@
   escape from the crime scene. She was planning to settle this case with him in
   order to protect her reputation at school, but that could be done later.
 
-  However, when the two crossed paths, Uta did not expect to feel a sensation
-  from her sleeves.
+  However, when the two crossed paths, Uta did not expect to feel a force
+  pulling on her sleeves.
 
   "About that evil thing, what exactly did you mean?"
 
@@ -111,17 +151,39 @@
   weirdness. Even though she was someone who could regularly come up with very
   clever lines in conversations, this situation was just too tricky for her.
 
+  "With yourself?"
+
+  _"AHHHHHHHHHHHHHHHHHH"_
+
+  In that moment, Uta had thought of jumping in front of a truck, running off
+  to a new world where this incident did not happen. Though, no matter how much
+  she tried to escape from reality, the truth remained that she could never
+  escape from this mess.
+
   _"In the first place, how did my Uta Proximity Detector not notice him?"_
 
-  This fact alone might steer the whole genre of this novel to supernatural, but
-  Uta really had a special ability. She was able to detect the presence of other
+  Uta Proximity Detector, a thing that was named like a special ability from
+  shounen manga, was a natural technique that Uta could harness for quite a long
+  time. It was so powerful and paranormal that it might steer the whole genre
+  of this novel to supernatural, but Uta really had a passive skill like that.
+  Uta was able to detect the presence of other
   people around her, and adaptively control the volume of her monologuing
   accordingly. According to her experiments in middle school, this radar system
   was more effective when tracking people with a higher status and popularity.
 
-  Which could mean that, Mekiru was the opposite of that, so opposite that the
-  radar system did not pick up any signal at all, and she continued talking as
+  Which could mean that, Mekiru's presence was so low that her system really
+  treated him as some noise, so she continued talking as
   if no one was there. There were a number of similar cases like this in the
   past, but the worst it got was just a "Uta-chan, did you say anything?" from
-  her friend.
+  her friend. _"Gosh! Even this system could detect Mona! How much of an
+  invisible person you are to be able to easily bypass such a perfect system!"_
+
+  Returning to her reality, it seemed that there were no further questions, and
+  she could finally flee from everything. It would be a headache at home for her
+  to think of a way to cover up everything, but until then, it seemed that she
+  could still enjoy the karaoke session with her friends.
+
+  "Well, then. I'm returning..."
+
+  The boy nodded in silence, which finally gave Uta the chance to go back.
 ]
