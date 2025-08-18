@@ -7,20 +7,52 @@
   blossoms, which were lightly swayed by the gentle spring wind.
 
   Mona was sound asleep in her bed, after yet another long night of watching
-  idol performances. It has become a routine at this point. After returning home
+  idol performances. It had become a routine at this point: After returning home
   from a live show at 8 PM, she spent the entire night with her eyes glued to
   the TV screen, before finally going to bed at 3 AM.
 
-  Usually, she would wake up at noon for her lunch (or breakfast?), then spend
-  her entire afternoon watching the pre-recorded shows that she missed while
-  keeping up with all the idol updates in her phone. Even though such a schedule
-  was extremely detrimental for one’s health, her parents turned a blind eye as
-  it was just a temporary thing for the two-week vacation.
+  It was six o'clock in the morning, so the girl had just been resting for a mere
+  three hours.
+  Usually, she would wake up at noon for her lunch -- which to her might be more
+  like a breakfast -- then spend
+  the entire afternoon watching the pre-recorded shows that she missed during
+  sleep, while
+  keeping up with all the idol updates in her phone.
 
-  Suddenly, disrupting the peaceful scenery of an April morning, was a girl who
-  barged right into Mona’s room.
+  For a young girl in her developing ages like Mona, this looked like a terrible
+  schedule to follow. From the complaints that Mona usually received from her
+  parents, it seemed like staying up late could cause a host of problem, ranging
+  from reducing productivity during the day to getting some pimples. The latter,
+  especially, was a pretty problematic for teenagers in puberty like Mona,
+  though the girl did not really mind it that much except for the annoying pain.
 
-  Having long blonde twintails and a cute face, she was the perfect
+  Despite knowing of her daughter's chaotic daily routine, her parents mostly
+  turned a blind eye. They would throw some complaints here and there, but that
+  was as far as it could. Well, there were two reasons for this.
+
+  The first one was simply because of the fact that Mona's parents were having
+  their hands full with work. And Mona was not a small child anymore to start
+  with, so her parents could not afford to worry about every little thing she
+  does.
+
+  The second reason was that this hectic schedule was just a temporary thing for
+  the ongoing two-week spring vacation. Therefore, once this two-week time period
+  passed, everything would return to normal. Hopefully.
+
+  Mona's room stayed silent and peaceful, but there was a feeling of uneaseness.
+  As if there was something that would soon disturb this peace.
+
+  At first, it was just a series of footsteps, originating from outside the
+  room. It was initially hard to make out these noises, but it was becoming
+  increasingly louder.
+
+  And suddenly, disrupting the scenery of a peaceful April morning, was a figure
+  of a girl who
+  barged right into Mona’s room. Leaving the door wide open, she let in a gust
+  of wind, which completely destroyed the atmosphere of tranquility.
+
+  Having long blonde twintails and a cute face, the girl who just entered seemed
+  like the perfect
   representation of an ideal high school girl. Or at least she used to be.
 
   "Mona, wake up! Today is your first day of high school, right?" Sena, who had
@@ -34,6 +66,18 @@
 
   "Good morning, sis…" said Mona as she rubbed her eyes.
 
+  Even though she acted sleepy, Mona did wake up from a while ago. She heard her
+  sister's footsteps, praying in her mind that it was just her mind playing
+  tricks on her, before having to face the truth that it was time for her to
+  finally open her eyes.
+
+  For the entire night, the girl had slept for just three hours. She remembered
+  her mom last night saying that she should go to bed early because she had to
+  wake up soon tomorrow, and started to regret her decision for staying up that
+  late.
+
+  Now, she had to face the failures of her ways. First was the blinding lights
+  originating from the window.
   Mona tried to open her eyes, but soon found the morning sunlight was too much
   for her to handle. It was not until five minutes later that she finally
   adjusted her eyes to be able to see things. Hazily, that was.
@@ -46,25 +90,43 @@
   sheer amount of anticipation her sister had for this day. It was really
   frightening, to be honest.
 
-  Meanwhile, Mona did not really care about it that much. Going to high school
-  does not magically make someone more mature or anything. It was just a
+  Sena took down the uniform neatly hanging at the door and put it by Mona's
+  bed. The set was ironed out without any wrinkles, which implied that Sena must
+  have taken quite a lot of time preparing last night. Overkill or not, it was
+  clear that she wanted to see Mona with the best appearance in her first day of
+  high school.
+
+  Meanwhile, Mona, the person in question, did not really care about it that much.
+  Of course being attractive would attract more people, she knew that, but in
+  her opinion, what mattered more was the personality, rather than the
+  appearance or first impressions. Even though she was a girl, beauty was one of
+  the things that Mona had the least interest in. Nevertheless, she still found
+  looking at cute girls and guys a fun thing to do, she just did not care about
+  her own appearances.
+
+  She took a look at the sailor uniform by her bed. Her sister was too hyped for
+  something as trivial as her first day of high school, she thought.
+  This was not really a sign
+  of maturity, as going to high school
+  does not magically make someone more grown-up or anything. It was just a
   milestone celebrated on by those who have nothing else to really care about,
   or so she thought.
 
   "Okay, okay." Mona got up from bed, took the uniform that had been carefully
-  prepared by her sister hanging on the wall, and got straight into the bathroom
+  prepared by her sister, and got straight into the bathroom
   to change her clothes.
 
-  Mona was still conscious enough to know that changing in front of Sena would
-  end up with nothing other than a huge mess. The last time that this happened,
-  a lot of physical contact was made, and even those two that were still
+  Usually, she would just change her clothes right in her room, but she knew
+  doing that today would cause nothing but a disaster. Changing in front of such
+  a hyper-energetic Sena would ultimately lead to physical contact, which was
+  extremely annoying for her. The last time that this happened,
+  even those two of hers that were still
   developing were not spared. It was nothing but hell.
 
-  As Mona took off her bedtime clothes, she had another look at her new sailor
-  uniform.
-
-  At least for her, it is still unbelievable that she was actually wearing this
-  uniform.
+  As an effort to make these painful memories fade away, Mona took a quick look
+  at herself after changing into her new set of uniform.
+  For her, it is still unbelievable that she was actually wearing it
+  right now.
 
   After Mona finished, opened the bathroom door, and prepared for the worst, she
   was instantly met with her sister’s intense gaze.
