@@ -1,11 +1,11 @@
 #import "../../lib.typ": chapter
 
-#chapter(3, "Breakfast in the Narumi household")[
+#chapter(3, "Breakfast at the Narumi household")[
   Narumi household is a pretty standard two-daughter family.
 
   Located in the outskirts of Tokyo, they were not the type of rich family who
   // yo absolute suicide????
-  could afford a luxury apartment on a cliff 100 meters above the sea level,
+  could afford a luxury villa on some cliffside 100 meters above the sea level,
   but still well-versed enough citizens with the urban lifestyle.
 
   The dad, Narumi Yosuke, was a professional musician who had made soundtracks
@@ -17,12 +17,13 @@
   glasses, he was a good-looking man among his peers.
 
   The mom, Narumi Ayako, was a fairly reputable fashion designer. Being the
-  breadwinner, she often found herself extremely busy with her work, regularly
-  being the last one to arrive home. Because of the nature of her work, she had
-  no choice other than leaving the household chores to her husband, which is
-  totally not because she was the type that could cause a nuclear meltdown in
-  her kitchen. With long blonde hair and brown eyes, her overwhelming friendly
-  aura was something that told her apart from all of her peers.
+  breadwinner of the family, she often found herself extremely busy with her
+  work, regularly being the last one to arrive home. Because of the nature of
+  her work, she had no choice other than leaving the household chores to her
+  husband, which is totally not because she was the type that could cause a
+  nuclear meltdown in her kitchen. With long blonde hair and brown eyes, her
+  overwhelming friendly aura was something that told her apart from all of her
+  peers.
 
   The two daughters, Mona and Sena, inherited from their parents their blond
   hair and blue eyes. While Sena had her distinctive long twin tails and a
@@ -33,31 +34,38 @@
 
   This year was a major turning point for both of the sisters. Starting this
   year, Narumi Sena became a full-time fashion model. She started her career in
-  her second-year of high school after receiving advice from some classmates and
-  landing through an audition, but it was only until she graduated that she
-  could devote everything she had to it. Though she seemed like the sloppy and
-  aloof type in front of her sister, Sena actually took her work very seriously.
-  In order to reach the current point in her career, it was the fruition of her
-  blood, sweat and tears throughout the last two years. In order to maintain the
-  fitness of her body, she had not skipped her regular exercises even once, a
-  feat that not many were able to pull off.
+  her second-year of high school, after receiving advice from some classmates and
+  passing an audition, but it was only until she graduated that she
+  could devote everything she had to it.
+
+  Though Sena acted sloppy and aloof in front of others,
+  she actually took her work very seriously.
+  In order to reach the current point in her career, she had to give her
+  blood, sweat and tears to everything she had done throughout the last two years.
+  The perfect figure she had, for example, which might be initially disregarded
+  as something she got from her genes, was in fact the results of her strict
+  training schedule. Since the day she devoted herself to the job, she had not
+  skipped her regular exercises even once, a feat that not many models, even
+  professional ones, were able to pull off.
 
   Even though they were sisters, Mona and Sena barely had any similarities. If
   not for their common hair and eye colors, the two could be easily regarded as
   two unrelated people somehow sharing a same home. If Sena was a cute, cheerful
   and extroverted girl, then Mona was almost the complete opposite, with her
-  gloomy aura and zero close friends at school. Well, at least her appearance
-  was decent. However, other than that, Mona really outshined her sister in
-  almost every way: she was a better cook, had better fashion sense, was more
-  knowledgeable about idols (if that is a positive trait at all), etc. Though,
-  it could be argued that Sena’s clumsiness could be a trait that highlights her
-  cuteness.
+  gloomy aura and no close friends at school. Well, at least her appearance
+  was decent, but it was still a far cry from her sister.
+
+  However, other than that, Mona were a dark horse who really outshined her
+  sister in almost every way: she was a better cook, had better fashion sense,
+  was more knowledgeable about idols (if that is a positive trait at all), etc.
+  Though, it could be argued that Sena’s clumsiness could be a trait that
+  highlights her cuteness.
 
   Another major difference between the two sisters was their academic
   performance. While Sena almost fumbled her high school graduation exam, Mona
-  had been scoring average in almost every subject. Though it might not seem like
-  much, it was actually an impressive feat for a girl born in a family without
-  any studying genes.
+  had been scoring above average in almost every subject. Though it might not
+  seem like much, it was actually an impressive feat for a girl born in a family
+  without any studying genes.
 
   Aside from her usual duties as a student who just entered high school, Mona
   did not do anything special other than chasing after her passion for idols.
