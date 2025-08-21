@@ -69,23 +69,29 @@
 
   Aside from her usual duties as a student who just entered high school, Mona
   did not do anything special other than chasing after her passion for idols.
-  Thanks to her grades, she could be the first one in her entire family line to
-  be accepted to a university, opening up many opportunities for her career.
-  Being the girl who wanted nothing but a peaceful life with enough money for
-  her idol addiction, such a future was better than anything Mona could ask for.
+  Thanks to her grades, she was expected to be the first one in her entire
+  family line to be accepted to a university, opening up many opportunities for
+  her career. Being the girl who wanted nothing but a peaceful life with enough
+  money for her idol addiction, such a future was better than anything Mona
+  could ask for.
 
   Mona walked down the stairs, and on her way, she smelled the ever-familiar
-  scent of breakfast, a nostalgic scent that she thought she would never be able to
-  experience another time after skipping it for the entirety of her
-  spring vacation.
+  scent of breakfast, a nostalgia that she thought she would never be able to
+  experience another time after intentionally skipping it for the entirety of
+  her spring vacation.
 
-  In the kitchen, Yusuke was cooking breakfast for the two daughters while his
+  In the kitchen, Yusuke was preparing breakfast for the two daughters while his
   wife, Ayako, was trying to finish her meal as quickly as possible to go to
   work.
 
   "Ah! You two are here, at last.", Yusuke said right as he saw her daughters,
   one of whom was still sleepy, entered the room, "Wait a minute, your breakfast
   will be done soon."
+
+  Mona took a quick glance at the countertop to see a freshly-cut loaf of bread,
+  along with some broken eggshells. It seemed like today's breakfast was
+  grilled egg sandwich, a light meal not that great but Mona was looking
+  forward to, since she had not had this for a long time.
 
   "Good morning, dad, mom." Mona replied in a drowsy manner.
 
@@ -94,11 +100,43 @@
   returning her focus back to her meal.
 
   Unbothered by the compliment,
-  Mona, subtly and swiftly, took the seat next to her mom, before her sister
+  Mona went the refrigerator and took out a can of milk. Even here could one
+  see the difference between the two sisters: while Mona was an avid enjoyer of
+  fresh plain-old sweetened milk, her sister preferred soymilk and would buy
+  bags of that to store in the family fridge.
+
+  Not only did Mona think her sister's taste was weird, but she found the
+  packaging of the soymilk bag inconvenient to use. If one was not careful while
+  cutting the bag, the milk could spill away and your nourishing drink could end
+  up on the floor. Meanwhile, Mona's plastic-coated paper milk cartons were much
+  easier to use: you just pour the milk to a cup and you are done.
+
+  Nevertheless, these differences did have a good thing, which was that the two
+  sisters would never take each other's milk. Though, there were times when
+  Sena's soymilk ran out, and Mona felt like her milk cartons seemed to be
+  lighter than the last time she took a drink.
+
+  Just as Mona was about to leave, her sister went to the fridge to get her
+  respective drink. She took out a small bag of soymilk, went to the countertop
+  for a cup, then carefully pour down the milk in an almost perfect manner. It
+  was the fruitions of many time spilling out the milk, so she deserved some
+  credit for that.
+
+  With a bright smile on her face, she went to the dining table to see something
+  she did not want to see.
+
+  After getting her drink,
+  Mona, subtly and swiftly, had taken the seat next to her mom, before her sister
   could even notice. Since the chairs of the dining table were laid out by the
   two sides of the table, sitting next to her mother was the only way for her to
-  avoid the fate of sitting next to the "siscon monster" named Narumi Sena. When
-  Sena realized her blunder, she immediately turned her expression into
+  avoid the fate of sitting next to the "siscon monster" named Narumi Sena.
+
+  Which means that, Sena could not sit next to her beloved sister, and Mona
+  avoided hell. If she was eariler, Sena could throw her schoolbag onto the seat
+  next to her mother, and use some tricks up her sleeve to _forcibly_ make Mona
+  unable to sit with her mom.
+
+  Once Sena realized her blunder, she immediately turned her expression into
   that of a pissed-off kid who just got their toys stolen, just to be met with a
   slight smirk on Mona’s face.
 
@@ -108,15 +146,27 @@
   for your sisters’ games.", she replied in a joking voice, which annoyed Sena
   even more.
 
-  "Grrrrrrrrrrr"
+  "Grrrrrrrrrrr" Sena grinded her teeth in desperation.
 
-  Once Yusuke finished the breakfast for the two sisters, the two girls said
-  thanks as they happily chugged along with their breakfast.
+  Just as Sena reluctantly sat down to her seat, her dad finally finished the
+  breakfast for the two sisters. He put the two plates of hot, crisp and golden
+  bread, with a yellow, as if shining, filling of scramble eggs between the
+  buns.
+
+  The two girls said thanks as they happily chugged along with their breakfast.
+
+  Halfway through her meal, Sena shifted her focus to the cell phone on the
+  table. Looking at the cell phone while eating was not that frown upon in the
+  Narumi's household, as their parents did it all the time because of the nature
+  of their work. And maybe, Sena was also looking at something about her work,
+  too.
 
   // sekai no owari, tea party is the romaji name btw
   // tpa slop
   "Dad, I saw it! The announcement that you will be composing music for ‘Tea
   Party at the End of the World’." Sena exclaimed.
+
+  Or, it seemed she was just browing social media.
 
   "Oh so? The girls at my place seem to really like the original manga. Landing
   a gig on that anime is really something, isn’t it?" Ayako commented, before
@@ -142,6 +192,9 @@
 
   There is a term that is viral on the Internet recently. "Cooked", wasn’t it?
   It seems to be describing exactly how Mona was right now.
+
+  Mona was enjoying her sandwich with milk, until her name was mentioned by her
+  sister.
 
   She lifted her head upwards to be met with the gaze of everyone in her family.
   Well, except her mom, who was still in a hurry, that is. There was no escaping
@@ -169,7 +222,7 @@
 
   "But it really was amazing, though. You getting to Misuzu, Mona-chan."
 
-  "Uhm... thanks"
+  "Uhm... thanks."
 
   Mona quietly grabbed another bite of her bread.
 
@@ -198,32 +251,52 @@
   "history" now.
 
   Consumed by the reminiscences of her past efforts, Mona returned to reality
-  after finishing the last bit of her breakfast. The art of so-called
-  inattentive devouring is just another hidden talent of hers, the fruition of
+  after finishing the last bits of her breakfast. The art of so-called
+  inattentive devouring is just another hidden talent of hers, the results of
   countless days eating snacks while eyes gluing to idol shows on her beloved sofa.
   That reminds her of an influencer recently going to China ended up to be a
   temporary kung-fu practitioner, which made she wonder if her art could actually
   become something popular in the future.
 
   "Well, I’m out for work today." Her mom’s voice echoes from the front door,
-  just as Mona finished her meal. Perfect timing, she thought.
+  just as Mona finished her meal.
 
-  She took a look at the wall clock. It was actually getting quite late.
+  _"Perfect timing"_, she thought. If she had finished eating a little bit
+  later, it would create an opening for Sena to instantly fill in the seat
+  her mom left, and Mona would have to endure the fate of sitting on the same
+  side with her sister, a fate worse than death.
+
+  She took a look at the wall clock. It was actually getting quite late. It was
+  a little before 7 AM, which meaned she could barely arrive at the train station
+  before her trip at 7:15. There was another safeguard ride at 7:45, but she
+  would rather not board that.
 
   Not letting her sister have the chance to switch to the seat next to her,
   Mona stood up, quickly grabbing the prepared lunch box from the countertop,
   before picking up
   her ordinary-looking school bag before doing a final readjust of her outfit.
 
+  Today's class was mainly introductory, so there was not many things in her
+  school bag, in the first place. Hence, her satchel was as light as a feather,
+  so it was very easy to move around.
+
   In the sailor uniform of Misuzu High School, Narumi Mona felt like she was
-  ready for anything it took.
+  ready for anything it would take her from now on.
 
   "I’m going now."
 
-  Putting on her outdoor shoes, Mona took her first steps of her high school
-  life.
+  Mona put on her outdoor shoes. Inside, she saw a little cherry blossom flower,
+  an icon of springtime in Japan. It must have sneaked in while her mom left for
+  work earlier. This one, unlike the usual image of cherry blossoms on the
+  Internet, had just four petals, which reminded Mona of the shape of the lucky
+  four-leaf clover.
+
+  With her feet fit in her outdoor shoes, Mona officially took her first steps
+  of her high school life.
 
   "Have a good day!"
+
+  She opened the door, a pathway to a world so close yet so far.
 
   Mona rushed out of the doorway, to be met with a gentle breeze, which
   identified the start of her very first Spring of high school.

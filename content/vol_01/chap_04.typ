@@ -1,8 +1,8 @@
 #import "../../lib.typ": chapter
 
-#chapter(4, "On the cherry-colored pathway to school, Narumi Mona has high hopes for her future")[
+#chapter(4, "Narumi Mona has high hopes for her future")[
   With the cherry blossoms covering a part of the sky with its pink, Mona had no
-  care for the scenery around her. After all, it's been the ninth year she had seen
+  care for the scenery around her. After all, it's been the tenth year she had seen
   this scene before, not to mention the countless times that this overused scene
   was used on all sorts of TV programs.
 
@@ -12,7 +12,7 @@
   Today was Mona’s high school debut, a day so important that it could determine
   whether she would spend her high school days in loneliness or a close-knit
   circle of friends (the possibility of her becoming a popular figure in class
-  was automatically removed from her conscience due to its impossibility).
+  was automatically removed from her conscience due to its absurdity).
   Even though she was fine with either of those, the latter
   was a far more pleasant option.
 
@@ -21,7 +21,16 @@
   years younger than her, walking by a friend whom she had been happily chatting
   with.
 
+  Though it was hard to make out what they were saying, but it seemed they were
+  discussing something about fashion. The two showed each other their lips,
+  their makeups, as well as their uniforms.
+
   "It would be nice if I could find a close friend like that…", she mumbled.
+
+  Of course, Mona would not talk about such girly things. Instead of showcasing
+  their appearances, Mona would rather talk about the idols currently trending
+  on the Internet. Whether that was more healthy than the trivial discussions of
+  high school girls were left to the reader.
 
   Being a prestigious prep school, Misuzu does not seem to be a place where idol
   fans would like to hang around at, so the likeliness of Mona actually finding
@@ -32,10 +41,10 @@
   that was probably her best bet of getting to talk her mind out freely.
 
   _"No, I have to stay positive. If I got to college, I’ll have a high-paying
-  stable job, which can adequately fulfill my crippling idol addiction. Yep, I’m
-  in this for the cash, I’ll just treat this like a stepping stone, nothing
-  more. Once I got the job, I would no longer have to be chronically broke as I
-  am right now. Friends are unimportant, for now."_
+    stable job, which can adequately fulfill my crippling idol addiction. Yep, I’m
+    in this for the cash, I’ll just treat this like a stepping stone, nothing
+    more. Once I got the job, I would no longer have to be chronically broke as I
+    am right now. Friends are unimportant, for now."_
 
   They say money can buy anything except friends, but that seems to get more and
   more false with the world has been evolving right now.
@@ -75,10 +84,10 @@
 
   // absolute suicide
   _\@miyu425: "Thanks for all your support! I’m in charge of Alice-chan in
-  ‘273.15°C’. \#27315c \#alice\_anime"_
+    ‘273.15°C’. \#27315c \#alice\_anime"_
 
   _"Wait, Miyutan got the main lead role for that anime? That’s impressive. She’s
-  an idol, but she is absolutely nailing it as a seiyuu as well!"_
+    an idol, but she is absolutely nailing it as a seiyuu as well!"_
 
   To stay relevant in the entertainment industry, broadening one’s horizon has
   become some sort of standard practice. If an idol just appealed to the same
@@ -96,8 +105,8 @@
   continued her frenzy with another social media post.
 
   _\@coco2727: "Good morning everyone ☀️ It seems that all that fatigue from
-  yesterday’s live is all gone after a good night’s sleep 💪. Let’s rock har
-  today as well, everyone 👊"_
+    yesterday’s live is all gone after a good night’s sleep 💪. Let’s rock har
+    today as well, everyone 👊"_
 
   Along with the post is a selfie of a half-awake girl in bed.
   Her face was mostly hidden by the ☀️ emoticon,
@@ -174,7 +183,7 @@
   entrance exam finished grading.
 
   _"It’s still early, I might as well go see what is available on the school
-  campus…"_
+    campus…"_
 
   Located in the middle of the city, the school grounds of Misuzu were
   considerably more restricted when compared to other high schools. However,
