@@ -1,7 +1,8 @@
 #import "../../lib.typ": chapter
 
 #chapter(4, "Narumi Mona has high hopes for her future")[
-  With the cherry blossoms covering a part of the sky with its pink, Mona had no
+  Even though the cherry blossoms were covering a part of the sky with its pink
+  color, Mona had no
   care for the scenery around her. After all, it's been the tenth year she had seen
   this scene before, not to mention the countless times that this overused scene
   was used on all sorts of TV programs.
@@ -18,25 +19,25 @@
 
   Most of those people around her were going in groups,
   happily chattering with each other. She noticed a girl, seemingly one or two
-  years younger than her, walking by a friend whom she had been happily chatting
+  years younger than her, walking by a friend whom she had been happily talking
   with.
 
   Though it was hard to make out what they were saying, but it seemed they were
   discussing something about fashion. The two showed each other their lips,
-  their makeups, as well as their uniforms.
+  their makeups, as well as showing how cute they were in their uniforms.
 
   "It would be nice if I could find a close friend like that…", she mumbled.
 
   Of course, Mona would not talk about such girly things. Instead of showcasing
   their appearances, Mona would rather talk about the idols currently trending
-  on the Internet. Whether that was more healthy than the trivial discussions of
-  high school girls were left to the reader.
+  on the Internet. Judging whether that was more healthy than the trivial
+  discussions of high school girls is left to the reader.
 
   Being a prestigious prep school, Misuzu does not seem to be a place where idol
   fans would like to hang around at, so the likeliness of Mona actually finding
   her own kinds there was nearly zero. Well, if you factor in the people who
   would despise idol stuff as a negative count,
-  that number would just drop to the negative range.
+  that number would probably have to be prefixed with a minus sign.
   And without any notable traits other than her profound admiration for idols,
   that was probably her best bet of getting to talk her mind out freely.
 
@@ -55,29 +56,48 @@
   worlds, she thinks.
 
   No matter how she tried to convince herself otherwise, deep down, she knew she
-  just want to be
-  like an ordinary high schooler, someone who could have fun with friends for
+  just want to be a "normal girl", someone who could have fun with friends for
   days to come. Well, even though she knew exactly how much she wanted a friend,
   teenage rebellion was still a very popular thing amongst teenagers, after all.
 
+  In shoujo manga, there was this kind of trope where the female protagonist
+  used to be a timid girl in the past, but decided to change herself to become
+  the star of her class. Though, Mona had no intentions of doing the same. Even
+  though she felt lonely at times, her current life was already fulfilling
+  enough. All what she cared about was to make her lifestyle sustainable, via,
+  well, getting a job after graduating college.
+
   Soon enough, she arrived at the train station, a place where she could finally
-  take a quick rest. Since Misuzu High School was
-  located in the middle of Tokyo, it would take Mona a quick five-minute train
-  ride to get there. As her old middle school was roughly in the same region,
-  this was nothing out of the ordinary for her.
+  take a quick rest. She took a look at the scrolling display, which was
+  announcing the arrival of the next train at in about three minutes. That was
+  the exact ride that Mona was attending to go on, how convenient.
 
-  Getting on the train, Mona sighed a breath of relief. If she arrived just two
-  minutes later, she would have to take the second train. Well, that would still
-  guarantee that she would be on time, but that time frame always had at least
-  twice as many commuters than the earlier ride.
+  Since her house was not that far from the city center, it would take Mona a
+  quick five-minute train ride to get to school.
+  As her old middle school was roughly in the same region, this was nothing out
+  of the ordinary for her.
 
+  After tapping her card on the reader, Mona finally arrived at the waiting
+  platform. Just like the infographic before showed her, the train arrived on
+  the right time, and Mona, without much trouble, departed from her home
+  station.
+
+  Mona sighed a breath of relief. If she arrived just two
+  minutes later, she would have to take the second train.
+  When she left home, she knew she did not have much leeway, but she was
+  distracted by the scenery that she thought was long forgotten. Well, all that
+  mattered was that things ended well for her.
+
+  Of course, there was an emergency ride, or so she called, at 7:45, but being a
+  ride on the rush hour, there would be at least twice as many commuters than
+  the one she was boarding on right now.
   Being early comes with its perk of having seats to sit on and not having to be
   turned into sandwiches.
 
   Mona took out her phone and began her daily routine of stalking her idols on
-  social media. To give credit where it’s due, her feed is not entirely idol, as
-  there was some generic otaku stuff there. Well, it's not that Mona based her
-  entire online presence on just idol stuff, so to speak.
+  social media. To give credit where it’s due, her feed is not entirely just
+  idols, as there was some generic otaku things there. Well, it's not that Mona
+  based her entire online presence on just idol stuff, so to speak.
 
   The first post she saw was a post of one of her faves, known by the stage name
   Miyu Aki.
@@ -88,6 +108,16 @@
 
   _"Wait, Miyutan got the main lead role for that anime? That’s impressive. She’s
     an idol, but she is absolutely nailing it as a seiyuu as well!"_
+
+  Mona had heard of the anime before, which was the adaptation of a pretty
+  popular manga about a robot at the end of time. Though, post-apocalyptic
+  stories were really not her cup of tea, so she only knew the premise of the
+  show. Nevertheless, some of her favorite idols said that they enjoyed the
+  manga, so she was quite tempted to read the whole thing.
+
+  However, now that she found out that her "Miyu-tan" was voice acting for the
+  titular character Alice-chan, she decided to wait until the anime release
+  instead.
 
   To stay relevant in the entertainment industry, broadening one’s horizon has
   become some sort of standard practice. If an idol just appealed to the same
@@ -123,15 +153,41 @@
   That was about it. Her feed is full of her favorite idols talking about their
   life and work, with the occasional anime or manga announcement. Speak of the
   devil, that was the staff announcement of "Tea Party At the End of the World"
-  that Sena was talking about this morning.
+  that her sister was talking about this morning.
   Seeing her father’s name along with the industry giants still felt unreal for
   Mona. He had done some music tracks for smaller anime, but seeing something
-  his name on a post with over 100,000 likes was just a different beast.
+  his name on a post with over 20,000 likes was just a different beast.
 
+  When she was young, she did want to become like her parents, working on
+  various creative projects like anime or music. However, seeing how much her
+  parents had to sacrifice slowly deterred her from that dream, so now Mona just
+  wanted to become a normal person and live a fulfilling life.
+
+  Mona briefly rememberred the days where she used to beg her mom to teach
+  her about fashion designing, which always ended up with an "I'm busy, go ask
+  your dad if you are bored". She did not know at that time that it was a very
+  hard time for her mom's career, so it was natural that she would always be
+  shoo-ed away just like that.
+
+  Her dad also used to teach her music lessons too. But after a few lessons, her
+  baby self gave up and decided to abandon the dream of being a famous music
+  composer, if that could be considered a dream at all. She would return to her
+  usual place, watching TV on the family sofa again.
+
+  Though, it was not her fault for giving up that early. Her dad did teach her
+  quite advanced stuff, and by advanced, I mean something pulled right from the
+  middle school music textbook. Hence, back when she had music lessons at middle
+  school, Mona always felt a uneasy feeling of _deja vu_.
+
+  Suddenly, by some kind of instinct,
   Mona took a quick glance at the window to see the ever-familiar Hanagawa
   Tower. For some apparent reason, it had become synonymous with her
-  destination, the city center. Its shape was not really peculiar amongst the
-  giant skyscrapers, but somehow it stuck out to her since a long time ago.
+  destination, the city center, whenever she took this particular ride.
+  Its shape was not really peculiar amongst the giant skyscrapers,
+  and it was far from being the tallest building amongst its peers,
+  but somehow it stuck out to her since a long time ago. For a long time, she
+  did not know its name, until she decided to search for it on the Internet one
+  day.
 
   There was that famous experiment of repeatedly turning on lights before
   feeding the dog makes it able to learn from the pattern. It seems that Mona
@@ -149,14 +205,29 @@
   Soon enough, she arrived at the school gate.
 
   The wrought iron, old-style school gate looked much wider than what Mona
-  recalled. Though the gate was rusty due to its old age, it still displayed an
+  recalled from her impressions through internet photos.
+  Though the gate was rusty due to its old age, it still displayed an
   aura of elegance. She spotted some girls taking selfies, whom she assumed to
   be freshmen just like her, before being reminded of that short video about
   this particular gate and its deep and rich history.
 
+  Misuzu's school facilities were renovated every 10 to 20 years, but this
+  particular gate was the only thing that barely changed throughout the school's
+  long history. Of course they still had to make sure that the gate could still
+  stand and not fall onto the heads of any passengers, but only little modification
+  were given to it, if there was any.
+
+  Though, many people online argued that the maintenance of this gate was
+  actually more costly then what it looked like. They claimed that preserving
+  its vintage looks and making sure that it could still function in the 21st
+  century was much harder than installing a modern-style school gate, something
+  that every school in the country could afford.
+
   Mona paused to admire the grand entrance. She felt like her petite figure,
   along with the indescribable emotions in her heart, was just one small drop in
   the vast ocean of the world, with thousands of years worth of human progress.
+  Despite thinking of herself as a mere insignificant mortal,
+  she felt happy to be able to live in the same world with such greatness.
 
   Looking around to make sure that no one was staring at her, she reluctantly
   took out her phone to open the camera app. Mona was the type of girl who
@@ -179,8 +250,12 @@
   Traditionally, when one go to their new school for the first time, the first
   thing to do would be to find out which class they belonged to. Well, the lists
   were available on the bullet boards, but barely anyone was checking on that,
-  as the results were already publicly announced on the Internet after the
-  entrance exam finished grading.
+  as the results were already publicly announced online after the
+  entrance exam finished grading, which was months ago.
+  And all classes for the most part was the
+  same, so the only reasons to care about which class you belonged to were to
+  know whether your friends would end up in the same class as you or not. Of
+  course, for a loner like Mona, this was not a thing at all.
 
   _"It’s still early, I might as well go see what is available on the school
     campus…"_
@@ -211,9 +286,20 @@
   all belonged to the fifth floor of the main building. Since Mona was on the
   school grounds, it was only natural for her to visit the sport clubs.
 
+  Moreover, according to her limited knowledge about club activities, only
+  sports club had morning routine, while the cultural ones were mostly active
+  after school. Hence, she would probably find nothing if she went to check on
+  the cultural clubs right now. Yeah, that was totally not an excuse she made
+  for herself in order to avoid walking to the fifth floor of the main building.
+
   The first place Mona visited was the football grounds, which were surrounded
   by running tracks. By the looks of things, it seemed that this place was home
   to the boy soccer team and a girl Track & Field team.
+
+  The stadium boasted itself as an internationally standard-compliant facility,
+  and with many major sport events being hosted here. Though, it was quite
+  overshadowed by a stadium of a neighboring high school, which did have quite a
+  focus on sports and extracurricular activities, unlike Misuzu High School.
 
   The boys were mainly practicing on an area roughly a quarter of the field,
   while the girls team seemed to... not really be a team, as there was only a girl
@@ -222,7 +308,7 @@
   The looks of her reminded Mona of her own sister, who did this type of training
   every day without skipping.
   It seemed that even at an academic-focused institute, there were still a lot
-  of people who took their clubs very seriously.
+  of people who took club activities very seriously.
 
   She noticed the slender figure of the running girl. The morning fog makes
   it hard to see how she looked like exactly, so Mona could not quite make out
@@ -236,12 +322,13 @@
   spent their last year of high school studying hard for university entrance
   exams, the former was probably the case.
 
-  As the girl blazed through the running tracks as if she was a professional
-  athlete, Mona was notably impressed. Though to be fair, it did not take much
+  The girl blazed through the running tracks as if she was a professional
+  athlete. Mona was notably impressed. Though, to be fair, it did not take much
   to impress this unathletic girl like Mona. The girl maintained a perfect form,
   even though it looked like she had been running for a long while.
 
-  But what Mona noticed left her speechless.
+  However, when the girl ran past the closest spot to the stand, Mona noticed
+  something.
 
   _"Was she… crying?"_
 

@@ -268,17 +268,20 @@
 
   She took a look at the wall clock. It was actually getting quite late. It was
   a little before 7 AM, which meaned she could barely arrive at the train station
-  before her trip at 7:15. There was another safeguard ride at 7:45, but she
-  would rather not board that.
+  before her trip at 7:15. Walking to the station took her about 10 minutes, so
+  there was just five minutes of leeway.
+  There was another safeguard ride at 7:45, but she would rather not board that.
 
   Not letting her sister have the chance to switch to the seat next to her,
   Mona stood up, quickly grabbing the prepared lunch box from the countertop,
   before picking up
   her ordinary-looking school bag before doing a final readjust of her outfit.
 
-  Today's class was mainly introductory, so there was not many things in her
-  school bag, in the first place. Hence, her satchel was as light as a feather,
-  so it was very easy to move around.
+  Today's class was mainly introductory, so there was not many things she had to
+  brought to school, in the first place. Hence, her satchel was as light as a feather,
+  so it was very easy to move around. Though, this lightness was really
+  unnerving, as Mona always felt like she was missing something when her bag did
+  not have much stuff.
 
   In the sailor uniform of Misuzu High School, Narumi Mona felt like she was
   ready for anything it would take her from now on.
@@ -286,13 +289,14 @@
   "I’m going now."
 
   Mona put on her outdoor shoes. Inside, she saw a little cherry blossom flower,
-  an icon of springtime in Japan. It must have sneaked in while her mom left for
+  an icon of springtime in Japan. It must have sneaked in the house
+  while her mom left for
   work earlier. This one, unlike the usual image of cherry blossoms on the
   Internet, had just four petals, which reminded Mona of the shape of the lucky
   four-leaf clover.
 
-  With her feet fit in her outdoor shoes, Mona officially took her first steps
-  of her high school life.
+  With her feet fitting perfectly into her outdoor shoes,
+  Mona officially took her first steps of her high school life.
 
   "Have a good day!"
 

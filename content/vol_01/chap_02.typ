@@ -33,10 +33,10 @@
   were already having
   their hands full with work. And Mona was not a small child anymore to start
   with, so her parents could not afford to worry about every little thing she
-  does. And secondly, and more importantly,
+  does. Secondly, and more importantly, they knew that
   this hectic schedule was just a temporary thing for
-  the ongoing two-week spring vacation. Therefore, everyone would expect that
-  once this two-week time period passed, everything would return to normal.
+  the ongoing two-week spring vacation. Therefore, it was reasonable to expect
+  that once this two-week time period passed, everything would return to normal.
   Hopefully.
 
   Mona's room stayed silent and peaceful, but there was a feeling of uneaseness.
