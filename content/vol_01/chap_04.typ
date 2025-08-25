@@ -169,10 +169,12 @@
   hard time for her mom's career, so it was natural that she would always be
   shoo-ed away just like that.
 
-  Her dad also used to teach her music lessons too. But after a few lessons, her
-  baby self gave up and decided to abandon the dream of being a famous music
-  composer, if that could be considered a dream at all. She would return to her
-  usual place, watching TV on the family sofa again.
+  After being chased away by her mom, she went to her dad, asking him to teach
+  her music lessons. However, just after a few lessons, the sheer difficulty of
+  music theory made her baby self gave up and decided to abandon the dream of
+  being a famous music composer, if that could be considered a dream in the
+  first place. She would return to her usual place, watching TV on the family
+  sofa again.
 
   Though, it was not her fault for giving up that early. Her dad did teach her
   quite advanced stuff, and by advanced, I mean something pulled right from the
@@ -196,13 +198,13 @@
   She turned off her phone and tucked it away in her school bag. It was then
   announced that the train was about to stop at the next station.
 
-  The door opened. All that remaining was a quick 5-minute walk to school.
+  The door opened. All that remaining was a quick five-minute walk to school.
 
   Since it was somewhat early, there were not many students walking on the same
-  path as her. Most of them seemed to be her seniors, and they probably had some
-  stuff to do before the new school year started.
+  path as her. Most of them seemed to be senior students, and they probably had
+  some stuff to do before the new school year started.
 
-  Soon enough, she arrived at the school gate.
+  Soon enough, Mona arrived at the school gate.
 
   The wrought iron, old-style school gate looked much wider than what Mona
   recalled from her impressions through internet photos.
@@ -211,15 +213,15 @@
   be freshmen just like her, before being reminded of that short video about
   this particular gate and its deep and rich history.
 
-  Misuzu's school facilities were renovated every 10 to 20 years, but this
+  Misuzu's school facilities were renovated every 2 to 3 years, but this
   particular gate was the only thing that barely changed throughout the school's
   long history. Of course they still had to make sure that the gate could still
-  stand and not fall onto the heads of any passengers, but only little modification
-  were given to it, if there was any.
+  function as a gate and not fall onto the heads of any passengers, but only
+  the most necessary modification were given to it, if there was any.
 
   Though, many people online argued that the maintenance of this gate was
   actually more costly then what it looked like. They claimed that preserving
-  its vintage looks and making sure that it could still function in the 21st
+  its vintage looks and making sure that it could still open and close in the 21st
   century was much harder than installing a modern-style school gate, something
   that every school in the country could afford.
 
@@ -252,10 +254,17 @@
   were available on the bullet boards, but barely anyone was checking on that,
   as the results were already publicly announced online after the
   entrance exam finished grading, which was months ago.
-  And all classes for the most part was the
+  And all classes, for the most part, were the
   same, so the only reasons to care about which class you belonged to were to
   know whether your friends would end up in the same class as you or not. Of
-  course, for a loner like Mona, this was not a thing at all.
+  course, for a loner like Mona, this was not a concern at all.
+
+  She checked the time on her smartphone. Even after taking into account the
+  time it took her to go to her class, Mona seemed to have at least 30 minutes
+  to spare. Back in middle school, she would go straight to class when she was
+  early to spend her time with the social media app, but today, for some reasons
+  such as "today's feeds were kind of boring", she decided to do something out
+  of the ordinary.
 
   _"It’s still early, I might as well go see what is available on the school
     campus…"_
@@ -280,9 +289,16 @@
   speed runner got on their "legitimate" run, she would find a club that she’s
   genuinely interested in.
 
+  Even if there was something like an idol club, Mona would still hesitate to
+  join. Why? Because she did not want to become an idol at all, so a more
+  fitting club for her would be something named an "Idol Research Club". Yeah,
+  if the only purpose of the club is to "research" idol culture, i.e. watching
+  idol content for days non-stop, surely no teacher is going to let it happen.
+
   Misuzu High School have a number of clubs, which could be categorized into two
-  types: sport clubs and cultural clubs. Sport clubs usually reside in stadiums
-  dedicated for their respective sport, while clubrooms of the cultural clubs
+  types: sport clubs and cultural clubs. Sport clubs usually reside in training
+  areas dedicated for their respective sport, with a small clubhouse nearby,
+  while clubrooms of the cultural clubs
   all belonged to the fifth floor of the main building. Since Mona was on the
   school grounds, it was only natural for her to visit the sport clubs.
 
@@ -290,20 +306,20 @@
   sports club had morning routine, while the cultural ones were mostly active
   after school. Hence, she would probably find nothing if she went to check on
   the cultural clubs right now. Yeah, that was totally not an excuse she made
-  for herself in order to avoid walking to the fifth floor of the main building.
+  for herself in order to avoid walking to the fifth floor at all.
 
   The first place Mona visited was the football grounds, which were surrounded
   by running tracks. By the looks of things, it seemed that this place was home
   to the boy soccer team and a girl Track & Field team.
 
   The stadium boasted itself as an internationally standard-compliant facility,
-  and with many major sport events being hosted here. Though, it was quite
-  overshadowed by a stadium of a neighboring high school, which did have quite a
-  focus on sports and extracurricular activities, unlike Misuzu High School.
+  hosting many major sport events. Though, it was quite
+  overshadowed by a stadium of a neighboring high school, which unlike Misuzu,
+  took its pride on sports and extracurricular activities.
 
   The boys were mainly practicing on an area roughly a quarter of the field,
   while the girls team seemed to... not really be a team, as there was only a girl
-  there. She was running laps around the track fields.
+  there, running laps around the track fields.
 
   The looks of her reminded Mona of her own sister, who did this type of training
   every day without skipping.
@@ -317,13 +333,22 @@
   _"So fast…"_
 
   As the girl came running closer to the stand where Mona was resting at, she
-  could saw the rose-tinted braids of the girl. It was hard to judge whether
-  that girl was a second-year or a third-year, but as most third-years of Misuzu
-  spent their last year of high school studying hard for university entrance
-  exams, the former was probably the case.
+  could finally make out the most visible features of her appearance. The girl
+  has short hair, with the two wide, rose-tinted pigtails waving in the air.
+
+  It was hard to judge whether she was a second-year or a third-year, but as
+  most third-years of Misuzu were busy with studying for the upcoming university
+  entrance exams, the former was probably the case. According to what Mona found
+  online, third-year students in Misuzu either became ghost members of their
+  respective clubs, or quit the club entirely.
+
+  This might seem like an irresponsible thing to do, but it was just how things
+  worked in this school. Even someone like the student council presidents would
+  step down after entering third-year, leaving the work to younger students who
+  still had plenty of time.
 
   The girl blazed through the running tracks as if she was a professional
-  athlete. Mona was notably impressed. Though, to be fair, it did not take much
+  athlete. Mona was notably impressed, though, to be fair, it did not take much
   to impress this unathletic girl like Mona. The girl maintained a perfect form,
   even though it looked like she had been running for a long while.
 
@@ -332,9 +357,9 @@
 
   _"Was she… crying?"_
 
-  As the girl ran past Mona, there were some sparkling drops left in her trail.
+  As the girl ran past Mona, there were some transparent drops left in her trail.
   Under the bright morning of spring, they sparkled before popping out of
-  existence.
+  existence, like drops of dew formed on small leaves in the morning.
 
   Mona could have mistaken the girl’s tear for her sweat, but her reddened eyes
   up close seemed to be on the verge of bursting into tears.
@@ -346,13 +371,21 @@
 
   Mona froze as the silhouette of that girl disappeared into the fog. She
   shifted her gaze to the football team, one of its members seemed to be looking
-  at the girl she was fixated on sooner. Once seeing several shots of the boys,
+  at the girl Mona was fixated on sooner. Once seeing several shots of the boys,
   some impressive, some not, she felt bored, then headed to her next
   destination.
 
   Aside from a football stadium conforming to professional standards,
   Misuzu also had a pretty popular baseball pitch that was suitable for
-  organizing national-level events. Mona planned on getting there next.
+  organizing national-level events. Mona planned on getting there next. Even
+  though the place was gorgeous, the school's baseball team has not entered the
+  Koushien for more than 20 years, making the impressive infrastructure rather a
+  waste.
+
+  On the other hand, the nearby school that focused in this kind of stuff had
+  one of the strongest baseball teams in the nation, regularly winning national
+  tournaments. As a result, any decent baseball players flocked to that school
+  instead of Misuzu, since they had a better chance of going pro there.
 
   At the baseball practice grounds, Mona saw a group of students in baseball
   uniforms, which she assumed to be the school’s baseball team. Even though the
@@ -360,8 +393,8 @@
   action. The team seemed to be taking a break, which made sense considering
   school was about to start.
 
-  While walking in the hallway, she suddenly heard the voices of two male
-  students, coming out from the dressing room.
+  While checking out the hallway, she suddenly heard the voices of two male
+  students coming out from the dressing room.
 
   "Have you seen the new first-year girls this year?"
 
@@ -378,29 +411,53 @@
 
   "Bro, it clearly is black, I think you are the colorblind one."
 
-  "Aight, let’s make a bet, if it’s purple then you owe me 200 yen. Just let me
-  pick the exact RGB values, and adjusting for gamma correction…"
+  "Aight, let’s make a bet, if it’s purple then you owe me 1000 yen. Okay?"
+
+  "I have plenty of money these days, so go ahead."
+
+  The two were definitely creeps, Mona thought, but why betting on a hair color
+  of a random girl?
+
+  Mona was baffled by the sudden change of topic. _"Just what are they talking
+    about?"_, she thought.
+
+  After the bet was settled, one of them turned back, which almost caught
+  Mona off-guard, to turn on a computer. _"Wait, what is a computer doing in the
+    dressing room?"_, Mona was even more confused than she already was. The
+  other took out an USB cable to connect the camera to the computer. Luckily for
+  Mona, the two of them on whether the girl's hair color being black or purple,
+  she was unnoticed even though she was sticking her head at the room entrance.
+
+  "Just let me pick the exact RGB values, and adjusting for gamma correction..."
 
   "Okay, but I’m sure that it’s NOT purple. Maybe it was kind of purplish, but
-  anyone with a working eye would just say that it’s black."
+  anyone with a functioning eye would just say that it’s black."
 
-  Mona was baffled by the sudden change of topic.
-
-  "Just what are they talking about?"
+  "Well, let's just see..."
 
   A little bit ago, they were simply perverts who likes to snap pictures of cute
   girls.
 
   Now, they were more like professional photographers who seemed to be more
   well-versed in this field than most high school students, while being perverts
-  who likes to snap pictures of cute girls, at the same time.
-  Basically a nerdy type of perverts, which made their danger level orders of
+  who likes to snap pictures of cute girls, at the same time. Well, the two
+  attributes are not exclusive, after all. Basically, Mona concluded that they
+  must be a nerdy type of perverts, which made their danger level orders of
   magnitude higher.
 
-  Despite that, Mona still stood there and listened to their conversation. They
-  were too fixated on that mystery hair color to notice her presence, anyway.
-  And it's not like she wanted to see the picture to see for herself whether the
-  girl’s hair was black or purple. Right?
+  Mona had listened times and times again about celebrities being doxxed online
+  because of leaving some metadata on their pictures or having a man reflected
+  from their eyes. While a pervert would at most fap to such pictures, this
+  dangerous type of pervert could pinpoint the exact location where the picture
+  was taken. As a result, she quickly pulled her head back a little. Though, it
+  the two were actually pay any attention at the doorway, they could immediately
+  notice the blob of blonde hair stalking their conversation.
+
+  Despite being slightly scared, Mona still stood there to listen. The two boys
+  were too focused on a little mysterious hair color to notice her presence,
+  so it should be okay. She just wanted to know more about how weird these
+  perverts could be, in order to avoid future encounters, totally not to see for
+  herself whether the girl’s hair was black or purple. Right?
 
   "See! It’s black. The hue is not even purple."
 
@@ -423,25 +480,39 @@
   "Hmm, make sense. I guess that’s the baseball club’s CGI expert. Not that it
   really mattered much for baseball, though."
 
-  "Good boy, I will take these 200 yen then."
+  "Good boy, I will take these 1000 yen then. I messaged you the QR code, so be
+  quick to send me the money."
 
-  "You won’t win next time, lil’ bro. But gotta say, this one is goddamn…"
+  "You won’t win next time, lil’ bro." The one who lost groaned, before
+  switching to a freaky tone, "But gotta say, this one is goddamn..."
 
   "For real, she looks breedable as hell! Imagine going on a date with her, and
   she, shyly, cling onto your hand, with a pair of cute puppy eyes wanting us
   two to hold hands. Just imagining how soft her hands were gave me diabetes!"
 
-  The sudden change in topic completely ruined Mona’s mood. But that was not the
-  end.
+  The sudden change in topic completely ruined Mona’s mood. But unfortunately
+  for her, that was not the end of the conversation.
 
-  "And then we went to a hotel or some kind after the date. When we entered the
+  "And then we went to a hotel or some kind after the date."
+
+  "Heh-? That quick?"
+
+  "High school students do it all the time, y'know. Anyways, we entered our
   room, you noticed her innocent eyes looking up at you, as if she was asking
-  "We are really doing this, right?" Afterward, you were unable to conceal the
-  lust and push her towards the bed, slowly removing the layers and reveal more
-  and more of her body, while she were increasingly embarassed. We did it while
-  holding hands, and when I inserted it in, she let out a loud but cute moan…"
+  "We are really doing this, right?" Afterwards, you were unable to conceal your
+  lust and push her, whose face is beet red, towards the bed,
+  and slowly removing every layer of clothes, revealing more and more of her
+  body in the process..."
 
-  Mona walked away in silence, never to be seen at this place anymore.
+  "I can totally picture that... It would be heaven..."
+
+  "Right? And while she were extremely embarassed and you are totally in charge.
+  We did it with our hands entangled in each other, and when I inserted it in,
+  she let out a loud but cute moan..."
+
+  At the doorway, the peeking face of Mona could no longer be seen. After
+  witnessing the pure degeneracy of the two, she walked away in silence, never
+  to be seen at this place anymore.
 
   "I must be careful whenever I’m near these people. I must be careful whenever
   I’m near these people. I must be careful whenever I’m near these people." Mona
