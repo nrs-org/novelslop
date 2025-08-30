@@ -29,9 +29,10 @@
   entered her classroom for the first time.
 
   She took a quick look at the situation. There were some groups already
-  forming, which probably consists of people that knew each other since middle
+  forming, which probably consisted of people that knew each other since middle
   school, but most of the class was sitting on their seats doing their own
-  things.
+  things. Pretty expected, since this was a nerdy school, rather than a place
+  for extroverts to interact with each other.
 
   Much like most of the class, Mona was also someone without any acquaintances,
   not to mention that she was not particularly close to anyone in middle school.
@@ -58,27 +59,109 @@
 
   After a while scrolling through her daily dose of idol pet and beverage
   pictures, Mona heard the bell rang and saw her new teacher entering the
-  classroom. It was a young man, who looked like a fresh graduate from some
-  prestigious university. Make sense, it was Misuzu after all. After a brief
-  introduction about himself, he was able to capture everyone’s attention.
+  classroom. He was a young man, who looked like a fresh graduate from some
+  prestigious university. Make sense, it was Misuzu after all. He gave a brief
+  introduction about himself, mentioning that he used to be a top student at
+  Misuzu, which seemed to make the class went "woah".
+
+  Regarding gifted people like this, Mona had no strong opinion. Well, she was
+  kind of jealous that they were born smarter than her, but it was not like they
+  did anything wrong to her. Though, back in middle school, she tried to hold on
+  to her pride by not asking anyone to teach her. Yeah, out of pride and totally
+  not because she was too shy to do so.
+
+  The young teacher was talking about random stuff with everyone, such as how
+  studying at Misuzu was like. Hell, he even gave some criticism to the school,
+  hey, did anyone record it, that could go viral on the Internet! He said things
+  like "this school cares too much about its appearance rather than the
+  students' well-being" and "they (the teachers) only care about the most elite
+  and top scorers, while the others are left doing their own thing".
+
+  Well, of course anything had a dark side, Mona thought. She did not fantasize
+  much about the school, either.
+
+  She knew that the reason Misuzu was the "one-way ticket to college" is that
+  once your profile had the words "Misuzu graduate", colleges would instantly
+  take you in. Of course there were entrance exams too, but if one could get
+  into Misuzu, being able to ace those exams were nothing. Of course it would
+  still take efforts, especially for students who wanted to enroll in a
+  prestigious university, but with the high acceptance rate, everything should
+  be fine.
+
+  Even though he was basically trashtalking the school, it seemed that everyone
+  was enjoying his talks. Mona, too, she was curious about how things actually
+  worked here.
 
   "How about we do a self-introduction so that everyone in the class can get to
   know each other better?"
 
-  Mona, with her thoughts still on the cloud with the recent idol news, were
-  caught off-guard. _"Self-introduction? It's still a thing in high school?"_,
-  she thought,
-  _"Isn’t it just a thing in shoujo manga? Or maybe he’s into this kind
-  of stuff?"_
+  _"What?"_
 
-  As Mona hurriedly tried to make a script of what to say, her classmates, one
-  by one, stood up and introduced themselves. Some girls were able to neatly
+  The teacher suddenly changed the topic. It seemed that he was getting tired
+  from talking so much, thus decided to leave everything to the students.
+
+  "Sensei, isn't it too childish to do such a thing?"
+
+  "Right! We are high schoolers now, aren't we?"
+
+  Right after the teacher's suggestions, some of Mona's new classmates decided
+  to voice their opinions. It seemed that they had grown pretty close to the new
+  teacher, which was not something you would expect from Misuzu's strict nature.
+
+  _"That's right, no way we are doing this right? Sensei can be sometimes funny
+    at times."_
+
+  "Hey, I told you all sorts of things about me! Isn't it your turn now?"
+
+  The teacher replied in a half-joke half-angry voice, which triggered everyone
+  to tease him even more. However, at the end, he "abused his power" to force
+  everyone to submit.
+
+  Meanwhile, a certain blonde girl was frozen.
+
+  _"I'm not doing this, right? Should I just go to the toilet when my turn is
+    up? No, he would let me introduce when I come back... Or should I just fake
+    a stomachache and dip out indefinitely?"_
+
+  However, looking at her new classmates getting close with the teacher and
+  especially with each others made her worry. If she went out now, no one would
+  know about her, and history would just repeat: Mona would be friendless, just
+  like back then.
+
+  On the way to school, she had come to terms with this possibility, but now,
+  she found herself hesitant to accept this fate.
+
+  The first person stood up and introduce himself. It was then when Mona decided
+  to give this a chance. She did not want to escape from this anymore. What's
+  the worst thing that could have happen? Everyone laughing at her lame
+  self-introduction? Surely such a cruel thing would not happen... right?
+
+  After Mona had made her grand decision, she took out a paper and a pen, trying
+  to make a script of what to say. Her seat was at the middle of the class, so
+  there would be some time until her turn.
+
+  Mona's classmates, one by one, stood up and introduced themselves. It was like
+  a timer, slowly going down until the grand moment. Thinking about it, was
+  there a story about leaves of a tree counting down the death day of a hospital
+  patient or something? Amongst those who introduced, some were able to neatly
   introduce themselves, while some, seemingly more shy and introverted, were
   cheered on by their friends, ended up with some semi-acceptable lines.
 
-  And when it was her turn, she clumsily stood up. The class went silent.
+  Time finally ran out as the girl sitting next to Mona sat down. It was her turn.
 
-  Unlike those shy girls before her, Mona had no friends to cheer her on.
+  Mona clumsily stood up. The class went silent.
+
+  No one knew who she was. Unlike those shy girls before her, Mona had no
+  friends to cheer her on. But the atmosphere just felt different: it seemed
+  like everyone's eyes were focusing on her.
+
+  _"Are things always like this when the others stood up? Why do I feel like
+    everyone is looking at me now?"_
+
+  The pressure crushed her. Mona forgot what she had outlined before, so she
+  took a quick look down at the paper containing her preparation. Since she
+  could only glance for a brief moment, all she saw from her detailed plans were
+  just the words "name", "hobbies" and "nice to meet you".
 
   "I’m Narumi Mona. My hobbies are watching TV and listening to music. I hope in
   the next three years, we can be good friends with each other."
@@ -86,22 +169,23 @@
   _"How generic."_
 
   _"Watching TV and listening to music? Do you have anything better to say about
-  yourself? Everyone find pleasure in doing those."_
+    yourself? Everyone find pleasure in doing those."_
 
-  Mona’s own voices of self-criticism in her heads pulled her right back to her
-  seat straight away.
+  Just as she finished, the thoughts of self-criticism bubbled up on her mind.
+  These voices pulled her right back to her seat straight away.
 
   It was a total failure. Her last-minute efforts could only make such a bland
-  and mediocre self-introduction.
+  and mediocre self-introduction. All those efforts of writing the perfect
+  self-introduction went straight down the drain.
 
   Mona was a straightforward and honest girl. In a world where bubbly worlds
   with no meanings got thrown all over the place, genuine words coming from
   one’s heart could earn the respect of people around them.
 
-  Or it was what Mona thought. In reality, people without the ability to lie can
-  always have the risk of offending people around them. Hence, such people had
-  two choices. Either to deal with the troubles that their world brought upon,
-  or to shut their mouths and keep silent.
+  Or it was what Mona thought. In reality, people without the ability to lie
+  could always have the risk of offending people around them. Hence, such people
+  had two choices. Either to deal with the troubles that their world brought
+  upon, or to shut their mouths and keep silent.
 
   As the world getting wider and wider, a human life became less and less
   significant, and it had become increasingly harder for one to cope with the
@@ -123,13 +207,18 @@
   lying. It creates a false impression of you in the minds of others, and was
   that the point of any attempt of lying in the first place?
 
-  "Narumi Mona? Is she related with…"
+  "Narumi Mona? Is she related with..."
 
-  "She did mention that she had a younger sister, maybe she is actually…"
+  "She did mention that she had a younger sister, maybe she is actually..."
 
-  Much to Mona’s surprise, she heard subtle chattering noises all around the
-  class. The noises were coming from different groups, but it was not loud
-  enough for her to make sense of.
+  Breaking that silence was subtle chatting noises all around the class.
+  Mona was surprised, as this only happened with an interesting
+  self-introduction by a girl before her.
+
+  What a shame, really, Mona tried to incorporate elements of that girl's
+  introduction to her own too. At least that was on the prep paper.
+
+  _"It could not be, right."_
 
   Though, what Mona cared about more is her embarrassing speech before her
   entire new class. This moment would probably go down as one of her worst event
