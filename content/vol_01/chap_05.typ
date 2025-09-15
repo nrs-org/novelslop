@@ -59,7 +59,7 @@
 
   After a while scrolling through her daily dose of idol pet and beverage
   pictures, Mona heard the bell rang and saw her new teacher entering the
-  classroom. He was a young man, who looked like a fresh graduate from some
+  classroom. He was a young man, looking like a fresh graduate from some
   prestigious university. Make sense, it was Misuzu after all. He gave a brief
   introduction about himself, mentioning that he used to be a top student at
   Misuzu, which seemed to make the class went "woah".
@@ -78,19 +78,19 @@
   and top scorers, while the others are left doing their own thing".
 
   Well, of course anything had a dark side, Mona thought. She did not fantasize
-  much about the school, either.
+  much about the school, either, so she was not disillusioned at all.
 
   She knew that the reason Misuzu was the "one-way ticket to college" is that
   once your profile had the words "Misuzu graduate", colleges would instantly
   take you in. Of course there were entrance exams too, but if one could get
-  into Misuzu, being able to ace those exams were nothing. Of course it would
-  still take efforts, especially for students who wanted to enroll in a
+  into Misuzu, being able to ace those exams should be expected. Of course it
+  would still take efforts, especially for students who wanted to enroll in a
   prestigious university, but with the high acceptance rate, everything should
   be fine.
 
   Even though he was basically trashtalking the school, it seemed that everyone
-  was enjoying his talks. Mona, too, she was curious about how things actually
-  worked here.
+  was enjoying his talks and humor. Mona, too, she was curious about how things
+  actually worked here.
 
   "How about we do a self-introduction so that everyone in the class can get to
   know each other better?"
@@ -147,9 +147,10 @@
   introduce themselves, while some, seemingly more shy and introverted, were
   cheered on by their friends, ended up with some semi-acceptable lines.
 
-  Time finally ran out as the girl sitting next to Mona sat down. It was her turn.
+  Time finally ran out as the girl sitting next to Mona sat down. It was her
+  turn, and there was no turning back now.
 
-  Mona clumsily stood up. The class went silent.
+  Mona clumsily stood up, and the class went silent.
 
   No one knew who she was. Unlike those shy girls before her, Mona had no
   friends to cheer her on. But the atmosphere just felt different: it seemed
@@ -229,16 +230,17 @@
   embarassment. Following homeroom was the entrance ceremony, which was hosted
   in the school auditorium.
 
-  After taking a quick visit to the restroom, Mona along with the rest of her
-  class gathered at the auditorium, waiting for the upcoming entrance
-  ceremony to start. Nothing much could be said for the whole event, however.
+  After taking a quick visit to the restroom, Mona would arrive at the site
+  along with the rest of her class. Nothing much could be said for the whole
+  event, however.
 
   First, the Student Council President, _something something_ Arisa of class
   2-B, had a brief speech along the lines of "I will make this school a
   better place" and "Welcome fellow newcomers, I hope you will enjoy your stay
   at Misuzu". Nothing too extraordinary, except for the unusual focus on
-  improving efficiency and productivity, so maybe she was planning something
-  interesting?
+  improving efficiency and productivity. From her speech, Mona could infer that
+  this senpai was a very hardworking and serious person, pretty much expected
+  for a place like Misuzu.
 
   Then comes the Principal. His speech is basically the last year (which is also
   similar to the year before) except for every occurences of last year is
@@ -260,18 +262,20 @@
 
   So in total, there were nine people who were worthy enough to stand on the
   prestigious podium. They would become idolized and worshiped by the whole
-  school, which might seem like a dream come true but could also be a nuisance,
-  as well.
+  school, which might seem like a dream come true. For some, this could also be
+  considered a nuisance, as well.
 
   When the results were about announced, the whole auditorium went completely
-  silent, waiting for the names to be announced, though everything had been
-  already announced beforehand on the school website for a week or two. As
-  usual, Mona did not care much about the list, as she was no match to the most
+  silent, waiting for the names to be read, though everything had been
+  already publicized beforehand on the school website for a week or two. The
+  money too, was already transferred to the respective account of the awardees.
+  As usual, Mona did not care much about the list, as she was no match to the most
   elite students in her grade, while having no interest in those who were
   talented in something not idol-related.
 
   Though, she saw a familiar face: the pink-haired senior in the track team were
-  there. So she crying on the track was tears of happiness? Or maybe there was
+  there. Just earlier this morning, she was crying on the running tracks, so
+  what could have happened? Maybe those were tears of happiness? Or maybe there was
   // chat what the fuck is this
   // is this B-san hide and seek?
   // is this odds&ends (but that happens in this story lol)
@@ -280,9 +284,9 @@
   Mona recalled that Vocaloid song of a girl who committed suicide despite
   having perfect grades. It went with something like "I tried so hard to get
   these results but at the end it all means nothing" or something edgy like
-  that. Surely, these edgy Vocaloid songs are not reality, right? It's just
-  projection of the song producers onto something the general public could
-  comprehend, right?
+  that. Surely, these Vocaloid songs are not reality, right? It's just a
+  simplistic projection of the song producers onto a storyline the general
+  public could comprehend, right?
 
   By the time she finished searching up the song on her phone, the ceremony has
   ended. Those who were awarded stepped off the stage, and some
@@ -320,29 +324,19 @@
 
   _"When did they even come..."_
 
-  Not waiting for Mona's internal monologue, one of the two girls ignited a
+  Not waiting for Mona's internal monologue, one of them ignited a
   conversation.
 
   "Hey, Narumi-san, do you have a moment?"
 
   // Being the queen of \#621,
+  It was a girl with a confident look and sharp eye lashes.
   The girl had shoulder-length purple-tinted black hair that seemed to be
   treated with much care by its owner. Her eyes were full of friendliness, which
-  seemed to calm Mona down a bit. By the look of things, she probably was
-  someone really popular with everyone in class.
+  seemed to calm Mona down a bit.
 
-  Next to her was another girl who exhibited a completely different energy. With
-  a sporty-looking short ponytail, she looked like someone from an athletic
-  club Mona checked out in the morning. Compared to the other girl, she seemed
-  to be more reserved.
-  //
-  // Though Mona did not pay much attention in the self-introduction section, the
-  // overwhelming aura of this girl possessed was able to make Mona notice her and
-  // remembered her name. Kazugai Uta, was it?
-  //
-  // Standing beside her was another girl, possibly her friend maybe, with a
-  // ponytail brown hair and green ____ eyes. Her style resembled someone with some
-  // athletic interest, a rare kind in this institution.
+  By the look of things, she probably was the popular type, a person who could
+  act nice to everyone in class.
 
   Mona were frozen in place by the girl's question. And "Did I cause trouble to
   them somehow?" was the only thing going on her mind.

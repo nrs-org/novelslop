@@ -3,13 +3,30 @@
 #chapter(7, "And thus, Narumi Mona made friends")[
   _"She just said it, didn't she? The I-word!"_
 
-  Narumi Mona, who was just about to get used to the unusual atmosphere in front
-  of hers, were left speechless yet again.
+  In her mind, Narumi Mona was censoring the word "idol" as if it was a racial
+  slur. She was left speechless again, after finally getting familiar with the
+  unusual atmosphere surrounding her.
+
+  The chattering noises stopped, and the topic suddenly shifted to what Mikoto
+  just said.
+
+  "Idols? What is that?" A girl from the crowd slipped out her thoughts.
+
+  "You don't know?" Another girl, who seemed to be a friend of the girl who just
+  spoke, asked, "Idols are those girls on TV that sing and dance in front of an
+  audience..."
+
+  "So are they just singers and dancers? Or something like those _seiyuu_
+  concerts of popular anime show?" The girl from before asked, more confused
+  than ever.
+
+  "I'm not really sure about that, I just saw their performances a couple of
+  times, so I'm not so sure..."
 
   "Idols? Why all of the sudden?" Uta asked out loud, seemingly confused by
   Mikoto's question.
 
-  Seeing the troubled look on Mona's face, Mikoto tried to clear things up,
+  // Seeing the troubled look on Mona's face, Mikoto tried to clear things up,
 
   // work on this lil bro
   "Well, it's just a hunch of mine, so maybe it's not true at all... But
@@ -20,28 +37,24 @@
   _"Wait, I said all those things?"_
 
   After realizing her mistakes, Mona's cheeks turned bright red. It seemed that
-  while she was overjoyed, she blurted out all sorts of information regarding
-  her and her sister's life.
+  while she was overjoyed, she blurted out too much about herself. Will people
+  from now on see her as a narcissist who told others that much about herself on
+  the very first day of school?
 
   She tried to recall what she had been saying, questioning whether she let out
   anything sensitive or cringy.
 
-  Meanwhile, the conversation in front of her still continued.
+  "So Nanba-san, about this idol stuff, was that the things that Narumi Sena-san
+  talked a lot about on SNS? Yesterday she mentioned a girl named Girigiri..."
 
-  "Idols? What is that?" A girl from the crowd slip out her thoughts.
+  "You guys should check on them" Mikoto enthuastically interjected, "They are
+  very cool! Me and Uta watched them all the time too!"
 
-  "You don't know?" Another girl, who seemed to be a friend of the girl who just
-  spoke, asked, "Idols are those girls on TV that sing and dance in front of an
-  audience..."
+  "Is that right, Kazugai-san?" The two girls turned their heads to Uta.
 
-  "So are they just singers and dancers? Or something like those _seiyuu_
-  concerts of popular anime show?" The girl from before asked, confusedly.
+  "Huh?" Uta seemed slightly uncomfortable by Mikoto's answer, "yeah, I guess."
 
-  "I'm not really sure about that, I just saw their performances a couple of
-  times, so I'm not so sure..."
-
-  // idols in hkiverse is MUCH MORE obscure than it is irl
-  // maybe i will change this?
+  // idols in hkiverse is MUCH MORE obscure than it is irl yep its canon now
   Idol, as a concept, was a pretty new thing in Japan.
 
   Following the economic boom of the early 1990s, otaku culture became extremely
@@ -76,22 +89,16 @@
   attracted to you, though the former skills could be useful for certain
   situations.
 
-  "You guys should check on them" Mikoto enthuastically interjected, "They are
-  very cool! Me and Uta watched them all the time too!"
-
-  "Is that right, Kazugai-san?" The two girls turned their heads to Uta.
-
-  "Heh?" Uta seemed startled, "I guess so."
-
-  It seemed that the topic of idols distracted the group from the main
-  character, whose head was still on the clouds.
+  Nevertheless, it seemed that the topic of idols distracted the group from the
+  main character, whose head was still on the clouds.
 
   "Hey-, are you okay? I'm sorry if it's something you don't want to answer..."
   Mikoto worriedly asked, once she finally noticed the absolute state of
   disbelief on Mona's face.
 
   Though, not answering would just mean she admitted she was an idol fan
-  herself. And that she had something to hide about that.
+  herself. And that she had something to hide about that, which was even more
+  suspicious.
 
   Mona, after getting lost in thought for about a minute, finally resurfaced
   back to life.
@@ -103,7 +110,7 @@
   up in some weird rumors, even.
 
   _"But Nanba-san, and maybe Kazugai-san too, were clearly interested in idols,
-  as well."_
+    as well."_
 
   This was an once-in-a-lifetime chance.
 
@@ -116,7 +123,7 @@
   So, maybe, for once, she can be honest.
 
   _"Screw it! We win big or go home! 99% of gamblers quit before they win big,
-  anyway."_
+    anyway."_
 
   Though, comparing answering a simple question with gambling is not a wise idea,
   Mona.
@@ -150,7 +157,7 @@
   Once Mona felt overloaded with the talking, Uta had to join in to stop
   Mikoto's hyperenergetic self.
 
-  "I’m sorry, Narumi-san. Every time Mikoto talked about idol stuff, she became
+  "I’m sorry, Narumi-san. Every time Mikoto talked about idols, she became
   like this."
 
   "It’s okay, actually. I also love idols somewhat to an extent too, so I

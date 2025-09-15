@@ -1,6 +1,6 @@
 #import "../../lib.typ": chapter
 
-#chapter(8, "Eating out... Is that what friends always do together?")[
+#chapter(8, "An ordinary eating out")[
   After everything that happened, Mona found herself at the fastfood restaurant
   near her school.
 
@@ -13,7 +13,7 @@
   // absolute ESCAPE
   // absolute RAMUNE
   _"They said "See you later this afternoon", right? What if they forgot about
-  it already..."_
+    it already..."_
 
   There, she saw her two "friends" packing up their stuff. Her gaze was met with
   Uta's, who made a small beckoning signal to invite Mona by. What a relief,
@@ -73,8 +73,8 @@
   side, seemed to notice.
 
   _"Most of Mikoto's knowledge of idols come from the reposts that Narumi Sena
-  made. And Narumi Sena probably does not have much time to stalk idols, which
-  means only one thing..."_
+    made. And Narumi Sena probably does not have much time to stalk idols, which
+    means only one thing..."_
 
   Yes, it all came from Mona.
 
@@ -86,8 +86,8 @@
   _someone_ she was looking for.
 
   _"This girl is the teacher of her sister, which is also the teacher of Mikoto.
-  So she should have an extreme amount of knowledge... I want to chat with her,
-  too."_
+    So she should have an extreme amount of knowledge... I want to chat with her,
+    too."_
 
   Even though she acted much calmer to Mikoto, Uta did have much more idol knowledge
   than her friend. They say that the more you know, the less you talk, after
@@ -126,7 +126,7 @@
   on my feeds recently." Uta suddenly asked.
 
   _"Let's see how well-versed this girl really is... This idol is somewhat
-  obscure, but she probably can nail this down easily."_
+    obscure, but she probably can nail this down easily."_
 
   Now that Uta could comfortably talk to Mona, she could now
   ask some questions to satisfy her curiosity.

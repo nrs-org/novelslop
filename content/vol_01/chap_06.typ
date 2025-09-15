@@ -13,8 +13,25 @@
   inferior complexity with her ultra-popular older sister? Y'know, the one on
   Manga Time Kirara."
 
-  "Hmm, you're right, she would think that we are only interested in her
-  sister..."
+  "You read that too? The show about the little sister of a rock star?"
+
+  "Yeah... It was the best-seller manga of last year, so of course I took a read
+  of the first chapters..."
+
+  "You haven't read the later chapters?" Mikoto shouted in surprise, "That's
+  where all of the peak is from..."
+
+  "Well- it's not that I don't want to read it..." Uta replied, "But I just
+  don't have much time to read manga right now..."
+
+  "Right, should I spoil a bit for you then? So that you could realize the
+  absolute peak Mocchi-chan is..."
+
+  "I don't take spoilers, sorry." Uta raised her hand to refuse in a jokingly
+  polite manner, "Anyways, are we getting quite sidetracked here?"
+
+  "Hmm, oh right! So should we go ask her or not? she would think that we are
+  only interested in her sister..."
 
   "But isn't it the case, though?"
 
@@ -40,7 +57,7 @@
   "The little sister of Narumi Sena? Who? The girl from that selfie?"
 
   That nickname she given to one of her future classmates slipped out of her
-  mouth when she was talking with Kazugai Uta when they were going home,
+  mouth when she was talking with Kazugai Uta when they were hanging around,
   one of the few acquaintances of hers that knew who "Narumi Sena" was.
 
   "It's just a inside joke of mine, haha..." Mikoto laughed, trying to cover up
@@ -58,7 +75,8 @@
 
   And that began the tale of Detective Nanba Mikoto along with her assistance,
   Kazugai "Dr. Watson" Uta, in search of the mysterious "little sister of Narumi
-  Sena".
+  Sena". They would hop on calls almost daily for their missions, but calling
+  these "calls" when Uta just muted and do other things was kind of a stretch.
 
   Ah, right, forgot to mention, but Narumi Sena was the model mentioned earlier.
   Ring some bells now?
@@ -92,7 +110,7 @@
   The two of them were standing right before the girl's desk.
 
   _"Now that I had a closer look at her, she really does look like Narumi
-  Sena. What's her name again? Right, Narumi Mona."_
+    Sena. What's her name again? Right, Narumi Mona."_
 
   Narumi Mona really resembled her sisters' looks, but the problem was that she
   rarely wear the same smile her sister was having. So someone used to Narumi
@@ -102,27 +120,33 @@
   Now that Uta had a up-close look at this girl, she could say with 100%
   certainty that her friend's suspicions were right (it was 99% before).
 
-  Her face lit up with excitement.
+  Her face lit up with excitement. Being able to meet a relative to a pop star
+  could be considered a once-in-a-lifetime chance.
 
   Now, all what's left was to find out how her personality was like. It would be
   a huge trouble if she was like the girl from that Kirara manga, where the
-  other characters always had to walk on eggshells when she was around.
+  other characters always had to walk on eggshells when she was around. And
+  based on this girl's terrible self-introduction, that could pretty much be
+  real.
 
   Kazugai Uta had been used to initiating conversations with strangers. As a
   consequence, when her friends wanted to make contact with some people they did
-  not know, she always became some sorts of third-party between the two.
+  not know, she always became some sorts of third-party between the two. And as
+  a bonus, she would often ended up as acquaintances of the two people who asked
+  her to initiate contact.
 
   And because so, she had quite a lot of connections. But most of them were
   surface-level acquaintances.
 
   Even though she was really interested in Mona, she knew that the girl would
-  just become a proxy to Narumi Sena if they ended up becoming friends.
+  just become a proxy to Narumi Sena if they ended up becoming friends. The girl
+  would probably not remember her name, even.
 
   "Hey, Narumi-san, wasn't it?" Uta said, confidently, with a bright smile on
   her face that could melt snow if it's winter.
 
-  The girl looked up in disbelief. Frozen, even. Well, I take back what I said
-  about melting snow.
+  The girl looked up in disbelief. Frozen, even. Well, it seemed to have an
+  opposite effect, actually.
 
   After a moment, which seemed like the time she needed to process the overload
   of information she just received, the girl replied with a soft tone, while
@@ -144,12 +168,13 @@
   And it helped that she spent quite a lot of time with remembering names during
   her struggles with the history textbook.
 
-  Just as Mona finished her almost-incoherent answer, Uta grabbed both of her
+  Just as Mona finished her almost-incoherent answer, Uta could not hide her
+  excitement. grabbed both of her
   hands in great delight.
 
-  "You remembered my name? Thank you very much!", Uta smiled even brighter, a
-  smile which could be comparable to that of an idol, "Ah, I wanted to ask you
-  something, Narumi-san."
+  "You remembered my name? Thank you very much!", Uta grabbed both of Mona's
+  hands. On her face was even brighter smile, a smile which could be comparable
+  to that of an idol, "Ah, I wanted to ask you something, Narumi-san."
 
   Appetizer is over. Now onto the main dish.
 
@@ -157,13 +182,13 @@
   her, was definitely shocked by this development.
 
   After realizing Mona's slight discomfort from how tight the grip has come, Uta
-  released her hands, trying to comfort the girl before her selfish request.
-  Well, not hers, but her friend's.
+  released her hands, trying to comfort the girl before voicing her selfish
+  request. Well, it was not hers, but rather her friend's.
 
   Even more nervous than before, Mona gulped before saying in a quieter voice
   than before, "Uhm, what is it?"
 
-  Uta took a deep breath.
+  Uta took a deep breath. She could not mess this up.
 
   It was time for the important question.
 
@@ -212,7 +237,8 @@
   fit every job she was having.
 
   In other words, Narumi Sena was the Cinderella that became a princess just
-  after a miraculous night. All of this just happened in this March, too.
+  after a miraculous night. All of this just happened during March of this year,
+  too.
 
   Though Mona knew all of this, she was not aware of the consequences of her
   sister’s popularity, and how it would affect her own life.
@@ -221,72 +247,90 @@
   her stop by and ask about her relationship with her sister.
 
   _"Hmm, with this newfound popularity, what should I do... Should I make my own
-  crypto coin or something?"_
+    crypto coin or something?"_
 
   That would severely damage your sister's reputation, though. And yours too.
 
   _"Anyway, I gotta reply to them, they surely are weirded out by this huge
-  delay. Let's just come clean..."_
+    delay. Let's just come clean..."_
 
   During that time, Uta and Mikoto had traded eye contact a couple of times. Uta
   gave something like "Wait, did I do something wrong?", which was answered by a
   gaze that communicated "I don't know, what should we do?", followed by a "I
-  don't know" gaze from Uta, disappointed with her friend's uselessness in social
-  situations.
+  don't know" gaze from Uta, disappointed with her friend's uselessness in these
+  kinds of tricky social situations.
 
   "Narumi-san, are you okay?" Uta, whose question had been left unanswered for
   quite a while, worryingly asked Mona, who was still lost in her thoughts, "If
   it is uncomfortable for you..."
 
   "No, I’m fine, really. I was just shocked, after all.", Mona, finally recovered
-  from her frozen state, mumbled, "Uhm, you were right, I’m her sister."
+  from her shock, nervously mumbled, "Uhm, you were right, I’m her sister."
 
   "Really?"
 
   It was a different voice this time.
 
-  Mikoto unexpected jumped into the conversation, leaving Mona even more
-  speechless than before. If you could not count, then this was the third time
-  now.
+  From the eyes of Mona, the other girl jumped straight into the conversation,
+  leaving Mona even more speechless than before. If you could not count, then
+  this was the third time now.
 
   Poor girl. Her mind could not withstand the chain of complex events unfolding
   before her very own eyes.
 
   Uta's overwhelming presence almost made Mona forget that there was yet another
-  girl standing in front of her.
+  girl standing in front of her. Compared to who could only be described as the
+  class goddess on the left, this girl's aura was much weaker, but felt somewhat
+  gentle. If Uta was the sun, then this girl here was the moon, something like
+  that.
 
-  Realizing how awkward things have become, Mikoto glanced back at Uta, asking
-  for help, just to be given a "Hey, are you serious, why did you suddenly jump
-  into the conversation?" look.
+  After evaluating her aura, Mona took a proper look at the girl. She did give
+  Mona a sense of friendliness, which seemed to have a different flavor to that
+  of Uta. She had a brown ponytail that was tugged to the back, along with blue
+  gentle eyes. By her posture and gestures, Mona guessed that she endulged a
+  little bit in some form of exercises.
 
-  Without any other options, Mikoto turned her head back to the shocked Mona and
-  introduced herself,
+  Nevertheless, Mona was still frozen. Realizing how awkward things have become,
+  the girl glanced back at her friend asking for help, just to be given a "Hey,
+  are you stupid or not, why did you suddenly jump into the conversation?" look.
+
+  Without any other options, Mikoto turned her head back to the statue of Narumi
+  Mona to introduce herself,
 
   "Erm-, I'm Nanba Mikoto, if you don't remember from the self-introduction
   thing..." she continued, her voice getting quieter and quieter, "Actually, I
   have a small request..."
 
-  "Uhm, please go ahead" Mona murmured.
+  "Uhm, please go ahead" Mona murmured. It seemed that some supernatural forces
+  poured the revival fluid on her to bring her back to life.
 
-  Mikoto then blurted out about how much she idolized Narumi Sena. According to the
-  nonsense she spouted out, she had been a long-time fan of Mona's sister after
-  stumbling upon her picture on her timeline. It was Narumi Sena who gave her
-  the courage to continue chasing her dreams, giving her power in her darkest
-  days, et cetera.
+  Mikoto then blurted out about how much she idolized Narumi Sena. And according
+  to the seemingly nonsense that was spouted out, she had been a long-time fan
+  of Mona's sister, after randomly stumbling upon her picture on her timeline.
+  To quote her, it was Narumi Sena "who gave her the courage to continue chasing
+  her dreams, giving her power in her darkest days, etc."
 
-  To be fair, according to what she said, Mikoto had been a Narumi Sena fan for
+  Long-time fan, huh? Mona did not expect it at all. She thought that Mikoto was
+  just a trend-chaser, following Narumi Sena after she got popular. She could
+  not have lied, too, as the nonsense she spouted out does contain pretty
+  obscure information that no new fan could get their hands on.
+
+  Moreover, according to what Mikoto said, she had been a Narumi Sena fan for
   quite a long time, much preceeding the magical rise to stardom. She was one of
   a few who followed Sena's SNS account, a small account of an inspiring model
-  on some corners of the Internet. In other words, she was the real deal, not a
-  new-gen fan riding along Sena's newfound fame.
+  on some corners of the Internet. In other words, this was her confirmation for
+  being an OG.
 
-  She finally arrived at her request.
+  After the lengthy introduction, Mikoto finally arrived at her request.
 
   "So, I know this might look like I'm taking advantage of your relationship
   with her... But can you give me her signature, please?"
 
-  Mona, who was attentively listened to each of Mikoto's words, were deeply
-  touched.
+  _"All that for just a signature?"_
+
+  Mona was expecting a lot more from her request, just to be let down.
+  Nevertheless, after attentively listened to each of Mikoto's words, Mona was
+  deeply touched.
 
   She felt the same way to her idols too.
 
@@ -296,27 +340,30 @@
 
   Throughout all those years, there was finally someone who understood her.
 
-  Regarding the whole "taking advantage" business, if there is a girl in her
-  class that turned out to be relatives to one of her faves, Mona would do
-  anything just to get a signature, going as far as begging or licking the
-  girl's feet just to get a simple stroke on a paper. Maybe not that extreme,
-  but well.
+  Mikoto said that she was "taking advantage" of Mona, but that did not upset
+  Mona in any way. Putting herself into Mikoto's shoes, she would go and say the
+  exact same thing. Heck, if it were really Mona, she would not be able to
+  gather enough courage to do so, and let this precious chance slip by.
 
   Without any hesistance, Mona replied,
 
   “Okay, I will try to ask her.”
 
   Right afterward, other girls in the class joined in the conversation. Some
-  wanted signatures like Mikoto, while some others wanted to know more about
-  Sena’s daily life.
+  wanted signatures like Mikoto, while some others gave her some questions,
+  wanting to know more about Sena’s daily life.
 
   It was the first time that Mona was surrounded by so many people.
+  Even though she was overwhelmed, the girls surrounding her made sure to make
+  it comfortable for Mona as much as possible.
+
+  Sometimes their questions involved her too.
 
   _"This is fun."_
 
-  She knew it was ephemeral.
+  But deep down, she knew it was ephemeral.
 
-  She knew they only cared about her sister.
+  _"I bet what all they cared about was my sister, rather than me."_
 
   She knew that once they got bored, she would be left alone again.
 
@@ -325,26 +372,36 @@
   Mona.
 
   // #621 approves this line
+  // I WAS HERE
+  // I WAS FUCKING HERE
   The warmth of human connections, even fake ones, were enough to fill her heart
   with joy.
 
-  So for this fleeting moment, she had a selfish wish.
+  So for this fleeting moment, all she wanted was a selfish wish.
 
   She wanted to be known as “Narumi Mona”, talk with people about topics that
   “Narumi Mona” would like to talk with, and hang out with people that “Narumi
   Mona” could be comfortable around.
 
-  But she did not realize that while she was casually respond to her new
-  classmates, she slipped out quite a lot of information.
+  If that could come true, she would do anything to prolong that friendship, she
+  thought.
 
-  Normally, that information would be left unnoticed by the crowd in front of
-  her. But today was different.
+  However, when she was sharing bits of her sister's life with everyone,
+  she slipped out quite a lot of information. Not too much that could damage her
+  sister's reputation nor bring damage to her, but it was still a decent amount.
+
+  Normally, such information would be like breadcrumbs that spilled to the
+  floor, never to be touched again. Even if someone got a camera to record
+  everything, it would still become lost media.
+
+  But today, there was a girl that had been picking these seemingly
+  insignificant crumbs off the ground.
 
   The girl raised her voice amongst the chattering noises.
 
   "Narumi-san, I wonder..."
 
-  "What was it, Nanba-san?" Mona replied, nonchalantly, expecting yet another
+  "What was it, Nanba-san?" Mona nonchalantly replied, expecting yet another
   question about something like Narumi Sena's shopping habits.
 
   With a clear voice, Mikoto proceeded with a question that had nothing to do
