@@ -281,7 +281,8 @@
   "Well, this idol talk is making me tired. Especially because of a certain
   _someone_. So why don't we talk about something else?"
 
-  "I thought you only cared about Mona because of idol stuff." Uta responded.
+  "I thought you only cared about Mona because of idol stuff." Uta responded
+  with her usual sarcasm.
 
   "No, I did NOT. I said I'm going to be her friend, not her idol discipline!
   Ah, how about club stuff? You two gonna join any clubs?"
@@ -347,32 +348,52 @@
   "Yeah, yeah, you don't have to say that again."
 
   Uta and Mikoto bickering with each other looked like an old married couple,
-  which lit a brief smile on Mona's face.
+  which made Mona almost laugh out loud.
 
   _"I wonder if I could become close to them like that."_
 
   Mona glanced at the window next to her, just to be met with her own reflection.
 
-  She realized that she was not sitting alone.
+  Then, it hit her.
 
-  She was one of _them_, and things had drastically changed.
+  Mona realized that she was not sitting alone. She was no longer the bystander
+  who only met her acquaintances by chance.
+
+  God had given her a one-in-a-lifetime chance. But even then, she was still
+  unable to speak up her mind.
+
+  Noticing her friend zoning out, Mikoto poked the last stick of fries in her
+  bag on Mona's cheek.
 
   "Mona? Do you think you will be free tomorrow?"
 
   "Uhm- yes! I don't have any plans in particular."
 
-  Mikoto's sudden question interrupted Mona from her deep thoughts.
+  "Well, then it's decided." Mikoto suddenly stood up. People were watching her,
+  yet she would not bat an eye, "Tomorrow it is, then."
 
-  "Well, then it's decided."
-
-  "That's pretty sudden. You haven't asked if I'm free yet."
+  "That's pretty sudden!" Uta joined along with Mikoto and stood up, "You
+  haven't asked if I'm free yet."
 
   "Don't you always have free time to go play with your friends? So I thought I
   would have to take advantage of when you haven't made any new friends yet in
   high school."
 
+  "Wha-\? That's business y'know?"
+
+  "Business? What business would involve spamming a GIF five times in a row?"
+
+  Mikoto was staring at Uta's phone, which was definitely showing a chat thread
+  full of reaction images. Oh! There really were that GIF that was spammed five
+  times in a row from Uta.
+
+  Once Mikoto finished her sentence, Uta reached to her phone to turn off the
+  screen. With her secrets exposed, Uta had no choices other than to back down.
+
   "Okay, Mikoto-sama."
 
-  Uta nonchalantly replied after a short sigh, before returning to her phone. It
-  was going to be a tiring day tomorrow, it seemed.
+  Uta nonchalantly replied after a short sigh, before a staff member came to
+  their table, asking them to keep things down. The two sat down in
+  embarassment, but regardless, it was going to be a tiring day tomorrow, it
+  seemed.
 ]

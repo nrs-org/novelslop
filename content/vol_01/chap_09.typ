@@ -15,6 +15,8 @@
 
   _"Oh, so that's why..."_
 
+  Without any hesitation, the easygoing girl replied,
+
   "Okay, I will try to."
 
   The girl gave Mona her contacts and thanked her before leaving, while Mona
@@ -22,25 +24,60 @@
 
   _"Rumors... sure spread pretty fast."_
 
-  Everything was still normal on that morning, until Mona went to take her shoes
-  from the locker room.
-  Up to that moment, nothing seemed out of the ordinary.
-  It was the same spring, the
-  same flower petals that rained down from the cherry blossom, and the same
-  grand-old school gate.
+  It was the second day of high school for Mona, but she already felt like
+  things had gotten out of hand. On her first day, she arrived home at 6 PM,
+  because of the "after-school meal" with Mikoto and Uta. Without any energy
+  remaining, the girl could only eat dinner half-heartedly before going straight
+  to bed.
 
-  The sudden interaction reminded her of everything that happened yesterday,
-  including how she revealed her relationship with Narumi Sena.
+  Her sleep lasted an astonishing 10 hours, partly due to her not having a
+  complete sleep the night before. Though, for a girl who had used to all sorts
+  of terrible sleep schedules, this was only a minor reason. The real cause was,
+  all the unbelievable events that happened in the first day had complately
+  drained her social battery.
 
-  She took a brief look around. There were some girls clumped together,
-  definitely looking at her.
+  When she woke up, she had troubles recalling the day, which seemed to
+  entertain her sister quite a lot. She only had hazy memories of what happened
+  yesterday, just like a phone after going through a factory reset.
 
-  Embarassed by the whole ordeal, she rushed to change her shoes, intending to
-  quickly leave the scene.
+  When Mona walked to school on her usual route, she was still daydreaming. Even
+  when she was sitting on the train, she could not focus on the SNS feed on her
+  phone. And now, at the locker room, she finally remembered everything that
+  happened.
+
+  Like a villainess from an otome game who just recovered her memory from past
+  life, Mona was shocked from all the overflowing memories.
+
+  Once Mona was able to take a grasp of the situation, she took a brief glance
+  around. There were some, no, LOTS of eyes, on her. _"How did I not notice?"_,
+  she thought. The girls surrounding her were all clumping together, discussing
+  something while keeping their eyes on her.
+
+  She felt like she was a creature in a zoo, with her every move being watched
+  by at least someone from the audience. _"Wait, is this like this for idols
+    too?"_ Seemed like the girl had developed yet another respect for her idols,
+  again.
+
+  // Everything was still normal on that morning, until Mona went to take her shoes
+  // from the locker room.
+  // Up to that moment, nothing seemed out of the ordinary.
+  // It was the same spring, the
+  // same flower petals that rained down from the cherry blossom, and the same
+  // grand-old school gate.
+  //
+  // The sudden interaction reminded her of everything that happened yesterday,
+  // including how she revealed her relationship with Narumi Sena.
+
+  // She took a brief look around. There were some girls clumped together,
+  // definitely looking at her.
+
+  Embarassed by the whole ordeal, she rushed to change her shoes, as quick as
+  possible to leave the scene. Mona tried not to act too suspicious, just to be
+  more shady than a killer fleeing from the crime scene.
 
   On the way to her class, the feeling of being watched persisted, and it made
-  Mona really uncomfortable. When she finally sat down at her seat, she could
-  still notice the intense gaze sourcing from the classroom door.
+  Mona really uncomfortable. Even when she finally sat down at her seat, she
+  could still notice the intense gaze sourcing from the classroom door.
 
   While she was thinking of a way to deal with these new problems, Mona was
   disturbed by a sudden pat on the back.
@@ -50,25 +87,27 @@
   Startled by the sudden mention of her name, she turned around to be met with
   the ever-familiar figure of her friends, Mikoto and Uta.
 
-  She heaved a sigh of relief.
+  She heaved a sigh of relief. Her heart could not bring herself to talk with
+  yet another stranger.
 
   The two stopped by Mona's desk to ask her a couple questions before quickly
   returning to their seats. It was a shame that Mona's seat was so far from the
   two, whose seats were right stacked on each other.
 
-  They seemed to not notice the crowd looking at Mona, however.
+  They seemed to not notice the crowd looking at Mona, however. She was not sure
+  if that was a positive or negative thing, whatsoever.
 
   Just as Mona was reminded of the issues at hand, she sensed a vibration on her
   phone.
 
   _Uta: Mona, there are some people staring at you while discussing something,
-  y'know them?_
+    y'know them?_
 
-  Mona received a text from Uta. After their small detour at the local fastfood
-  stall the last day, both Uta and Mikoto traded phone numbers with Mona.
-  That was how they were able to message each other now.
-
-  _"She noticed! What to reply now..."_
+  Mona received a text from Uta. Ah! That reminded her. After their small detour
+  at the local fastfood stall the last day, both Uta and Mikoto traded phone
+  numbers with Mona. It was only when Uta messaged her that Mona realized that
+  this event did really happen. _"God! Is there still anything important that
+    happened yesterday, too!"_
 
   // honeyworks tribute?
   Following Uta's message was an emote of a cute bear, seemingly clueless with a
@@ -80,16 +119,24 @@
   ago. Since then, she had not been in any situation that required her to use an
   emote.
 
+  Uta's message left Mona with a mix of embarrassment and reassurance feeling.
+  Regardless, she had to figure out something to reply to her friend, as she had
+  already seen the message.
+
   _Mona: I noticed them too, probably Narumi Sena fans that were interested in
-  me or something... Thanks for your concerns._
+    me or something... Thanks for your concerns._
 
   Mona was worried that her thanks was too polite-coded, but she really meant
   it. After a short while of brainstorming, which was too much effort for a
-  single reply, she sent the message to her friend.
+  single reply, she sent the message to her friend. If talking to her friend is
+  taking that much effort, who knows how much time would she spend perfecting her
+  email when she had to apply for a job.
 
+  // haha apiss
   Following that message was the bear from the same emote catalog, now laughing
   softly while scratching his head. She hoped that the emote could make things
-  less stiff-sounding.
+  less stiff-sounding, but it honestly felt more like a robot trying to be
+  human.
 
   Though, the problem at hand remained: the crowd at the classroom door was
   still noisy enough to disturb Mona, even though she was nowhere near them. The
@@ -115,7 +162,9 @@
   "Right. I hope this mess could clean itself up soon."
 
   Uta, who had experience dealing with many people in the past, knew exactly how
-  tiring it was like.
+  tiring it was like. She once had a part-time job as a waitress back when she
+  was in middle school, and dealing with people had never not been a headache
+  for her, especially on crowded days.
 
   "Maybe we should go and help her... But it's really not something that has to
   do with us..."
@@ -206,7 +255,7 @@
   "You know Narumi-san, right?"
 
   _"Wow, straight to the point. Did not expect her to be this straightforward,
-  not gonna lie."_
+    not gonna lie."_
 
   "Right, you have a favor to ask her?"
 
