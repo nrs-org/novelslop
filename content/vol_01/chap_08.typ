@@ -394,6 +394,6 @@
 
   Uta nonchalantly replied after a short sigh, before a staff member came to
   their table, asking them to keep things down. The two sat down in
-  embarassment, but regardless, it was going to be a tiring day tomorrow, it
-  seemed.
+  embarassment, but regardless, tommorow was going to be a long day for Mona
+  and her friends.
 ]
