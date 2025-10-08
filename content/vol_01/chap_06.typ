@@ -15,11 +15,11 @@
 
   "You read that too? The show about the little sister of a rock star?"
 
-  "Yeah... It was the best-seller manga of last year, so of course I took a read
+  "Yeah... It was the bestseller manga of last year, so of course I took a read
   of the first chapters..."
 
   "You haven't read the later chapters?" Mikoto shouted in surprise, "That's
-  where all of the peak is from..."
+  where all the peak is from..."
 
   "Well- it's not that I don't want to read it..." Uta replied, "But I just
   don't have much time to read manga right now..."
@@ -28,9 +28,9 @@
   absolute peak Mocchi-chan is..."
 
   "I don't take spoilers, sorry." Uta raised her hand to refuse in a jokingly
-  polite manner, "Anyways, are we getting quite sidetracked here?"
+  polite manner, "Anyway, are we getting quite sidetracked here?"
 
-  "Hmm, oh right! So should we go ask her or not? she would think that we are
+  "Hmm, oh right! So should we go ask her or not? She would think that we are
   only interested in her sister..."
 
   "But isn't it the case, though?"
@@ -56,11 +56,11 @@
 
   "The little sister of Narumi Sena? Who? The girl from that selfie?"
 
-  That nickname she given to one of her future classmates slipped out of her
+  That nickname she had given to one of her future classmates slipped out of her
   mouth when she was talking with Kazugai Uta when they were hanging around,
   one of the few acquaintances of hers that knew who "Narumi Sena" was.
 
-  "It's just a inside joke of mine, haha..." Mikoto laughed, trying to cover up
+  "It's just an inside joke of mine, haha..." Mikoto laughed, trying to cover up
   her lame joke, "Wait, what do you mean by _that selfie_?"
 
   "There was a selfie of hers taken with her little sister. It's quite old
@@ -68,7 +68,7 @@
 
   _"Little sister? She had one?... Wait, could she be?"_
 
-  "Wait, show me that!" Mikoto voice became enthuastic all a sudden, "And do you
+  "Wait, show me that!" Mikoto voice became enthusiastic all a sudden, "And do you
   know what that little sister's name was?"
 
   "Heh-, what's with the sudden change? And no, there was only a little photo."
@@ -109,7 +109,7 @@
 
   The two of them were standing right before the girl's desk.
 
-  _"Now that I had a closer look at her, she really does look like Narumi
+  _"Now that I took a closer look at her, she really does look like Narumi
     Sena. What's her name again? Right, Narumi Mona."_
 
   Narumi Mona really resembled her sisters' looks, but the problem was that she
@@ -117,7 +117,7 @@
   Sena's smiles would never think that this always-so-reserved Narumi Mona would
   be related to her.
 
-  Now that Uta had a up-close look at this girl, she could say with 100%
+  Now that Uta had an up-close look at this girl, she could say with 100%
   certainty that her friend's suspicions were right (it was 99% before).
 
   Her face lit up with excitement. Being able to meet a relative to a pop star
@@ -132,7 +132,7 @@
   Kazugai Uta had been used to initiating conversations with strangers. As a
   consequence, when her friends wanted to make contact with some people they did
   not know, she always became some sorts of third-party between the two. And as
-  a bonus, she would often ended up as acquaintances of the two people who asked
+  a bonus, she would often end up as acquaintances of the two people who asked
   her to initiate contact.
 
   And because so, she had quite a lot of connections. But most of them were
@@ -169,8 +169,7 @@
   her struggles with the history textbook.
 
   Just as Mona finished her almost-incoherent answer, Uta could not hide her
-  excitement. grabbed both of her
-  hands in great delight.
+  excitement. She grabbed both of Mona's hands in great delight.
 
   "You remembered my name? Thank you very much!", Uta grabbed both of Mona's
   hands. On her face was even brighter smile, a smile which could be comparable
@@ -256,7 +255,7 @@
 
   During that time, Uta and Mikoto had traded eye contact a couple of times. Uta
   gave something like "Wait, did I do something wrong?", which was answered by a
-  gaze that communicated "I don't know, what should we do?", followed by a "I
+  gaze that communicated "I don't know. What should we do?", followed by a "I
   don't know" gaze from Uta, disappointed with her friend's uselessness in these
   kinds of tricky social situations.
 
@@ -287,7 +286,7 @@
   After evaluating her aura, Mona took a proper look at the girl. She did give
   Mona a sense of friendliness, which seemed to have a different flavor to that
   of Uta. She had a brown ponytail that was tugged to the back, along with blue
-  gentle eyes. By her posture and gestures, Mona guessed that she endulged a
+  gentle eyes. By her posture and gestures, Mona guessed that she indulged a
   little bit in some form of exercises.
 
   Nevertheless, Mona was still frozen. Realizing how awkward things have become,
@@ -316,7 +315,7 @@
   obscure information that no new fan could get their hands on.
 
   Moreover, according to what Mikoto said, she had been a Narumi Sena fan for
-  quite a long time, much preceeding the magical rise to stardom. She was one of
+  quite a long time, much preceding the magical rise to stardom. She was one of
   a few who followed Sena's SNS account, a small account of an inspiring model
   on some corners of the Internet. In other words, this was her confirmation for
   being an OG.
@@ -345,7 +344,7 @@
   exact same thing. Heck, if it were really Mona, she would not be able to
   gather enough courage to do so, and let this precious chance slip by.
 
-  Without any hesistance, Mona replied,
+  Without any hesitance, Mona replied,
 
   “Okay, I will try to ask her.”
 
@@ -367,14 +366,14 @@
 
   She knew that once they got bored, she would be left alone again.
 
-  And it could not be blamed. All what they cared about was Narumi Sena after
+  And it could not be blamed. All that they cared about was Narumi Sena after
   all, not her gloomy sister who just had a terrible self-introduction Narumi
   Mona.
 
   // #621 approves this line
   // I WAS HERE
   // I WAS FUCKING HERE
-  The warmth of human connections, even fake ones, were enough to fill her heart
+  The warmth of human connections, even fake ones, was enough to fill her heart
   with joy.
 
   So for this fleeting moment, all she wanted was a selfish wish.
