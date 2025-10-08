@@ -34,7 +34,7 @@
   Her sleep lasted an astonishing 10 hours, partly due to her not having a
   complete sleep the night before. Though, for a girl who had used to all sorts
   of terrible sleep schedules, this was only a minor reason. The real cause was,
-  all the unbelievable events that happened in the first day had complately
+  all the unbelievable events that happened in the first day had completely
   drained her social battery.
 
   When she woke up, she had trouble recalling the day, which seemed to
@@ -52,7 +52,7 @@
   Once Mona was able to take a grasp of the situation, she took a brief glance
   around. There were some, no, LOTS of eyes, on her. _"How did I not notice?"_,
   she thought. The girls surrounding her were all clumping together, discussing
-  something while keeping their eyes on her.
+  something while casting their sights on Mona's petite figure.
 
   She felt like she was a creature in a zoo, with her every move being watched
   by at least someone from the audience. _"Wait, is this like this for idols
@@ -169,8 +169,9 @@
   Back when she was in middle school, she had saved a couple of emotes for times
   like these.
   There was an option to carry an user's personal emote list to another device,
-  but Mona forgot (more like did not bother) to do that. In the first place, it
-  was just under a dozen emotes that she stole from her friends' messages. It
+  but Mona forgot (read: did not bother) to do that. In the first place, what
+  she lost were
+  just under a dozen emotes that she stole from her friends' messages. It
   was also worth noting that, until today, she had not been in any situation
   that required her to access that section. Not sure if that was good news or a
   depressing thing to say.
@@ -184,9 +185,9 @@
 
   Mona was worried that her thanks was too polite-coded, but she really meant
   it. After a short while of brainstorming, which was too much effort for a
-  single reply, she sent the message to her friend. If talking to her friend is
-  taking that much effort, just imagine how much time would she spend perfecting
-  her email when she had to apply for a job.
+  single reply, she sent the message to Uta. If indulging in friendly
+  conversations was taking that much effort, just imagine how much time would
+  she spend perfecting her email when she had to apply for a job.
 
   // haha apiss
   Following that message was the bear from the same emote catalog, now laughing
@@ -194,21 +195,29 @@
   less stiff-sounding, but it honestly felt more like a robot trying to be
   human.
 
+  Mona let her phone slide down her hands. Even her smartphone, a device that
+  had been continually giving her energy for the day, was draining whatever that
+  was left. Reluctantly, she opened her textbook out of boredom, supposedly
+  preparing for the upcoming lessons.
+
   Though, the problem at hand remained: the crowd at the classroom door was
   still noisy enough to disturb Mona, even though she was nowhere near them. The
   feeling of being watched persisted, which make her unable to concentrate on
   anything, whether it be scrolling idol social media timeline or reading the
   textbook.
 
+  It was only until a teacher came that the crowd finally dispersed.
+
   ---
 
-  Things became much more messy when lunchtime came. Now that the rumor had
-  spread much further than her classroom, Mona was now engulfed in a crowded
-  swarm of mobs. She even noticed some people intending to return tomorrow
-  because of the sheer size of the crowd in front of her, which means this
-  situattion was not ending soon.
+  Everything became much more messy when lunchtime came. Now that the rumor had
+  spread much further than her small classroom, Mona was now engulfed in a
+  crowded swarm of mobs, questions threw at her at supersonic speed. She even
+  noticed some people intending to return tomorrow because of the sheer size of
+  the horde in front of her, which means that this situation was not ending
+  soon.
 
-  "Mona is really popular, huh? Suddenly being engulfed by all sorts of people
+  "Mona is really popular, huh? Suddenly being surrounded by all sorts of people
   must be tiring for her."
 
   Mikoto and Uta, who just bought some sandwiches for lunch, were eating their
@@ -222,12 +231,15 @@
   was in middle school, and dealing with people had never not been a headache
   for her, especially on crowded days.
 
+  Despite Uta calling this as a mess, she also was fully aware of how
+  addicting this must feel for Mona.
+
   "Maybe we should go and help her... But it's really not something that has to
   do with us..."
 
   Mikoto was looking at the crowd, worryingly. Even from the limited interactions
   with Mona, she knew how bad her friend could be when it came to talking with
-  others, especially when the crowd really did not care about her at all, but
+  others, especially when the crowd had almost zero interest in her at all, but
   rather her sister.
 
   But being surrounded by people do have its perks. You could say anything and
@@ -237,28 +249,39 @@
   sometimes throw out some tiny jokes which really made the crowd burst into
   laughs.
 
-  Despite Uta calling this as a mess, she also was fully aware of how
-  addicting this must feel for Mona.
+  These occasional laughs from the crowd made Mikoto a little bit relieved.
 
   "I think she is enjoying it, though. I messaged her earlier, and I think she
-  was doing fine."
+  was doing fine." Uta unconciously changed the topic with her remark.
 
   "You messaged her already?"
 
   "Yeah, this morning."
 
   Mikoto's eyes were wide open. They traded phone numbers, but she did not
-  expect her friends to be this quick.
+  expect her friend to be this quick at these sorts of things.
 
-  Though, this was nothing for Uta, someone that was so used to texting to other
-  people on her messenging app. Even now, she was texting to some old friend at
-  middle school, with the topic being how their first days of high school were
-  going.
+  Once Mikoto composed herself, she realize that her friend Uta was nothing
+  short of a socializing monster. What a way to put it, huh. As the name
+  suggested, this kind of thing was nothing for Uta, someone that was so used to
+  texting to other people on her messenging app. Her parents repeatedly scolded
+  her for being addicted to her smartphone, but honestly that was just because
+  she was so busy texting her friends.
+
+  Mikoto glared at her friend's phone. Even now, Uta was texting to some old
+  friend at middle school, with the topic being how their first days of high
+  school were going.
 
   "Let me see it!"
 
-  Mikoto became fired up all of a sudden. With a defeated look on her face, she
-  looked like a runner who was just outran by her opponent.
+  "Hey, can you see I'm busy right now?"
+
+  Uta looked up to see her friend becoming fired up all of a sudden. With a
+  defeated look on her face, Mikoto looked like a runner who was just outran by
+  her opponent.
+
+  "Texting is not a job, y'know." Mikoto tried to grab the phone from her
+  friend.
 
   "Hey... direct messages are a personal thing, you know?" Uta pulled the phone
   to her chest. Knowing how physical her friends always took things to, she
