@@ -1,1 +1,3 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSo that you could realize the\nabsolute peak Mocchi-chan is...\"\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Another 'Please tell Narumi Mona this this that that', can you give me a\nbreak!\"\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHad she become a robot whose could not mutter a single original thought?\\E$"}

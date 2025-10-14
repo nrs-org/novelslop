@@ -72,7 +72,7 @@
   // She took a brief look around. There were some girls clumped together,
   // definitely looking at her.
 
-  Embarassed by the whole ordeal, she rushed to change her shoes, as quick as
+  Embarrassed by the whole ordeal, she rushed to change her shoes, as quick as
   possible to leave the scene. Mona tried not to act too suspicious, just to be
   no less shady than a killer fleeing from the crime scene.
 
@@ -96,13 +96,15 @@
   seats. It was a shame that Mona's seat was so far from the two, whose seats
   were right stacked on each other.
 
-  _"Wait, since I'm all the way here, am I supposed to be the one coming to
+  _"Wait, since my seat's all the way here, am I supposed to be the one coming to
     their seats if we want to talk?"_
 
   The lingering feeling of being surrounded by people in the first day led her
   to a false conclusion. She was not a princess who could sit at her place and
   expect her friends to come over. If she really wanted to talk to the Mikoto
   and Uta, she ought to approach them and start a conversation by herself.
+
+  However, it was Mona we are talking about.
 
   _"I couldn't do that!"_
 
@@ -114,8 +116,8 @@
   taking out textbooks and whatnot. More importantly, they seemed to not notice
   the crowd looking at Mona, however. She felt relieved, since she did not want
   them to know about her problems, but at the same time, she wondered whether
-  they were really friends to her, when she did not want them to know about her
-  problems.
+  they were really friends to her, when she was hesitant sharing her own worries
+  to them.
 
   Just as Mona was reminded of the issues at hand, she sensed a vibration on her
   phone.
@@ -123,19 +125,19 @@
   _Uta: Mona, there are some people staring at you while discussing something,
     y'know them?_
 
-  Mona received a message from an user named "Uta". _"Was this app's
+  Mona received a message from a user named "Uta". _"Was this app's
     notifications always look like this, I wonder?"_ her thoughts sounded
   exactly like the inner thoughts of someone who have barely touched this
   particular messaging app. Once she realized that this "Uta" was exactly the same
   "Uta" who she had just greeted, she let out a loud scream (in her head). It
-  was then when she was reminded of what happened at the fastfood restaurant
+  was then when she was reminded of what happened at the fast food restaurant
   yesterday.
 
-  After the three of them finished their "after-school meal", again, whatever
-  that might mean, Mona and her friends went to the stall to pay. In an era
-  where wire transfer was the norm, the three girls simultaneously took out
-  their phone to open their banking app, and Uta was reminded of something she
-  should have remembered much sooner.
+  Back at the food stall, after the three of them finished their "after-school
+  meal", again, whatever that might mean, Mona and her friends went to the stall
+  to pay. In an era where wire transfer was the norm, the three girls
+  simultaneously took out their phone to open their banking app, and Uta was
+  reminded of something she should have remembered much sooner.
 
   "I forgot! Mona! Do you have a MINE account?"
 
@@ -143,22 +145,24 @@
     event? My very first contact in high school..."_
 
   "Right! I did not ask for Mona's contact too. Mona! Would you be so kind to
-  add me on MINE?" Mona screamed, which attracted attention from the other
-  customers. In the first place, if she was going to do something embarassing,
+  add me on MINE?" Mikoto screamed, which attracted attention from the other
+  customers. In the first place, if she was going to do something embarrassing,
   the worst place to do it was in front of the cashier.
 
   The cashier girl, who was the same person who had to let their voices down
   earlier, grinned with a clear frustration on her face. Noticing the menacing
-  look, Mikoto bowed down and quietly apologized.
+  look, Mikoto bowed down and quietly apologized for causing such a commotion.
 
   Once Mikoto finished apologizing, she found her two friends already complete
-  exchanging contacts. "No fair! You two did it while I have to say sorry!" she
-  screamed in a quiet voice, no matter how contradicting that might be like.
+  exchanging contacts. "No fair! You two did it while I have to apologize!" she
+  screamed in a quiet voice. It sounds kind of contradictory, but it was
+  really how her voice were like.
 
   After recalling the aftermath of her hanging out with her friends the day
   before, Mona finally processed the content of the message, while
-  trying to recall anything else that happened on the same day. _"God! I swear
-    if there is still anything important else that happened yesterday!"_
+  brawling her brain out, trying to recall any details that happened on the same
+  day. _"God! I swear if there is still anything important else that happened
+    yesterday!"_
 
   // honeyworks tribute?
   Following Uta's message was an emote of a cute bear, seemingly clueless with a
@@ -168,13 +172,13 @@
 
   Back when she was in middle school, she had saved a couple of emotes for times
   like these.
-  There was an option to carry an user's personal emote list to another device,
+  There was an option to carry a user's personal emote list to another device,
   but Mona forgot (read: did not bother) to do that. In the first place, what
   she lost were
   just under a dozen emotes that she stole from her friends' messages. It
   was also worth noting that, until today, she had not been in any situation
-  that required her to access that section. Not sure if that was good news or a
-  depressing thing to say.
+  that required her to access that section. Not sure if that was good news or
+  just another depressing aspect of her life.
 
   Uta's message left Mona with a mix of embarrassment and reassurance.
   Regardless, she had to figure out something to reply to her friend, as the
@@ -185,9 +189,13 @@
 
   Mona was worried that her thanks was too polite-coded, but she really meant
   it. After a short while of brainstorming, which was too much effort for a
-  single reply, she sent the message to Uta. If indulging in friendly
-  conversations was taking that much effort, just imagine how much time would
-  she spend perfecting her email when she had to apply for a job.
+  single reply, she sent the message to Uta.
+
+  If indulging in friendly conversations was taking that much effort, just
+  imagine how much time would she spend perfecting her email when she had to
+  apply for a job. Yeah, can totally imagine, she would procrastinate against
+  pressing the send button, before letting her ADHD take over and move on to the
+  next thing. Let's hope that she would not have missed the deadline entirely.
 
   // haha apiss
   Following that message was the bear from the same emote catalog, now laughing
@@ -200,11 +208,19 @@
   was left. Reluctantly, she opened her textbook out of boredom, supposedly
   preparing for the upcoming lessons.
 
-  Though, the problem at hand remained: the crowd at the classroom door was
-  still noisy enough to disturb Mona, even though she was nowhere near them. The
-  feeling of being watched persisted, which make her unable to concentrate on
-  anything, whether it be scrolling idol social media timeline or reading the
-  textbook.
+  "Today we are solving quadratic equations huh- I gotta memorize the formula..."
+
+  She mumbled the formula over and over again, as a way to escape the school
+  politics that had been draining every last ounce of energy. Her voice grew
+  monotone, and it would not be a surprise if some passerby mistook her for a
+  zombie.
+
+  Nevertheless, despite how much she wanted to escape from the never-ending gaze
+  from the front door, the crowd that was there continued to make her
+  uncomfortable. She turned on her phone screen to check the time, prayed to God
+  for time to pass by a little quicker, and then stole a quick glance at the
+  troublemakers. _"Wait, not only weren't they leaving, but there are more
+    people than before?"_
 
   It was only until a teacher came that the crowd finally dispersed.
 
@@ -220,9 +236,11 @@
   "Mona is really popular, huh? Suddenly being surrounded by all sorts of people
   must be tiring for her."
 
-  Mikoto and Uta, who just bought some sandwiches for lunch, were eating their
-  light meal. They had to experience the insane crowd surrounding their new
-  friend, who, surprisingly, was still fine with the sudden development.
+  Mikoto and Uta, who just returned to class after buying some sandwiches for
+  lunch, were eating their light meal. They were planning to have lunch with
+  Mona, but were flabbergasted by the insane crowd surrounding their friend.
+  The most surprising thing, however, was the fact that Mona was still holding
+  on with the sudden development.
 
   "Right. I hope this mess could clean itself up soon."
 
@@ -231,8 +249,8 @@
   was in middle school, and dealing with people had never not been a headache
   for her, especially on crowded days.
 
-  Despite Uta calling this as a mess, she also was fully aware of how
-  addicting this must feel for Mona.
+  // As the painful memories came back to her, Uta pressed against her head to
+  // disperse everything quickly.
 
   "Maybe we should go and help her... But it's really not something that has to
   do with us..."
@@ -242,29 +260,41 @@
   others, especially when the crowd had almost zero interest in her at all, but
   rather her sister.
 
-  But being surrounded by people do have its perks. You could say anything and
+  Despite Uta calling this as a mess, she was fully aware of how
+  addicting this must feel for Mona.
+
+  Being surrounded by people do have its perks. You could say anything and
   the crowd would still listen to you, treating your words like gospel.
   And it's not like that they were some kind of mindless drones that obey
-  orders, they were really interested in what Mona had to say! Mona would
-  sometimes throw out some tiny jokes which really made the crowd burst into
-  laughs.
+  orders, they were really interested in what you had to say!
+
+  See! The crowd just burst into laughs after Mona successfully threw out a tiny
+  joke that actually landed well.
 
   These occasional laughs from the crowd made Mikoto a little bit relieved.
 
   "I think she is enjoying it, though. I messaged her earlier, and I think she
-  was doing fine." Uta unconciously changed the topic with her remark.
+  was doing fine." Uta unconsciously changed the topic with her remark.
+
+  Immediately following her comment, she took the final bite of her lunch,
+  while Mikoto's sandwich was basically in the same state as it was purchased.
+
+  And it seemed like Mikoto would not open that sandwich bag for a while.
 
   "You messaged her already?"
 
   "Yeah, this morning."
 
-  Mikoto's eyes were wide open. They traded phone numbers, but she did not
-  expect her friend to be this quick at these sorts of things.
+  Mikoto's eyes were wide open, as opposed to the ever-nonchalant Uta who was
+  messaging on her phone. She knew they traded phone numbers, but she did not
+  expect her friend to be this quick at these sorts of things. Well it was Uta,
+  but even this was far beyond her imagination.
 
-  Once Mikoto composed herself, she realize that her friend Uta was nothing
-  short of a socializing monster. What a way to put it, huh. As the name
+  Once Mikoto composed herself, she realized that her friend Uta had been called
+  some sorts of a socializing monster in middle school.
+  What a way to put it, huh. As the name
   suggested, this kind of thing was nothing for Uta, someone that was so used to
-  texting to other people on her messenging app. Her parents repeatedly scolded
+  texting to other people on her messaging app. Her parents repeatedly scolded
   her for being addicted to her smartphone, but honestly that was just because
   she was so busy texting her friends.
 
@@ -276,9 +306,10 @@
 
   "Hey, can you see I'm busy right now?"
 
-  Uta looked up to see her friend becoming fired up all of a sudden. With a
-  defeated look on her face, Mikoto looked like a runner who was just outran by
-  her opponent.
+  Uta looked up to see her friend becoming fired up all of a sudden. Her
+  expression was like "I was well-ahead of my opponent on a racetrack, but that
+  girl somehow accelerated and left me in the dust!" Honestly Uta could not
+  fathom how she even read that in the first place.
 
   "Texting is not a job, y'know." Mikoto tried to grab the phone from her
   friend.
@@ -300,9 +331,9 @@
 
   "Wha- How come?"
 
-  "Do you know the first rule of instant messaging: If someone sends you a
-  emote, you has to reply with an emote too. Mona probably had nothing to reply,
-  so she had to hastily find a emote within the same catalog to reply to you..."
+  "Do you know the first rule of instant messaging: If someone sends you an
+  emote, you have to reply with an emote too. Mona probably had nothing to reply,
+  so she had to hastily find an emote within the same catalog to reply to you..."
 
   "Hmm- That makes sense. Though what is that 'first rule of instant messaging'?
   // yoooo schtein reference
@@ -323,7 +354,7 @@
   Recently, Uta was starting to lose touch with the idols she followed, but
   missing a post from Anna-san definitely was an ominous sign. Anna-san was one
   of the top idol in the industry, who became popular for being the "introverted
-  idol", making her able to deeply resonate with with people who had trouble
+  idol", making her able to deeply resonate with people who had trouble
   in socializing. Her charms were even effective to Uta, someone who was the
   literal opposite of her general audience.
 
@@ -338,19 +369,24 @@
   glasses, braided black hair, and a voice that screams "I can't raise my voice
   to attract others!" or so, if it could scream in the first place.
 
-  "You know Narumi-san, right?"
+  "You know Narumi-san, right? I have a favor to ask..."
 
   _"Wow, straight to the point. Did not expect her to be this straightforward,
     not gonna lie."_
 
-  "Right, you have a favor to ask her?"
+  "Right, what would you want to ask her?"
 
   "Uhm... She's quite packed right now, so when she's available..." the girl
   stuttered, "Can you ask her for a Narumi Sena signature?"
 
   The girl finally finished spelling out her request.
 
-  "Okay, I will let her know. Ah, right! You should add me on RINE, I could give
+  _"Knew it."_
+
+  The thought surfaced from both Mikoto and Uta's inner monologue in the exact
+  same moment.
+
+  "Okay, I will let her know. Ah, right! You should add me on MINE, I could give
   you updates there!"
 
   Uta then handed out the QR code containing her contacts. The girl, initially
@@ -359,12 +395,14 @@
 
   "Well, excuse me..."
 
-  The girl bowed down and returned to her seat. Right afterwards, Uta felt a
+  The girl bowed down and returned to her seat. Right afterward, Uta felt a
   sensation from her smartphone: a "Thank you so much" sticker from the girl.
+  The girl must have been too shy to properly thank Uta when she left, it
+  seemed. Well, all was good now that she sent that message.
 
   "How smooth." Mikoto glared at the phone.
 
-  "What do you mean?"
+  "What do you mean?" Uta feigned ignorance.
 
   "I forgot that you are always fast with this kind of thing. You were also the
   one who suggested sharing contacts yesterday too."
@@ -377,9 +415,13 @@
 
   "Kazugai-san, could you please ask Narumi-san for a signature for us too?"
 
-  It seemed like they noticed Uta helping out the girl earlier, so they were
-  going here for the exact same thing.
+  It seemed like these girls noticed Uta helping out the girl earlier, so they
+  were going here for the exact same thing.
 
-  Uta was truly living in the Digital Age, where information flows at the
-  speed of light.
+  It was then when Mikoto realized that she was living in the Digital Age, where
+  information flows at the speed of light.
+
+  Even so, it was just another regular day for Uta, with a little bit more
+  spice, at most. But what both of them did not know was that spices sometimes
+  could be the soul of a whole meal.
 ]
