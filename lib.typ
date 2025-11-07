@@ -18,9 +18,17 @@
 
   #content
 ]
-#let chapter(num, title, content) = [
-  == Chapter #num: #title
+#let chapter(num, title, content, prefix: "Chapter") = [
+  #if num != none {
+    num = [ #num]
+  }
+  == #prefix#num: #title
   #if debug-mode [_Word count: #count-words(content)_]
 
   #content
 ]
+
+#let extra-chapter(num, title, content) = chapter(num, title, content, prefix: "Extra chapter")
+
+#let prologue(title, content) = chapter(none, title, content, prefix: "Prologue")
+#let epilogue(title, content) = chapter(none, title, content, prefix: "Epilogue")

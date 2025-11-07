@@ -1,6 +1,6 @@
 #import "lib.typ": volume
-#set text(lang: "en")
-#set page(paper: "a5", numbering: "1")
+#set text(lang: "en", size: 11pt)
+#set page(paper: "jis-b6", numbering: "1")
 #align(center, [
   #text(size: 1.5em)[
     *Hokori Takaki Idol: The Prologue*
@@ -10,6 +10,8 @@
   novel volumes. Illustrations are currently not available.
 ])
 #outline()
+
+#pagebreak()
 
 #volume(1)[
   #include "content/vol_01/chap_01.typ"
@@ -31,5 +33,12 @@
   #include "content/vol_01/chap_17.typ"
   #include "content/vol_01/chap_18.typ"
   #include "content/vol_01/chap_19.typ"
+  #include "content/vol_01/extra_chap.typ"
+  #include "content/vol_01/afterwords.typ"
 ]
 
+#pagebreak()
+
+#volume(2)[
+  #include "content/vol_02/prologue.typ"
+]

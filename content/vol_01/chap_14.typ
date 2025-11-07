@@ -1,31 +1,35 @@
 #import "../../lib.typ": chapter
 
+// suicidio capitulo
 #chapter(14, "Sunset at the running tracks")[
   "And here is the Student Council Office."
 
-  The Student Council Office was a small room that marked the end of the
-  fifth-floor hall, which also means that the three girls had checked out every
-  cultural clubs there was. They were all overwhelmed by the extent of the club
-  activities, and realized that none of them could just join a club "for fun".
-  Unlike their carefree selves, the members of the clubs they visited were all
-  serious with what they were doing.
+  The Student Council Office marked the end of the fifth-floor hall, which also
+  means that the three girls had checked out every cultural clubs there was.
+  They were all overwhelmed by the extent of the club activities, and realized
+  that none of them could just join a club "for fun". Unlike their carefree
+  selves, the members of the clubs they visited were all serious with what they
+  were doing.
 
-  "Phew, finally we visited every club there is! Time to go home!"
+  "Phew, finally we visited every club there is! Time to go home!" Uta folded
+  her arms behind her head, in a motion iconic to that of a "going-home club"
+  member.
 
   "We are not done, Uta!" Mikoto, clearly tired from Uta's antics, fumed, "We
   are checking the sports clubs next."
 
   "But sports clubs here are not something you can take lightly, right?" Uta
-  replied, "There is no way they would let me join, let alone Mona."
+  frustratingly replied, "There is no way they would let me join, let alone Mona."
 
   Sports clubs were even more strict than cultural clubs, since they had to
   participate in regional tournaments and get results to keep going. If Mona
-  remembered correctly, the Student Council President was mentioning shutting
-  down a couple of clubs that had no mentionable achievements in recent years,
-  with a questionable focus on sports clubs, for whatever reason.
+  remembered correctly, the Student Council President during yesterday's morning
+  speech was mentioning shutting down a couple of clubs that had no mentionable
+  achievements in recent years, with a questionable focus on sports clubs, for
+  whatever reason.
 
   However, what caught Mona by surprise was that she was mentioned by Uta.
-  She let out a small "heh?" as a response.
+  She let out a small "heh?" as a response. Both her friends caught on to that.
 
   "What are you saying to poor little Mona?" Mikoto snapped, "What do you mean
   by 'let alone'?"
@@ -35,7 +39,12 @@
 
   Uta apologized with a bow, which Mona quickly accepted with an "it's okay".
 
-  "But, Uta's right, I'm not athletic enough to get into a sports club..."
+  "But, Uta's right, I think I'm not athletic enough to get into a sports
+  club..."
+
+  Mikoto took a quick look at Mona's limbs. They were not that skinny,
+  definitely in better shape than that of a malnourished girl, but totally not
+  enough for any competitive club.
 
   "Haizz..." Mikoto let out a sigh, "Okay, we are just going to the tracks
   team, then..."
@@ -45,7 +54,8 @@
   "Mikoto was thinking of joining the tracks team, since she has been running
   since middle school." Uta explained.
 
-  "Oh, you did mention it when we first talked..."
+  "Oh, you did mention it when we first talked... Yesterday at the dining place
+  too."
 
   Mona recalled that Mikoto mentioned running on the her first day at school.
   If she could remember correctly, it was something like her sister gave Mikoto
@@ -88,9 +98,9 @@
   students, chatting while fidgeting with their phones.
 
   Mikoto, for some unknown reasons, was acting weird. She was no longer as
-  talkative as she had been this afternoon once they entered the stadium.
-  Mona remembered that her friend had been acting this way some time earlier,
-  but she could not remember exactly when.
+  talkative as she had been this afternoon, kept glancing back and forth, and
+  even her expression displayed a sense of nervousness. Mona first noticed this
+  when the three entered the stadium.
 
   "I'm scared... What if they wouldn't accept me..."
 
@@ -98,10 +108,12 @@
   what she heard, a girl from the club noticed Mona's friend group approaching.
 
   She was typing something on her phone, before taking a quick look up to see
-  Mona and her friends. Realizing that their presence was finally noticed,
-  Uta sighed, before speaking up in part of Mikoto.
+  Mona and her friends. Mikoto was getting goosebumps, _"wait, was she _that_
+    nervous?"_, Mona thought. It seemed that Uta had also noticed that, so she
+  sighed, before speaking up in part of Mikoto.
 
-  "Excuse me, we are here to check out the club..." Uta shouted.
+  "Excuse me, we are here to check out the club..." Uta shouted. It was not
+  loud, but enough for the group to fully notice them.
 
   "Wow, new members? Are we for real?" A girl stood up, seemingly shocked by
   the arrival of Mona's group, then shouted loudly, "Hina! You got some new
@@ -128,40 +140,54 @@
   "Senpai, well, my friend is interested in joining the club." Uta replied, then
   hit Mikoto with her elbow, "Hey, Mikoto, introduce yourself."
 
-  "Ah- good afternoon, senpai, my name is Nanba Mikoto..." Mikoto clumsily
-  stringed the words in her mind, "I've been running since middle school, so
-  would it be alright if I join the club..."
+  "Ouch- good afternoon, senpai, my name is Nanba Mikoto, a first year..."
+  Mikoto clumsily strung the words in her mind, "I've been running since
+  middle school, so would it be alright if I join the club..."
 
-  Uta chuckled at her friend's inability to speak basic words, and immediately
-  was given a glaring look from that friend. It was something that communicated
-  "I'll remember this, you b*tch".
+  Mikoto looked downwards, then glanced up, trying to avoid the curious eyesights
+  of her senpai. Their eyes met, and Mikoto immediately directed her gaze
+  elsewhere. It was like a confession from a romance anime.
+
+  Uta chuckled at her friend's inability to speak basic words, and was instantly
+  given a glaring look from that friend. It was something that communicated
+  "I'll remember this, you bitch".
+
+  Nevertheless, as Mikoto was owing Uta many favors, her glare remained
+  primarily a bluff. Knowing this, Uta was about to provoke Mikoto even more,
+  but she felt like this was enough.
 
   The senpai would then let out a quiet giggle,
 
-  "Well, of course it's alright!"
+  "Well, of course it's alright! You're more than welcome!"
 
-  Her face was beaming with a smile as if she was the sun.
+  // lol
+  Her face was beaming with a smile as if she was the sun. Under the afternoon
+  glow, the drops of sweat on her face glittered, like marbles inside a bottle
+  of marble soda.
 
-  "Really? Is there some sorts of entrance test I must take beforehand?"
+  If one was asked what "youth" is, this might have been the answer, Mona
+  thought.
+
+  "Really? Are there some sorts of entrance test I must take beforehand?"
 
   "Entrance test? What do you mean?"
 
   "Something like 'if you can't run 100m in 20 seconds, then we won't let you
-  join the club'..." Mikoto hesitantly paused, "Or maybe I'm not qualified and
+  join the club'..." Mikoto hesitantly paused, "Or maybe I'm not qualified, and
   you are just trying to make me feel less bad?"
 
-  Mikoto's face looked like it was about to burst into tears.
+  Now, her face looked like it was about to burst into tears.
 
-  "Relax, relax!" The senpai worriedly said, "I said, there is no such thing
-  here!"
+  "Relax, relax!" The senpai troubledly said as she shook her hands, as well as
+  the worries in Mikoto's mind, "I said, there is no such thing here!"
 
   "Really?"
 
-  "Right!"
+  "Right! No such things here at all!" The senpai screamed.
 
   "You're not taking me in because I'm about to cry?"
 
-  "No, it's not because of that!"
+  "No, it's not because of that!" She screamed even louder.
 
   Mikoto finally breathed a sigh of relief, while Uta almost let out her
   giggles. Noticing her friend's expression, Mikoto sent her yet another
@@ -173,7 +199,7 @@
   meet you." Hina redirected her gaze to the whole group, "You girls are all
   first years, right?"
 
-  "Right!" The three girls all replied in unison.
+  "Right!" The three girls all replied in unison, yet with different tones.
 
   "So, Mikoto-chan, you want to join the club right? I can give you a form to
   fill in, and you can turn in to the school office to officially join the club."
@@ -185,34 +211,36 @@
 
   "Okay, Seto- Hina-senpai!"
 
-  "Good girl!" Hina said with a cheerful expression on her face, "Now, it's
-  getting quite late, so let's all go home, shall we?"
+  "Good girl!" Hina said with a cheerful expression on her face, "Now, the form
+  is in the teacher's office, but it's getting quite late, so let's all go home,
+  shall we? I will fetch it for you tomorrow, Mikoto-chan!"
 
-  "Yay, we're going home early, finally!"
+  "Yay, we're going home early, finally!" A girl shouted.
 
   Everyone was like waiting for this exact moment to get up and packing their
-  stuff, which made the girls reacknowledge the presence of other girls in the
-  club aside Hina. Aside from calling Hina over, they had been doing absolutely
-  nothing except chatting and playing with their phones. Furthermore, unlike Hina,
-  they had
-  not even changed their clothes to a sport uniform, which meaned they had no
-  intentions of doing anything athletic.
+  stuff, which made the girls reacknowledge the existence of other girls in the
+  club aside Hina. That reminded them. Aside from calling Hina over, these girls
+  had been doing absolutely nothing except chatting and playing with their
+  phones, even making the most basic greetings to potential new members of the
+  club. Even more so, unlike Hina, they had not even changed their clothes to a
+  sport uniform, which meant they had no intentions of doing anything athletic
+  for the whole session.
 
   "Do you have any further questions?" Hina asked the girls with the usual
   smile.
 
   "Uhm, no..." Mikoto hesitantly replied.
 
-  She wanted to ask about the other members, but she realized that it was
-  probably a sensitive topic.
+  She wanted to ask about what roles the other members could possibly serve,
+  but she realized that it was probably a sensitive topic.
 
   "Well, I'm going to the changing room to pick up some things, you girls be
   sure to get home safely!"
 
-  Hina picked up her bag to walk towards the changing room in the stadium, while
-  the other seniors in the club had finished packing up everything and ready to
-  go home. They were all chatting something, which Mikoto could not make sense
-  of.
+  Hina picked up her bag to walk towards the changing room in the stadium, which
+  was located on the opposite side of the stadium. Meanwhile, the other seniors
+  in the club had finished packing up everything and ready to go home. They were
+  all chatting something, which Mikoto could not make sense of.
 
   But, for a brief moment, when they walked past her, she could hear something.
 
@@ -224,9 +252,10 @@
 
   Mikoto glanced back to see the figures of her seniors, slowly fading into the
   // RAHHHHH SUNGLOW MENTIONED https://osu.ppy.sh/beatmapsets/1193588#osu/2486881
-  sunglow. "What does they mean by 'Hina 2.0'?" - was all that she was thinking.
+  sunglow. "What could they possibly mean by 'Hina 2.0'?" - was all that she was
+  thinking.
 
-  "Mikoto, are you coming home with us?" Uta called her over.
+  "Mikoto, are you coming home with us?" Uta called over.
 
   "Wait for me!" Mikoto hastily picked up her bag to chase after her two
   friends, who had almost left the field.
@@ -235,14 +264,15 @@
   // also cac con gai da chao me chua
   // chua a? quas tucj
   With everyone leaving, all that was left was a figure, menacingly standing on
-  the stands, looking
-  straight to the disbanding group of female students from the Track and Field
-  team. The girl, with her long black ponytails that lightly swayed in the winds,
+  the stands, looking straight to the dissolving group of female students from
+  the Track and Field team.
+
+  A girl, with long black ponytails that lightly swayed in the winds,
   mumbled, yet in a clear and decisive tone,
 
   // con chao me
   // me kiet NOT from temu
   "I swear that I will bring you back to the place you belong, Setoguchi Hina."
 
-  Right afterwards, the girl promptly walked away into the twilight.
+  Once finished, the girl promptly turned back, walking away to the sunset.
 ]

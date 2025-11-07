@@ -1,3 +1,13 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSo that you could realize the\nabsolute peak Mocchi-chan is...\"\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Another 'Please tell Narumi Mona this this that that', can you give me a\nbreak!\"\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHad she become a robot whose could not mutter a single original thought?\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Uhm- thank you too!\"\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Information Technology Club\"\n\"Woah- this one sounds more interesting.\"\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Ouch- good afternoon, senpai, my name is Nanba Mikoto, a first year...\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Okay, Seto- Hina-senpai!\"\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Let's see... 'Uhm- that's right.'\\E$"}
+{"rule":"Y_ALL","sentence":"^\\Q\"More like y'all STOP DOOMPOSTING AND JUST LET ME FOCUS ON THE WORK.\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Huh- really?\"\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Hmm- maybe I should go to a smaller karaoke shop with Mona and Mikoto...\\E$"}
+{"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Hmm- This girl is really cute, so she must be nice!\"\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qand Ave Mujica, Girls Band\nCry, Jellyfish Can't Swim in the Night, Happy Sugar Life and Takopii no\nGenzai.\\E$"}
