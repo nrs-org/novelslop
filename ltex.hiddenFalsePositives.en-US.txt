@@ -11,3 +11,5 @@
 {"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Hmm- maybe I should go to a smaller karaoke shop with Mona and Mikoto...\\E$"}
 {"rule":"EN_SPLIT_WORDS_HYPHEN","sentence":"^\\Q\"Hmm- This girl is really cute, so she must be nice!\"\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qand Ave Mujica, Girls Band\nCry, Jellyfish Can't Swim in the Night, Happy Sugar Life and Takopii no\nGenzai.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"So according to you, pandoraviruses are bigger than mycoplasmas, right.\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"So according to you, pandoraviruses are bigger than mycoplasmas, right?\"\\E$"}

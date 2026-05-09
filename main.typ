@@ -41,4 +41,6 @@
 
 #volume(2)[
   #include "content/vol_02/prologue.typ"
+  #include "content/vol_02/chap_01.typ"
 ]
+

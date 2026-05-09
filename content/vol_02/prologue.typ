@@ -174,7 +174,7 @@
   the awkward silence like the last day.
 
   I swear to God! If you are listening, then please engrave these lines to your
-  heart, and punish the humble me if I dare to go back on my words tommorrow.
+  heart, and punish the humble me if I dare to go back on my words tomorrow.
 
   // ai koto4
   // LÁO VÃI L**

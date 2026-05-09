@@ -32,3 +32,5 @@
 
 #let prologue(title, content) = chapter(none, title, content, prefix: "Prologue")
 #let epilogue(title, content) = chapter(none, title, content, prefix: "Epilogue")
+
+#let skip = align(center)[#sym.star.stroked#sym.star.stroked#sym.star.stroked]
