@@ -22,6 +22,7 @@
             nixd
             nixfmt
             tinymist
+            uv
           ];
         };
       }

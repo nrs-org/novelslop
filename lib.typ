@@ -1,4 +1,4 @@
-#let debug-mode = true
+#let debug-mode = sys.inputs.at("debug-mode", default:"true") == "true"
 
 #let count-words(it) = {
   let fn = repr(it.func())
