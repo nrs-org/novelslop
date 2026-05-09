@@ -9,7 +9,7 @@ Hop on AO3, this is mainly a place for me to write. There is some extra content
 here, but not much.
 
 **AI usage disclaimer**: I come from a CS/IT background where AI (more
-specifically, attention-based LLMs like ChatGPT) usage is prevalent, so this
+specifically, transformer-based LLMs like ChatGPT) usage is prevalent, so this
 novel is in no way AI-free. However, AI usage is limited to only very basic
 stuff (that a search engine can mostly do):
 - Synonym/Opposite words searching
